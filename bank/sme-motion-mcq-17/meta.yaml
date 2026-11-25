@@ -1,0 +1,30 @@
+id: sme-motion-mcq-17
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: supplement
+marks: 1
+difficulty: 2
+answer: A
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 26
+  - 27
+  question_no: '8'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'A: a = (5.7 - 4.1)/(3.0 - 2.0) = 1.6 m/s^2.'
+notes: SME labels this Extended tier only.
+text: Medium Q8. An athlete runs a 100 m race in a straight line. The table shows how his speed changes
+  with time for the first 5.0 s of the race. speed m/s 0, 1.7, 4.1, 5.7, 6.5, 6.8; time/s 0, 1.0, 2.0,
+  3.0, 4.0, 5.0. What is the average acceleration of the athlete between time 2.0 s and time 3.0 s? A
+  1.6 m/s^2 B 1.9 m/s^2 C 4.9 m/s^2 D 5.7 m/s^2

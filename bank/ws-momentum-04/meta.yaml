@@ -1,0 +1,34 @@
+id: ws-momentum-04
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+tier: supplement
+marks: 5
+difficulty: 2
+parts:
+- label: a
+  marks: 1
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 2
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 9
+  question_no: '4'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a) mass x velocity (b)(i) 0.046 x 41 = 1.9 N s (ii) F = 1.9/5.0e-4 = 3800 N
+notes: Printed Cambridge number '1' cropped away; worksheet mark scheme numbers it 4 (Golf).
+text: |
+  Fig. 2.1 shows a golfer about to hit a golf ball; initial momentum of the ball is zero. (a) Define momentum.
+  (b) Club in contact with ball for 5.0 x 10^-4 s; ball leaves at 41 m/s; mass 0.046 kg. (i) Calculate the impulse on
+  the golf ball. (ii) Calculate the force applied to the ball by the golf club.

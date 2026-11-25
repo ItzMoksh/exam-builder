@@ -1,0 +1,30 @@
+id: sme-motion-mcq-11
+course: ig9-physics
+type: mcq
+status: draft
+problem: Option B is blank in the Save My Exams PDF. Fix or retype option B before use.
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: A
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 18
+  question_no: '2'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms-1.png
+  - ms-2.png
+markscheme_text: 'A: distance = area under speed-time graph = triangle = 1/2 x 6.5 x 8.0 = 26 m.'
+notes: 'Source defect: option B is blank in the SME PDF. Answer A is unaffected, but fix or replace option
+  B before using in a paper.'
+text: Medium Q2. The graph shows the journey undertaken by a car (speed-time graph, triangle). Which equation
+  correctly gives the distance travelled by the car? A (6.5 x 8.0)/2 = 26 m B (blank in source) C 6.5/8.0
+  = 0.81 m D 8.0/6.5 = 1.2 m

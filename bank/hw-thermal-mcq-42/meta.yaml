@@ -1,0 +1,24 @@
+id: hw-thermal-mcq-42
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.2.3
+tier: core
+marks: 1
+difficulty: 1
+answer: D
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 22
+  question_no: '42'
+  site: unknown
+images:
+  question:
+  - q.png
+text: 'A beaker of liquid on a bench with an electric fan causing a draught; the liquid evaporates. Which
+  row shows two changes (surface area of the liquid, speed of fan: increase/decrease) that both make it
+  evaporate more quickly?'

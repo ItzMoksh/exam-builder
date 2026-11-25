@@ -1,0 +1,28 @@
+id: sme-motion-mcq-10
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: D
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 17
+  question_no: '1'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: 'D: average speed = (10.0 + 3.0) / (6.0 + 3.0) = 1.44 km/min.'
+notes: 'Source defect: options C and D print only ''= 2.67 km/min'' and ''= 1.44 km/min'' without the
+  calculation (explanation says C is the sum of the two speeds, D is 13.0/9.0).'
+text: Medium Q1. A car travels along a clear 10.0 km section of motorway in 6.0 minutes. It then drives
+  through 3.0 km of roadworks in 3.0 minutes. Which calculation will give the correct average speed for
+  the journey? A 3.0/3.0 = 1.00 km/min B 10.0/6.0 = 1.67 km/min C = 2.67 km/min D = 1.44 km/min

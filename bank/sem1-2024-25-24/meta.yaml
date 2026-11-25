@@ -1,0 +1,35 @@
+id: sem1-2024-25-24
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+- 1.7.1
+tier: supplement
+marks: 8
+difficulty: 3
+parts:
+- label: a
+  marks: 2
+- label: b
+  marks: 3
+- label: c
+  marks: 3
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 14
+  - 15
+  question_no: '4'
+  origin: 0625/43/O/N/23 Q3
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  Fig. 3.1 shows a boy throwing a ball at an object in a fairground. The ball has a mass of 190 g and travels horizontally with a constant speed of 6.9 m/s.
+  (a) Calculate the momentum of the ball. [2]
+  (b) After hitting the object, the ball bounces back along the same straight path with a speed of 1.5 m/s. The object has a mass of 1.8 kg. Calculate the speed of the object after it is hit by the ball. [3]
+  (c) The kinetic energy of the ball is 4.5 J before the collision and 0.2 J after the collision. Calculate the change in total kinetic energy of the ball and object during the collision. [3]

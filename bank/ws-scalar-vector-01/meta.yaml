@@ -1,0 +1,26 @@
+id: ws-scalar-vector-01
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.1'
+tier: core
+marks: 1
+difficulty: 1
+answer: B
+source:
+  slug: ws-scalar-vector
+  file: sources/102561_4.pdf
+  pages:
+  - 3
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: B (speed, distance, time). Velocity, acceleration, force, weight and momentum are vectors.
+text: |
+  Which of the following contains only scalar quantities?
+  A) Velocity, Acceleration, Force  B) Speed, Distance, Time  C) Weight, Mass, Energy  D) Momentum, Velocity, Temperature

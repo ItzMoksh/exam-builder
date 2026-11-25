@@ -1,0 +1,32 @@
+id: ws-kinetic-theory-07
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.1.2
+tier: core
+marks: 6
+difficulty: 2
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 3
+- label: c
+  marks: 1
+- label: d
+  marks: 1
+source:
+  slug: ws-kinetic-theory
+  file: sources/110429_2.pdf
+  pages:
+  - 3
+  question_no: '7'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A student looks at smoke particles in a glass cell of air using a microscope (Brownian motion). (a) Describe what the
+  student sees. (b) Explain why the smoke particles move in this way. (c) State what this observation shows about the
+  molecules of air. (d) The cell is warmed. State how the motion of the smoke particles changes.

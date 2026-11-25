@@ -1,0 +1,24 @@
+id: sem1-2026-27-10
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.1
+tier: supplement
+marks: 1
+difficulty: 2
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 4
+  question_no: '10'
+  site: school
+images:
+  question:
+  - q.png
+text: The table shows how the extension of a spring varies with load (load 0-16 N; extension 0, 3, 6,
+  9, 12, 15, 20, 27, 38 cm). Between which two loads is the limit of proportionality? A 0 N and 2 N B
+  8 N and 10 N C 10 N and 12 N D 14 N and 16 N

@@ -1,0 +1,59 @@
+source: atp-moment-com
+site: school
+# Collage of two pasted Cambridge Paper 6 questions (no printed question numbers). Page border box and
+# school header/footer cropped out. No mark scheme in the source.
+questions:
+  - n: "01"
+    qno: 1
+    type: atp
+    marks: 6
+    parts:
+      - {label: "a", marks: 1}
+      - {label: "b", marks: 1}
+      - {label: "c", marks: 1}
+      - {label: "d", marks: 2}
+      - {label: "e", marks: 1}
+    syllabus: ["1.5.2", "1.5.3"]
+    tier: core
+    difficulty: 2
+    skills: [draw-diagram, improvement, repeat-readings, plan-experiment]
+    segments:
+      - {page: 1, y0: 135, y1: 745, x0: 30, x1: 565}
+      - {page: 2, y0: 40, y1: 470, x0: 30, x1: 565}
+    text: |
+      A student uses a balancing method to determine the weight of a piece of soft modelling clay (Fig. 2.1: metre rule
+      on a pivot at the 50.0 cm mark, metal cube P of weight 1.0 N at distance x, clay Q at distance y; W = Px/y).
+      (a) On Fig. 2.1, mark clearly the distance x. (b) Suggest a change to Q that would make it easier to find y
+      accurately. (c) It is difficult to achieve an exact balance of the metre rule; explain how you would reduce the
+      effect of this problem to improve reliability. (d) The metal cube P is larger than the width of the metre rule;
+      explain how you would determine the reading of the metre rule scale at the position of the centre of mass of P.
+      (e) Explain briefly how you would determine the position of the centre of mass of the metre rule.
+
+  - n: "02"
+    problem: "A screenshot close button (X) covers part of the first line. Needs a clean copy."
+    qno: 2
+    type: atp
+    marks: 12
+    parts:
+      - {label: "a(i)", marks: 3}
+      - {label: "a(ii)", marks: 1}
+      - {label: "b", marks: 2}
+      - {label: "c", marks: 4}
+      - {label: "d", marks: 1}
+      - {label: "e", marks: 1}
+    syllabus: ["1.5.2"]
+    tier: core
+    difficulty: 3
+    skills: [read-scale, record-readings, calculation, source-of-error, improvement, plot-graph, line-of-best-fit, gradient]
+    notes: "Page 3 of the source has a screenshot 'X' close-button overlay covering part of the first line ('...a load using a balancing method'); it is in the crop and could not be removed."
+    segments:
+      - {page: 3, y0: 30, y1: 778, x0: 37, x1: 565}
+      - {page: 4, y0: 30, y1: 812, x0: 37, x1: 550}
+      - {page: 5, y0: 40, y1: 400, x0: 30, x1: 565}
+    text: |
+      A student determines the mass of a load X using a balancing method (Fig. 1.1: metre rule pivoted at 50.0 cm mark,
+      load X taped with centre over the 90.0 cm mark, mass m at distance d from the pivot). Fig. 1.2(a)-(e) show the
+      rule balanced for m = 40 g, 50 g, 60 g, 70 g, 80 g (ruler scales). (a)(i) Use Fig. 1.2 to determine d for each m and
+      record in Table 1.1 (m/g, d/cm, 1/d / 1/cm). (ii) Calculate 1/d. (b) Describe one difficulty the student might have
+      and how he might overcome it. (c) Plot a graph of m/g (y-axis) against 1/d (x-axis). (d) Determine the gradient G
+      of the graph. (e) Determine the mass mu of load X using mu = G/40.0.

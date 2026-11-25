@@ -1,0 +1,44 @@
+id: ws-momentum-05
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+- '1.1'
+- '1.2'
+tier: supplement
+marks: 10
+difficulty: 3
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 3
+- label: a(iii)
+  marks: 2
+- label: b
+  marks: 4
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 10
+  - 11
+  question_no: '5'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: (a)(i) force x time (for which it acts) (ii) v = 0.67/0.18 = 3.7 m/s; impulse = 0.015
+  x 3.7 = 0.056 N s (iii) air released moves in opposite direction; momentum of balloon equal in size
+  to momentum of air (b) sqrt(0.40^2 + 0.74^2) = 0.84 N at 62 deg below the horizontal (tan = 0.74/0.40).
+notes: Printed Cambridge number '3' cropped away; worksheet mark scheme numbers it 5 (Balloon).
+text: |
+  (a) A balloon of mass 15 g is glued to a straw threaded onto a horizontal string (Fig. 3.1). Air is released; the
+  balloon accelerates from rest then travels 0.67 m in 0.18 s at constant speed. (i) Explain in words what is meant by
+  the term impulse. (ii) Calculate the resultant impulse on the balloon while it is accelerating. (iii) Explain how
+  momentum is conserved as the balloon accelerates. (b) Fig. 3.2: two perpendicular forces 0.40 N (horizontal) and
+  0.74 N (downwards) act on a balloon. Determine the magnitude and direction of the resultant force.

@@ -1,0 +1,46 @@
+id: atp-moment-com-01
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.2
+- 1.5.3
+tier: core
+marks: 6
+difficulty: 2
+skills:
+- draw-diagram
+- improvement
+- repeat-readings
+- plan-experiment
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 1
+- label: c
+  marks: 1
+- label: d
+  marks: 2
+- label: e
+  marks: 1
+source:
+  slug: atp-moment-com
+  file: sources/108374_2.pdf
+  pages:
+  - 1
+  - 2
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  A student uses a balancing method to determine the weight of a piece of soft modelling clay (Fig. 2.1: metre rule
+  on a pivot at the 50.0 cm mark, metal cube P of weight 1.0 N at distance x, clay Q at distance y; W = Px/y).
+  (a) On Fig. 2.1, mark clearly the distance x. (b) Suggest a change to Q that would make it easier to find y
+  accurately. (c) It is difficult to achieve an exact balance of the metre rule; explain how you would reduce the
+  effect of this problem to improve reliability. (d) The metal cube P is larger than the width of the metre rule;
+  explain how you would determine the reading of the metre rule scale at the position of the centre of mass of P.
+  (e) Explain briefly how you would determine the position of the centre of mass of the metre rule.

@@ -1,0 +1,55 @@
+id: atp-moment-com-02
+course: ig9-physics
+type: atp
+status: draft
+problem: A screenshot close button (X) covers part of the first line. Needs a clean copy.
+syllabus:
+- 1.5.2
+tier: core
+marks: 12
+difficulty: 3
+skills:
+- read-scale
+- record-readings
+- calculation
+- source-of-error
+- improvement
+- plot-graph
+- line-of-best-fit
+- gradient
+parts:
+- label: a(i)
+  marks: 3
+- label: a(ii)
+  marks: 1
+- label: b
+  marks: 2
+- label: c
+  marks: 4
+- label: d
+  marks: 1
+- label: e
+  marks: 1
+source:
+  slug: atp-moment-com
+  file: sources/108374_2.pdf
+  pages:
+  - 3
+  - 4
+  - 5
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+notes: Page 3 of the source has a screenshot 'X' close-button overlay covering part of the first line
+  ('...a load using a balancing method'); it is in the crop and could not be removed.
+text: |
+  A student determines the mass of a load X using a balancing method (Fig. 1.1: metre rule pivoted at 50.0 cm mark,
+  load X taped with centre over the 90.0 cm mark, mass m at distance d from the pivot). Fig. 1.2(a)-(e) show the
+  rule balanced for m = 40 g, 50 g, 60 g, 70 g, 80 g (ruler scales). (a)(i) Use Fig. 1.2 to determine d for each m and
+  record in Table 1.1 (m/g, d/cm, 1/d / 1/cm). (ii) Calculate 1/d. (b) Describe one difficulty the student might have
+  and how he might overcome it. (c) Plot a graph of m/g (y-axis) against 1/d (x-axis). (d) Determine the gradient G
+  of the graph. (e) Determine the mass mu of load X using mu = G/40.0.

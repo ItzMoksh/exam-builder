@@ -1,0 +1,26 @@
+id: thermal-2025-26-03
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.2.3
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: thermal-2025-26
+  file: sources/110430_1.pdf
+  pages:
+  - 2
+  question_no: '3'
+  site: school
+images:
+  question:
+  - q.png
+notes: Fixed points / thermometer calibration are not a named point in the current 0625 syllabus; tagged
+  2.2.3 (melting point of ice).
+text: |
+  To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in
+  A pure alcohol. B pure distilled water. C pure melting ice. D pure mercury.

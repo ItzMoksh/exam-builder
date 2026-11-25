@@ -1,0 +1,34 @@
+id: ws-momentum-03
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+tier: supplement
+marks: 5
+difficulty: 2
+parts:
+- label: a
+  marks: 2
+- label: b
+  marks: 3
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 8
+  question_no: '3'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: '(a) p = mv = 0.50 x 0.32 = 0.16 kg m/s (b) 0.16 = (0.50 + 0.30) v, v = 0.20 m/s. Note:
+  sol-practice-sheet-detailed uses wrong masses and gives 1.20 m/s; the short key and this mark scheme
+  give 0.20 m/s.'
+text: |
+  The engine of an unpowered toy train rolls at constant speed on a level track (Fig. 3.1) and collides with a
+  stationary toy truck, joining with it. Engine 0.32 m/s, mass 0.50 kg. (a) Calculate the momentum of the toy engine
+  before the collision. (b) Mass of truck 0.30 kg. Using the principle of conservation of momentum, calculate the speed
+  of the joined engine and truck immediately after the collision.

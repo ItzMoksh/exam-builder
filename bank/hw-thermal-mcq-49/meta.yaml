@@ -1,0 +1,24 @@
+id: hw-thermal-mcq-49
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.2
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 26
+  question_no: '49'
+  site: unknown
+images:
+  question:
+  - q.png
+text: Ice floating at the top of warm water in a glass lowers its temperature. What is the main process
+  by which the water at the bottom of the glass becomes cool? A condensation B conduction C convection
+  D radiation

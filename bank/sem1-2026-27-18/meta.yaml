@@ -1,0 +1,23 @@
+id: sem1-2026-27-18
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: D
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 7
+  question_no: '18'
+  site: school
+images:
+  question:
+  - q.png
+text: A boy takes 30 minutes to cycle a distance of 8.0 km. He then walks a further distance of 2.0 km
+  in 15 minutes. What is his average speed? A 4.5 km/h B 5.6 km/h C 12 km/h D 13 km/h

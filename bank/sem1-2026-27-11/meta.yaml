@@ -1,0 +1,25 @@
+id: sem1-2026-27-11
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 3
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 5
+  question_no: '11'
+  site: school
+images:
+  question:
+  - q.png
+text: 'Speed-time graphs for two objects moving with uniform acceleration: object P 0 to 6.0 m/s in 4.0
+  s, object Q 0 to 10.0 m/s in 5.0 s. Conclusions: 1 The distance travelled by object P is 26 m less than
+  the distance travelled by object Q. 2 The acceleration of object P is 0.50 m/s2 less than the acceleration
+  of object Q. Which conclusions are correct? A neither 1 nor 2 B 1 only C 2 only D both 1 and 2'

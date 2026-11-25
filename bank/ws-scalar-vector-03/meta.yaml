@@ -1,0 +1,32 @@
+id: ws-scalar-vector-03
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.1'
+- '1.2'
+tier: core
+marks: 2
+difficulty: 1
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 1
+source:
+  slug: ws-scalar-vector
+  file: sources/102561_4.pdf
+  pages:
+  - 3
+  question_no: '3'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a) distance = 400 m (b) displacement = 0 m (returns to start).
+notes: Marks not printed; estimated.
+text: |
+  An athlete runs 400 m on a circular track and ends up back at the start line.
+  a) What is their total distance? b) What is their total displacement? (distance vs displacement, scalar vs vector)

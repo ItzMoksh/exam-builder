@@ -1,0 +1,25 @@
+id: hw-thermal-mcq-30
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.2
+- 2.3.3
+tier: core
+marks: 1
+difficulty: 2
+answer: D
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 15
+  question_no: '30'
+  site: unknown
+images:
+  question:
+  - q.png
+text: Which statement about the transfer of thermal energy is correct? A convection in air only when trapped
+  B convection only in a gas C radiation cannot occur in air D radiation can occur in a vacuum, but convection
+  cannot

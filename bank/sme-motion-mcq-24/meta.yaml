@@ -1,0 +1,27 @@
+id: sme-motion-mcq-24
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 3
+answer: A
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 34
+  question_no: '2'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms-1.png
+  - ms-2.png
+markscheme_text: 'A: constant speed (horizontal line) from t = 20 s to 30 s at 15 m/s, distance = 10 x
+  15 = 150 m.'
+text: Hard Q2. The graph shows the motion of a motorbike (speed-time graph). What is the distance travelled
+  by the motorbike while it is moving at a constant speed? A 150 m B 50 m C 300 m D 750 m

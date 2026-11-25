@@ -1,0 +1,25 @@
+id: ws-scalar-vector-02
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.1'
+tier: core
+marks: 2
+difficulty: 1
+source:
+  slug: ws-scalar-vector
+  file: sources/102561_4.pdf
+  pages:
+  - 3
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: Vector; it has both magnitude and direction (acts towards the centre of the mass / downwards).
+notes: Marks not printed; 2 marks estimated (vector + justification).
+text: |
+  State whether Gravitational Field Strength is a scalar or a vector. Justify your answer.

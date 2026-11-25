@@ -1,0 +1,38 @@
+id: ws12-thermal-06
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.2.3
+- 2.2.2
+- 4.2.5
+tier: supplement
+marks: 8
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 2
+- label: b(iii)
+  marks: 2
+source:
+  slug: ws12-thermal
+  file: sources/DOC-20261029-WA0017.pdf
+  pages:
+  - 11
+  question_no: '6'
+  site: tophysicstutor
+images:
+  question:
+  - q.png
+text: |
+  (a) In your answer you should use appropriate technical terms spelled correctly. State the terms used to describe the thermal energy required to change (i) a solid into a liquid at a constant temperature [1] (ii) a liquid into a gas at a constant temperature. [1]
+  (b) Most households waste energy by overfilling electric kettles. Assume that, on average, 0.80 kg of water per household per day is unnecessarily boiled.
+  (i) Estimate the energy required when 0.80 kg of water, initially at 18 °C, is heated in an electric kettle. The kettle switches off automatically when the water is boiling steadily at 100 °C. The specific heat capacity of water is 4200 J kg-1 K-1. heat energy = ... J [2]
+  (ii) State and explain two different reasons why the actual quantity of energy required to warm the water to 100 °C is greater than the estimate in (i). [2]
+  (iii) Calculate, in kW h, the average annual energy wasted per household by boiling too much water. [2]

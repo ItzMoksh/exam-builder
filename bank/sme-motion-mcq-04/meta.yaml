@@ -1,0 +1,26 @@
+id: sme-motion-mcq-04
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 10
+  question_no: '4'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms-1.png
+  - ms-2.png
+markscheme_text: 'C: v = s/t = 30/2.5 = 12 m/s (metres and seconds give m/s).'
+text: Easy Q4. What is the speed of a bowling ball which travels down a 30 m lane in 2.5 seconds? A 75
+  miles per hour B 75 metres per second C 12 metres per second D 12 miles per hour

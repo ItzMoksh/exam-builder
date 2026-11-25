@@ -1,0 +1,28 @@
+id: sme-motion-mcq-16
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: supplement
+marks: 1
+difficulty: 2
+answer: C
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 26
+  question_no: '7'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: 'C: terminal velocity when resultant force is zero, i.e. air resistance equals weight.'
+notes: SME labels this Extended tier only.
+text: Medium Q7. When does an object falling vertically through the air reach terminal velocity? A when
+  the acceleration of the object becomes negative B when the acceleration of the object is equal to g
+  C when the air resistance equals the weight of the object D when the air resistance is greater than
+  the weight of the object

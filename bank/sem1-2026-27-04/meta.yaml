@@ -1,0 +1,24 @@
+id: sem1-2026-27-04
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+- 1.5.1
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 3
+  question_no: '4'
+  site: school
+images:
+  question:
+  - q.png
+text: A skydiver is falling at terminal velocity. Which row describes the acceleration of the skydiver
+  and the velocity of the skydiver? A downwards, constant B downwards, zero C zero, constant D zero, zero

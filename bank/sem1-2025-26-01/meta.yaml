@@ -1,0 +1,28 @@
+id: sem1-2025-26-01
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.1'
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 2
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A student wishes to measure accurately the volume of approximately 40 cm3 of water. She has two measuring
+  cylinders, a larger one that can hold 100 cm3 and a smaller one that can hold 50 cm3. The water forms a
+  meniscus where it touches the glass (diagram: top of meniscus, bottom of meniscus).
+  Which cylinder and which water level does the student use to ensure an accurate result?
+  A larger one, bottom of meniscus  B larger one, top of meniscus  C smaller one, bottom of meniscus
+  D smaller one, top of meniscus

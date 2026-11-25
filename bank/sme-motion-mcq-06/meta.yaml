@@ -1,0 +1,29 @@
+id: sme-motion-mcq-06
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 1
+answer: A
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 12
+  - 13
+  question_no: '6'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'A: gradient of distance-time graph = speed. P to Q constant, Q to R zero, R to S constant.'
+text: 'Easy Q6. The graph shows how the distance travelled by a vehicle changes with time. Which row describes
+  the speed of the vehicle in each section of the graph? Distance-time graph P Q R S. Table: P to Q, Q
+  to R, R to S; A constant zero constant; B constant zero decreasing; C increasing constant decreasing;
+  D increasing zero constant.'

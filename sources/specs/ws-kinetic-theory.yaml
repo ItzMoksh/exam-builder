@@ -1,0 +1,190 @@
+source: ws-kinetic-theory
+site: school
+# Part 1 (p1-2 top) = study notes and a worked example: skipped. Part 2 student worksheet = Q1-10 (p2-4).
+# No answer key in the source: MCQ answers worked out by Claude.
+questions:
+  - n: "01"
+    qno: 1
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.2", "2.1.3"]
+    tier: core
+    difficulty: 1
+    answer: B
+    answer_by: claude
+    segments:
+      - {page: 2, y0: 655, y1: 735, x0: 68}
+    mask:
+      - {page: 2, x0: 68, y0: 659, x1: 83, y1: 676}
+    text: |
+      A sealed box of gas is heated. The volume stays the same. Why does the pressure increase?
+      A The gas particles get bigger. B The gas particles move faster and hit the walls harder and more often.
+      C There are more gas particles in the box. D The gas particles collide with each other more often.
+
+  - n: "02"
+    qno: 2
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.2"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments:
+      - {page: 3, y0: 26, y1: 118, x0: 68}
+    mask:
+      - {page: 3, x0: 68, y0: 30, x1: 83, y1: 47}
+    text: |
+      Smoke particles in air are seen under a microscope. They move in random zigzag paths. What causes this? (Brownian motion)
+      A The smoke particles are alive. B Convection currents in the cell.
+      C Fast-moving air molecules, too small to see, collide with them at random. D The smoke particles repel each other.
+
+  - n: "03"
+    qno: 3
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.3"]
+    tier: core
+    difficulty: 1
+    answer: D
+    answer_by: claude
+    segments:
+      - {page: 3, y0: 118, y1: 196, x0: 68}
+    mask:
+      - {page: 3, x0: 68, y0: 121, x1: 83, y1: 137}
+    text: |
+      What is 25 °C on the kelvin scale? A -248 K B 25 K C 248 K D 298 K
+
+  - n: "04"
+    qno: 4
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.2", "2.1.3"]
+    tier: core
+    difficulty: 1
+    answer: A
+    answer_by: claude
+    segments:
+      - {page: 3, y0: 197, y1: 286, x0: 68}
+    mask:
+      - {page: 3, x0: 68, y0: 199, x1: 83, y1: 216}
+    text: |
+      A gas is cooled towards absolute zero. What happens to the average kinetic energy of its particles?
+      A It decreases towards its lowest possible value. B It stays the same. C It increases. D It becomes zero at 0 °C.
+
+  - n: "05"
+    qno: 5
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.3"]
+    tier: supplement
+    difficulty: 1
+    answer: B
+    answer_by: claude
+    segments:
+      - {page: 3, y0: 287, y1: 377, x0: 68}
+    mask:
+      - {page: 3, x0: 68, y0: 290, x1: 83, y1: 306}
+    text: |
+      (Supplement) The pressure of a fixed mass of gas is 100 kPa when its volume is 6.0 cm3. The volume is reduced to
+      2.0 cm3 at constant temperature. What is the new pressure? (pV = constant, Boyle's law)
+      A 33 kPa B 300 kPa C 100 kPa D 600 kPa
+
+  - n: "06"
+    qno: 6
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.3"]
+    tier: supplement
+    difficulty: 2
+    answer: D
+    answer_by: claude
+    segments:
+      - {page: 3, y0: 378, y1: 467, x0: 68}
+    mask:
+      - {page: 3, x0: 68, y0: 380, x1: 83, y1: 397}
+    text: |
+      (Supplement) Which graph is a straight line through the origin for a fixed mass of gas at constant temperature?
+      A p against V, sloping upwards B p against V, horizontal C p against 1/V, horizontal D p against 1/V, sloping upwards
+
+  - n: "07"
+    qno: 7
+    type: theory
+    marks: 6
+    parts:
+      - {label: "a", marks: 1}
+      - {label: "b", marks: 3}
+      - {label: "c", marks: 1}
+      - {label: "d", marks: 1}
+    syllabus: ["2.1.2"]
+    tier: core
+    difficulty: 2
+    segments:
+      - {page: 3, y0: 510, y1: 735, x0: 68}
+    mask:
+      - {page: 3, x0: 68, y0: 513, x1: 83, y1: 530}
+    text: |
+      A student looks at smoke particles in a glass cell of air using a microscope (Brownian motion). (a) Describe what the
+      student sees. (b) Explain why the smoke particles move in this way. (c) State what this observation shows about the
+      molecules of air. (d) The cell is warmed. State how the motion of the smoke particles changes.
+
+  - n: "08"
+    qno: 8
+    type: theory
+    marks: 8
+    parts:
+      - {label: "a", marks: 3}
+      - {label: "b", marks: 3}
+      - {label: "c", marks: 2}
+    syllabus: ["2.1.2", "2.1.3"]
+    tier: core
+    difficulty: 2
+    segments:
+      - {page: 4, y0: 28, y1: 308, x0: 68}
+    mask:
+      - {page: 4, x0: 68, y0: 30, x1: 83, y1: 47}
+    text: |
+      A syringe contains a fixed mass of air, trapped by a sealed end. (a) Explain, in terms of particles, how the air
+      exerts a pressure on the walls of the syringe. (b) The plunger is pushed in slowly at constant temperature. State and
+      explain the change in pressure. (c) The syringe is held fixed and warmed. Explain why the pressure rises.
+
+  - n: "09"
+    qno: 9
+    type: theory
+    marks: 4
+    parts:
+      - {label: "a", marks: 1}
+      - {label: "b", marks: 1}
+      - {label: "c", marks: 2}
+    syllabus: ["2.1.3", "2.1.2"]
+    tier: core
+    difficulty: 1
+    segments:
+      - {page: 4, y0: 309, y1: 475, x0: 68}
+    mask:
+      - {page: 4, x0: 68, y0: 311, x1: 83, y1: 328}
+    text: |
+      Temperature and the kelvin scale. (a) Convert 37 °C to kelvin. (b) Convert 150 K to degrees Celsius. (c) State the
+      value of absolute zero in °C and describe what the particles have at this temperature.
+
+  - n: "10"
+    qno: 10
+    type: atp
+    marks: 5
+    parts:
+      - {label: "a", marks: 1}
+      - {label: "b", marks: 2}
+      - {label: "c", marks: 2}
+    syllabus: ["2.1.3"]
+    tier: supplement
+    difficulty: 2
+    skills: [calculation, conclusion, trend]
+    notes: "Header says [6] (and 'Section C ... 6 marks') but the part marks printed add to 5 (1+2+2); marks set to 5."
+    segments:
+      - {page: 4, y0: 495, y1: 715, x0: 68}
+    mask:
+      - {page: 4, x0: 68, y0: 500, x1: 88, y1: 515}
+    text: |
+      A fixed mass of gas at constant temperature is compressed. Results: p/kPa 100, 200, 250, 400; V/cm3 80, 40, 32, 20.
+      (a) Calculate p x V for each pair of readings. (b) State the relationship between p and V shown by the results, and
+      the two conditions needed. (c) Calculate the volume when the pressure is 500 kPa.

@@ -1,0 +1,28 @@
+id: thermal-2025-26-02
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.1.3
+tier: core
+marks: 1
+difficulty: 2
+answer: C
+answer_by: claude
+source:
+  slug: thermal-2025-26
+  file: sources/110430_1.pdf
+  pages:
+  - 1
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q.png
+notes: C = pressure rises from a non-zero starting value. B also rises but starts from zero pressure,
+  which is impossible for a gas that already has a measured pressure.
+text: |
+  The pressure of a fixed mass of gas in a cylinder is measured. The volume of the cylinder is then slowly decreased.
+  The temperature of the gas does not change. Which graph could show the change of pressure of the gas during this
+  process? (four pressure-time graphs A-D: A horizontal, B rising from zero, C rising from a non-zero value,
+  D falling)

@@ -1,0 +1,23 @@
+id: sem1-2026-27-03
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 2
+  question_no: '3'
+  site: school
+images:
+  question:
+  - q.png
+text: Speed-time graph for an object moving with constant acceleration from 0 to 6.0 m/s in 4.0 s. What
+  is the distance travelled in the first 4.0 s? A 0.67 m B 1.5 m C 12 m D 24 m

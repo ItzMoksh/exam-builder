@@ -1,0 +1,39 @@
+id: sem1-2026-27-23
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.5.1
+- '1.3'
+- 1.7.1
+tier: supplement
+marks: 7
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: a(iii)
+  marks: 1
+- label: b
+  marks: 2
+- label: c
+  marks: 2
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 13
+  - 14
+  question_no: '3'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  Fig. 2.1 shows a spring balance used to measure the weight of a baby. The spring inside the balance extends when a mass is suspended from it. The dial shows the extension of spring as a value of mass in kg (cradle with negligible mass). The spring obeys Hooke's law up to a weight of 175 N.
+  (a) (i) State Hooke's law. [1] (ii) State the relationship between the mass of the baby and the force exerted on the spring due to the baby. [1] (iii) The reading on the spring balance is 8.0 kg. Determine the force exerted on the spring due to the baby. [1]
+  (b) The limit of proportionality for the spring is at a force of 175 N. Sketch the extension-load graph for the spring. The sketch must continue beyond a force of 175 N. [2]
+  (c) The baby is carried from the ground floor to the bedroom. The vertical height of the bedroom above the ground floor is 3.5 m. Calculate the change in gravitational potential energy of the baby. [2]

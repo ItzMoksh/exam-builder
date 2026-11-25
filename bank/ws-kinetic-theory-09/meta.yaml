@@ -1,0 +1,30 @@
+id: ws-kinetic-theory-09
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.1.3
+- 2.1.2
+tier: core
+marks: 4
+difficulty: 1
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 1
+- label: c
+  marks: 2
+source:
+  slug: ws-kinetic-theory
+  file: sources/110429_2.pdf
+  pages:
+  - 4
+  question_no: '9'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  Temperature and the kelvin scale. (a) Convert 37 °C to kelvin. (b) Convert 150 K to degrees Celsius. (c) State the
+  value of absolute zero in °C and describe what the particles have at this temperature.

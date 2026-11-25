@@ -1,0 +1,6 @@
+source: ws-gas-expansion-shc
+site: school
+# All 10 pages are study notes: syllabus table, explanations, figures, worked examples 3-8, experiment
+# method, revision summary, key definitions and command words. There are no questions for students,
+# so nothing is ingested from this source.
+questions: []

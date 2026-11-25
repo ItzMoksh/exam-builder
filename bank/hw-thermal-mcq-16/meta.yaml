@@ -1,0 +1,23 @@
+id: hw-thermal-mcq-16
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.3
+tier: core
+marks: 1
+difficulty: 1
+answer: D
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 8
+  question_no: '16'
+  site: unknown
+images:
+  question:
+  - q.png
+text: A girl outdoors warms her hands by holding them beside a fire. How does the heat from the fire reach
+  her hands? A conduction only B convection and conduction C convection and radiation D radiation only

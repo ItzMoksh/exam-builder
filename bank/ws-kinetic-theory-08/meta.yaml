@@ -1,0 +1,31 @@
+id: ws-kinetic-theory-08
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.1.2
+- 2.1.3
+tier: core
+marks: 8
+difficulty: 2
+parts:
+- label: a
+  marks: 3
+- label: b
+  marks: 3
+- label: c
+  marks: 2
+source:
+  slug: ws-kinetic-theory
+  file: sources/110429_2.pdf
+  pages:
+  - 4
+  question_no: '8'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A syringe contains a fixed mass of air, trapped by a sealed end. (a) Explain, in terms of particles, how the air
+  exerts a pressure on the walls of the syringe. (b) The plunger is pushed in slowly at constant temperature. State and
+  explain the change in pressure. (c) The syringe is held fixed and warmed. Explain why the pressure rises.

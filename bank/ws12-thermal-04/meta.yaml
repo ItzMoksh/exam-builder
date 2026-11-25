@@ -1,0 +1,41 @@
+id: ws12-thermal-04
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.1.2
+- 2.2.3
+- 2.2.2
+tier: supplement
+marks: 10
+difficulty: 3
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: a(iii)
+  marks: 2
+- label: b(i)
+  marks: 4
+- label: b(ii)
+  marks: 2
+source:
+  slug: ws12-thermal
+  file: sources/DOC-20261029-WA0017.pdf
+  pages:
+  - 7
+  - 8
+  question_no: '4'
+  site: tophysicstutor
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  (a) Describe (i) the motion of atoms in a solid at a temperature well below its melting point [1]
+  (ii) the effect of a small increase in temperature on the motion of these atoms [1]
+  (iii) the effect on the internal energy and temperature of the solid when it melts. [2]
+  (b) Fig. 6.1 shows the apparatus used to determine the specific heat capacity of a metal. A block made of the metal is heated by an electrical heater that produces a constant power of 48 W. In order to reduce heat loss from the sides, top and bottom of the block, it is covered by a layer of insulating material. (Diagram: metal block with electrical heater, temperature sensors to data logger, insulating material.) Temperature sensors connected to a data logger show that the block and insulation are initially at the room temperature of 18 °C. The heater is switched on and after 720 seconds the sensors show that the temperature of the block is 54 °C and the average temperature of the insulating material is 38 °C.
+  (i) Use the information given above and the data shown below to determine the specific heat capacity of the metal block. mass of metal block = 0.98 kg; power of heater = 48 W; specific heat capacity of the insulating material = 850 J kg-1 K-1; mass of the insulating material = 0.027 kg. [4]
+  (ii) A second experiment is done without the insulating material and with the block again starting at 18 °C. Discuss whether the value of the specific heat capacity calculated from the second experiment is likely to be lower, the same or higher than the value calculated in (i). [2]

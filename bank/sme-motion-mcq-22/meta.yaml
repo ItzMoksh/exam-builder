@@ -1,0 +1,28 @@
+id: sme-motion-mcq-22
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: C
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 31
+  - 32
+  question_no: '13'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'C: constant speed from 10 s to 25 s at 10 m/s, distance = 10 x 15 = 150 m.'
+text: Medium Q13. The diagram shows a speed-time graph for a car travelling along a straight road. What
+  is the distance travelled by the car while it is moving at constant speed? A 50 m B 75 m C 150 m D 200
+  m

@@ -1,0 +1,41 @@
+id: ws12-thermal-01
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 4.2.5
+- 2.2.2
+- 2.2.3
+tier: supplement
+marks: 8
+difficulty: 2
+parts:
+- label: a(ii)
+  marks: 2
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 1
+- label: c
+  marks: 3
+source:
+  slug: ws12-thermal
+  file: sources/DOC-20261029-WA0017.pdf
+  pages:
+  - 1
+  - 2
+  question_no: '1'
+  site: tophysicstutor
+images:
+  question:
+  - q-1.png
+  - q-2.png
+notes: 'Worksheet starts at part (ii); part (a)(i) [1 mark] is missing from the source, so the printed
+  [Total: 9] is one more than the 8 marks shown. Part (c) refers to Fig. 3.1 (numbering from the original
+  paper).'
+text: |
+  (ii) A domestic refrigerator works at a mean power of 70 W. Calculate the cost of running this refrigerator for one week at a cost of 12p per kW h. cost = £ ... [2]
+  (b) A large jug containing 2.0 kg of milk is placed in a refrigerator. The milk cools from 18 °C to 3.0 °C over a time period of 100 minutes. The specific heat capacity of milk is 3800 J kg-1 K-1. Calculate
+  (i) the thermal energy removed from the milk as it cools from 18 °C to 3 °C. energy removed = ... J [2]
+  (ii) the rate at which thermal energy is removed from the milk. rate = ... J s-1 [1]
+  (c) Another container full of milk is placed in a freezer and cooled from 18 °C to -18 °C. Assume that thermal energy is removed at a constant rate and that the freezing-point of milk is 0 °C. The specific heat capacity of milk below 0 °C is significantly less than its value above 0 °C. On Fig. 3.1 sketch a graph to show the variation with time of the temperature of the milk over the range 18 °C to -18 °C. Numbers are not required on the time axis. (Axes: temperature/°C 18, 0, -18 against time.) [3]

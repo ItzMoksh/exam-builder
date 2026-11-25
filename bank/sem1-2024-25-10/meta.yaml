@@ -1,0 +1,27 @@
+id: sem1-2024-25-10
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.4'
+tier: core
+marks: 1
+difficulty: 2
+answer: B
+answer_by: claude
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 5
+  question_no: '10'
+  origin: 0625/21/O/N/20 Q6
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A metal ball is attached to a cork and is lowered into a measuring cylinder, pulling the cork into the water, as shown.
+  Readings: ball and cork above the water 48 cm3; ball fully submerged but cork above the water 56 cm3; both ball and cork fully submerged 80 cm3.
+  The mass of the cork is 4.8 g. What is the density of the cork?
+  A 0.15 g/cm3  B 0.20 g/cm3  C 0.60 g/cm3  D 5.0 g/cm3

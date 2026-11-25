@@ -1,0 +1,48 @@
+id: ws12-thermal-07
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.2.2
+- 2.2.3
+- 2.1.2
+- 1.7.4
+tier: supplement
+marks: 12
+difficulty: 3
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 2
+- label: c(i)
+  marks: 4
+- label: c(ii)
+  marks: 2
+source:
+  slug: ws12-thermal
+  file: sources/DOC-20261029-WA0017.pdf
+  pages:
+  - 12
+  - 13
+  - 14
+  question_no: '7'
+  site: tophysicstutor
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+text: |
+  (a) (i) Define specific heat capacity. [1]
+  (ii) Describe the difference between the latent heat of fusion and the latent heat of vaporisation. [1]
+  (b) The graph in Fig. 4.1 shows the variation of temperature with time for a fixed mass of substance when heated by a constant power source. At A the substance is a solid; at E the substance is a vapour. (Heating curve A-B rising, B-C flat, C-D rising less steeply, D-E flat.)
+  (i) Describe the changes taking place in the kinetic energy and potential energy of the molecules for the following sections: A to B; B to C. [2]
+  (ii) State and explain what you can conclude from Fig. 4.1 about the specific heat capacity of the substance in the solid state compared with the specific heat capacity of the substance in the liquid state. [2]
+  (c) The electric heating element of a bathroom shower has a power rating of 5.0 kW. An attempt is made to test the accuracy of this value by measuring the rate of flow of the water and the temperature of the water before and after passing the element. temperature of water supply = 17.4 °C; temperature of water after being heated = 36.7 °C; rate of flow of water = 3.60 x 10-3 m3 min-1; density of water = 1000 kg m-3; specific heat capacity of water = 4200 J kg-1 K-1.
+  (i) Show that the power of the heating element is approximately 5 kW. [4]
+  (ii) State and explain a possible source of uncertainty that might affect the reliability of the test. [2]

@@ -1,0 +1,27 @@
+id: sem1-2025-26-04
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.1
+tier: supplement
+marks: 1
+difficulty: 2
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 3
+  question_no: '4'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  The drag force on a car increases with speed. At 20 m/s, the total drag force is 400 N. The mass of the car
+  is 1200 kg and the driving force is constant at 700 N. Which statement about the acceleration of the car at
+  20 m/s is correct?
+  A 0.25 m/s2 but will decrease as time passes  B 0.25 m/s2 but will increase as time passes
+  C 0.58 m/s2 but will decrease as time passes  D 0.58 m/s2 but will increase as time passes

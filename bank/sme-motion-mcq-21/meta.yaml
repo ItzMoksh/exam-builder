@@ -1,0 +1,30 @@
+id: sme-motion-mcq-21
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: supplement
+marks: 1
+difficulty: 2
+answer: B
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 31
+  question_no: '12'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: 'B: there is air resistance, and at terminal velocity velocity is constant so acceleration
+  is zero.'
+notes: Terminal velocity is supplement content in 0625.
+text: Medium Q12. An object falls towards the surface of the Earth. The object is falling at its terminal
+  velocity. Which statement is correct? A There is air resistance and the acceleration of the object is
+  negative. B There is air resistance and the acceleration of the object is zero. C There is no air resistance
+  and the acceleration of the object is negative. D There is no air resistance and the acceleration of
+  the object is zero.

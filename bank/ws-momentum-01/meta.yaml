@@ -1,0 +1,46 @@
+id: ws-momentum-01
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+- '1.2'
+- 1.5.1
+tier: supplement
+marks: 9
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 2
+- label: a(ii)
+  marks: 1
+- label: b
+  marks: 2
+- label: c
+  marks: 2
+- label: d
+  marks: 2
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 5
+  - 6
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: (a)(i) p = mv = 70 x 20 = 1400 kg m/s (ii) 1400 N s (b) a = 20/0.20 = 100 m/s^2 (c) F
+  = ma = 70 x 80 = 5600 N (d) smaller force on passenger, less likely to be injured.
+text: |
+  Fig. 2.1 shows a dummy of mass 70 kg used in a crash test to investigate the safety of a new car (barrier,
+  passenger compartment, windscreen). The car approaches a solid barrier at 20 m/s, crashes and stops suddenly.
+  (a)(i) Calculate the momentum of the dummy immediately before the crash. (ii) Determine the impulse that must be
+  applied to the dummy to bring it to rest. (b) The passenger compartment comes to rest in 0.20 s. Calculate the
+  deceleration. (c) Seat belt and air bag: dummy has average deceleration 80 m/s^2. Calculate the average resultant
+  force on the dummy. (d) The deceleration of the dummy is less than that of the compartment. Explain why this is of
+  benefit for the safety of a passenger.

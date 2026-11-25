@@ -1,0 +1,29 @@
+id: sme-motion-mcq-15
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: A
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 24
+  - 25
+  question_no: '6'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'A: at time t both lines have the same speed value. Runner 2 has covered more distance;
+  neither has zero gradient; runner 2''s speed is still increasing.'
+text: Medium Q6. Two runners take part in a race. The graph shows how the speed of each runner changes
+  with time. What does the graph show about the runners at time t? A Both runners are moving at the same
+  speed. B Runner 1 has zero acceleration. C Runner 1 runs ahead of runner 2. D Runner 2 is slowing down.

@@ -1,0 +1,61 @@
+id: igexams-hookes-law-atp-01
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.1
+tier: core
+marks: 10
+difficulty: 2
+skills:
+- measure-on-diagram
+- calculation
+- precaution
+- parallax
+- plot-graph
+- line-of-best-fit
+parts:
+- label: a
+  marks: 1
+- label: b(i)
+  marks: 1
+- label: b(ii)
+  marks: 1
+- label: c
+  marks: 4
+- label: d(i)
+  marks: 1
+- label: d(ii)
+  marks: 2
+source:
+  slug: igexams-hookes-law-atp
+  file: sources/108374_1.pdf
+  pages:
+  - 2
+  - 3
+  question_no: '1'
+  site: igexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: |
+  (a) l0 = 55 mm c.a.o. [1]
+  (b)(i) e = 4, 9, 14, 19, 23 (ecf from (a)) [1]
+  (b)(ii) view scale at right angles, or straight edge / set square / pointer between bottom of spring and rule [1]
+  (c) graph: axes labelled with quantity and unit; suitable scales; plots to 1/2 small square; good thin continuous line, neat plots [4]
+  (d)(i) e = 17 mm (ecf (a)) [1]
+  (d)(ii) method shown on graph [1]; W = 3.5-3.75 N, unit needed, no ecf [1]
+text: |
+  A student is investigating the stretching of a spring. The apparatus is shown in Fig. 1.1 (spring hanging from a clamp, unstretched length l0 marked).
+  (a) On Fig. 1.1, measure the unstretched length l0 of the spring. Record l0 in the first row of Table 1.1. [1]
+  (b) The student hangs a load L of 1.0 N on the spring and measures the new length l of the spring. She repeats the measurements using loads of 2.0 N, 3.0 N, 4.0 N and 5.0 N.
+  (i) For each set of readings, calculate the extension e of the spring using the equation e = (l - l0). Record the values of e in the table.
+  Table 1.1: L/N 0.0, 1.0, 2.0, 3.0, 4.0, 5.0; l/mm (blank), 59, 64, 69, 74, 78; e/mm 0, ... [1]
+  (ii) Explain briefly one precaution that you would take in order to obtain reliable readings. [1]
+  (c) Plot a graph of e/mm (y-axis) against L/N (x-axis). [4]
+  (d) The student removes the load from the spring and hangs an unknown load X on the spring. She measures the length l of the spring: l = 72 mm.
+  (i) Calculate the extension e of the spring. [1]
+  (ii) Use the graph to determine the weight W of the load X. Show clearly on the graph how you obtained the necessary information. [2]

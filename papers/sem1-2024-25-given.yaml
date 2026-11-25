@@ -1,0 +1,45 @@
+name: Semester 1 Physics IG9 2024-25 (given)
+exam: First Semester Examination (2024-25)
+batch: ig9-2024-25
+status: given
+note: Historical paper, recorded from sources/ so its questions count as used for this batch.
+sections:
+- title: Section I – Multiple Choice Questions
+  type: mcq
+  marks: 20
+  questions:
+  - sem1-2024-25-01
+  - sem1-2024-25-02
+  - sem1-2024-25-03
+  - sem1-2024-25-04
+  - sem1-2024-25-05
+  - sem1-2024-25-06
+  - sem1-2024-25-07
+  - sem1-2024-25-08
+  - sem1-2024-25-09
+  - sem1-2024-25-10
+  - sem1-2024-25-11
+  - sem1-2024-25-12
+  - sem1-2024-25-13
+  - sem1-2024-25-14
+  - sem1-2024-25-15
+  - sem1-2024-25-16
+  - sem1-2024-25-17
+  - sem1-2024-25-18
+  - sem1-2024-25-19
+  - sem1-2024-25-20
+- title: Section II – Extended Theory
+  type: theory
+  marks: 40
+  questions:
+  - sem1-2024-25-21
+  - sem1-2024-25-22
+  - sem1-2024-25-23
+  - sem1-2024-25-24
+  - sem1-2024-25-25
+- title: Section III – Alternative to Practical
+  type: atp
+  marks: 20
+  questions:
+  - sem1-2024-25-26
+  - sem1-2024-25-27

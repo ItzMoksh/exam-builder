@@ -1,0 +1,41 @@
+id: sem1-2026-27-22
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.2'
+- 1.5.1
+tier: supplement
+marks: 8
+difficulty: 3
+parts:
+- label: a
+  marks: 2
+- label: b
+  marks: 1
+- label: c(i)
+  marks: 1
+- label: c(ii)
+  marks: 2
+- label: d(i)
+  marks: 1
+- label: d(ii)
+  marks: 1
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 11
+  - 12
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  A car of mass m is travelling along a straight, horizontal road at a constant speed v. At time t = 0, the driver of the car sees an obstruction in the road ahead of the car and applies the brakes. The car does not begin to decelerate at t = 0.
+  (a) Explain what is meant by deceleration. [2]
+  (b) Suggest one reason why the car does not begin to decelerate at t = 0. [1]
+  (c) Fig. 1.1 is the distance-time graph for the car from t = 0 (curve levelling off near 58 m at 5 s). (i) State the property of a distance-time graph that corresponds to speed. [1] (ii) Using Fig. 1.1, determine the initial speed v of the car. [2]
+  (d) When the car is decelerating, there is a constant resistive force F on the car due to the brakes. The deceleration of the car is greater than F/m and is not constant. Explain why: (i) the deceleration of the car is greater than F/m [1] (ii) the deceleration is not constant. [1]

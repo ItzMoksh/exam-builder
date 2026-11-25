@@ -1,0 +1,47 @@
+id: sem1-2024-25-27
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.2
+- '1.3'
+tier: core
+marks: 9
+difficulty: 2
+skills:
+- plot-graph
+- line-of-best-fit
+- gradient
+- calculation
+- source-of-error
+parts:
+- label: a
+  marks: 4
+- label: b
+  marks: 2
+- label: c
+  marks: 2
+- label: d
+  marks: 1
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 20
+  - 21
+  question_no: '2'
+  origin: 0625/61/M/J/19 Q1
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+notes: No [Total] line printed on the school copy; total 9 from the part marks.
+text: |
+  A student is determining the weight of a metre rule using a balancing method. Fig. 1.1 shows the apparatus: load P on a metre rule balanced on a pivot on a bench; a is the distance from the 90.0 cm mark (load P) to the pivot, b is the distance from the pivot to the 50.0 cm mark.
+  The student places the load P at the 90.0 cm mark and adjusts the position of the metre rule on the pivot so that it is as near as possible to being balanced. He records a and b, then repeats with P at the 85.0 cm, 80.0 cm, 75.0 cm and 70.0 cm marks.
+  Table 1.1: a/cm 21.0, 18.0, 16.0, 13.0, 10.5; b/cm 19.1, 17.2, 14.1, 11.8, 9.5.
+  (a) Plot a graph of a/cm (y-axis) against b/cm (x-axis). You do not need to begin your axes at the origin (0,0). [4]
+  (b) Determine the gradient G of the graph. Show clearly on the graph how you obtained the necessary information. [2]
+  (c) Calculate the weight W1 of the metre rule using the equation W1 = G x P, where P = 1.0 N. [2]
+  (d) Suggest one practical reason why it is difficult to obtain accurate readings for a and b in this type of experiment. [1]

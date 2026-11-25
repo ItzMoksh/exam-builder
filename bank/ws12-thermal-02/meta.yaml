@@ -1,0 +1,37 @@
+id: ws12-thermal-02
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.2.2
+tier: supplement
+marks: 12
+difficulty: 3
+parts:
+- label: a(i)
+  marks: 2
+- label: a(ii)
+  marks: 2
+- label: b
+  marks: 8
+source:
+  slug: ws12-thermal
+  file: sources/DOC-20261029-WA0017.pdf
+  pages:
+  - 3
+  - 4
+  - 5
+  question_no: '2'
+  site: tophysicstutor
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+notes: Part (b) is an 8-mark extended experiment description (electrical method for c of a liquid) with
+  a long answer space over two pages.
+text: |
+  (a) The table shows the specific heat capacities c of alcohol and water: alcohol 2460 J kg-1 K-1, water 4180 J kg-1 K-1.
+  (i) An alcohol thermometer is placed in 80 g of water at 20 °C. The mass of alcohol in the thermometer is 0.050 g. The water is then heated from 20 °C to 60 °C. Calculate the ratio energy required to warm the water from 20 °C to 60 °C / energy required to warm the alcohol from 20 °C to 60 °C. ratio = ... [2]
+  (ii) State and explain a situation in which the very high value of specific heat capacity for water is useful. [2]
+  (b) Describe an electrical experiment to determine the specific heat capacity c of a liquid. Include in your answer: a labelled diagram of the arrangement; a list of the measurements to be taken; an explanation of how the value of c would be determined from your results; possible sources of uncertainty in your measurements and how these could be reduced. [8]

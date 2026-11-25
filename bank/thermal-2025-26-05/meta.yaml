@@ -1,0 +1,27 @@
+id: thermal-2025-26-05
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.2.2
+tier: supplement
+marks: 4
+difficulty: 2
+parts:
+- label: i
+  marks: 4
+source:
+  slug: thermal-2025-26
+  file: sources/110430_1.pdf
+  pages:
+  - 3
+  question_no: '5'
+  site: school
+images:
+  question:
+  - q.png
+notes: Only part (i) of the original question was pasted.
+text: |
+  Some sea water has a specific heat capacity of 3900 J/(kg °C) and a boiling point of 100.6 °C. (i) Calculate the
+  energy required to raise the temperature of 0.800 kg of this sea water from 12.0 °C up to its boiling point. State
+  the equation that you use. (Delta E = m c Delta theta)

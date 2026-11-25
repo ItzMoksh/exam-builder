@@ -1,0 +1,11 @@
+# Semester exam: same shape as the TSRS Moulsari IG9 semester papers.
+name: Semester 1 Physics IG9 2026-27
+exam: Semester 1 Examination (2026-27)
+class: IGCSE – Class 9
+time: 1 hour 15 minutes
+batch: ig9-2026-27
+footer_code: TSRS Moulsari/IG9/Physics 0625/Semester 1/2026-27
+sections:
+  - {title: "Section I – Multiple Choice Questions", type: mcq, marks: 20, topics: ["1", "2"]}
+  - {title: "Section II – Extended Theory", type: theory, marks: 40, topics: ["1", "2"]}
+  - {title: "Section III – Alternative to Practical", type: atp, marks: 20, topics: ["1", "2"]}

@@ -1,0 +1,11 @@
+# Unit test: short paper on a few topics. Adjust marks and topics.
+name: Unit test Physics IG9
+exam: Unit Test (2026-27)
+class: IGCSE – Class 9
+time: 40 minutes
+batch: ig9-2026-27
+footer_code: TSRS Moulsari/IG9/Physics/UT/2026-27
+sections:
+  - {title: "Section I – Multiple Choice Questions", type: mcq, marks: 10, topics: ["1.2", "1.6"]}
+  - {title: "Section II – Structured Questions", type: theory, marks: 10, topics: ["1.2", "1.6"]}
+  - {title: "Section III – Alternative to Practical", type: atp, marks: 10, topics: ["1.2", "1.6"]}

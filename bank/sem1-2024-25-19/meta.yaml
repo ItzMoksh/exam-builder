@@ -1,0 +1,30 @@
+id: sem1-2024-25-19
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+- 1.5.1
+tier: core
+marks: 1
+difficulty: 2
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 9
+  question_no: '19'
+  origin: 0625/23/O/N/17 Q3
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  The diagram shows the vertical forces (air resistance upwards, weight downwards) acting on a ball as it falls vertically through the air. The ball does not reach terminal velocity.
+  Which row describes what happens to the resultant force on the ball and what happens to the acceleration of the ball as it falls through the air?
+  A resultant force decreases, acceleration decreases
+  B decreases, increases
+  C increases, decreases
+  D increases, increases

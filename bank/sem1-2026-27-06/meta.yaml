@@ -1,0 +1,23 @@
+id: sem1-2026-27-06
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.3
+tier: core
+marks: 1
+difficulty: 1
+answer: D
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 3
+  question_no: '6'
+  site: school
+images:
+  question:
+  - q.png
+text: A car is designed to be stable. Where must the centre of gravity of the car be? A above the front
+  wheels B above the rear wheels C as high in the car as possible D as low in the car as possible

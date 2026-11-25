@@ -1,0 +1,53 @@
+id: igexams-hookes-law-atp-04
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.1
+tier: core
+marks: 9
+difficulty: 2
+skills:
+- measure-on-diagram
+- calculation
+- plot-graph
+- line-of-best-fit
+- gradient
+parts:
+- label: a
+  marks: 1
+- label: b(i)
+  marks: 1
+- label: b(ii)
+  marks: 5
+- label: b(iii)
+  marks: 2
+source:
+  slug: igexams-hookes-law-atp
+  file: sources/108374_1.pdf
+  pages:
+  - 10
+  - 11
+  - 12
+  question_no: '4'
+  site: igexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+  markscheme:
+  - ms.png
+markscheme_text: |
+  (a) l0 = 54-55 mm [1]
+  (b)(i) e = 12, 22, 36, 50, 60 (ecf from (a)) [1]
+  (b)(ii) graph: axes e/mm and F/N correct way round; suitable scales; plots to 1/2 small square; good line judgement; thin single continuous line [5]
+  (b)(iii) triangle method using at least half of line, shown on graph [1]; G = 11-13, no ecf [1]
+notes: Figure/table numbers say Fig. 5.1 / Table 5.1 (copied from the original paper).
+text: |
+  The IGCSE class is investigating the stretching of a spring. Fig. 5.1 shows the apparatus (forcemeter 0-10 N holding a spring, load attached to the bottom of the spring resting on the bench, unstretched length l0 marked).
+  (a) On Fig. 5.1, measure the unstretched length l0 of the spring, in mm. [1]
+  (b) A student hangs the spring on the forcemeter with the load attached to the bottom of the spring, as shown in Fig. 5.1. The load remains on the bench. He gently raises the forcemeter until it reads 1.0 N. He measures the new length l of the spring. He repeats the procedure using a range of forcemeter readings. The readings are recorded in Table 5.1: F/N 1.0, 2.0, 3.0, 4.0, 5.0; l/mm 67, 77, 91, 105, 115; e/mm (blank).
+  (i) Calculate the extension e of the spring, for each set of readings, using the equation e = (l - l0). Record the values of e in Table 5.1. [1]
+  (ii) Plot a graph of e/mm (y-axis) against F/N (x-axis). [5]
+  (iii) Determine the gradient G of the graph. Show clearly on the graph how you obtained the necessary information. [2]

@@ -1,0 +1,46 @@
+id: sem1-2024-25-22
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.7.2
+- 1.7.4
+- 1.5.2
+- 1.5.3
+tier: core
+marks: 8
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: b
+  marks: 1
+- label: c
+  marks: 3
+- label: d(i)
+  marks: 1
+- label: d(ii)
+  marks: 1
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 11
+  - 12
+  question_no: '2'
+  origin: 0625/32/F/M/19 Q4
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  Fig. 4.1 shows a truck (forklift) lifting a heavy load, with a pivot at the front wheel.
+  (a)(i) The truck is stationary. Identify the quantities that determine the work done as it lifts the load. Tick the box next to each correct quantity: distance, force, time. [1]
+  (ii) Draw a ring around the unit for work done from the list: joule newton pascal watt. [1]
+  (b) Identify the quantities that determine the power of the truck. Tick: energy transferred, temperature, time. [1]
+  (c) The truck has a pivot near the front wheel. Fig. 4.2 represents the pivot and the vertical forces acting on the truck: 30 000 N at 1.5 m on one side of the pivot, load at 1.0 m on the other. The truck is in equilibrium. Calculate the load. [3]
+  (d) Fig. 4.3 shows another truck lifting a pile of identical bricks. (i) On Fig. 4.3, draw a cross to indicate the centre of mass of the pile of bricks. [1]
+  (ii) The truck can tilt the pile of bricks backwards, as shown in Fig. 4.4. Explain how tilting the pile of bricks backwards makes the truck more stable. [1]

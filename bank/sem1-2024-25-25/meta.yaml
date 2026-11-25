@@ -1,0 +1,37 @@
+id: sem1-2024-25-25
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.4'
+- '1.1'
+- 1.5.1
+tier: core
+marks: 8
+difficulty: 1
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 4
+- label: c(i)
+  marks: 2
+- label: c(ii)
+  marks: 1
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 16
+  question_no: '5'
+  origin: 0625/32/F/M/24 Q2
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  (a) A student determines the volume of a piece of metal. The student pours 30 cm3 of water into a measuring cylinder. The piece of metal is submerged in the water and the new volume reading on the measuring cylinder is 42 cm3. Calculate the volume of the piece of metal. [1]
+  (b) The mass of another piece of metal is 320 g. The volume of the piece of metal is 40 cm3. Calculate the density of the metal. Give the correct unit. [4]
+  (c) The student drops the piece of metal into a tank of water. Two vertical forces act on the piece of metal as it falls through the water in the tank. On Fig. 2.1, each arrow represents a vertical force.
+  (i) Complete the diagram in Fig. 2.1 by labelling the two forces. [2]
+  (ii) The upward force is the same size as the downward force. Describe the motion of the piece of metal as it falls through the water. [1]

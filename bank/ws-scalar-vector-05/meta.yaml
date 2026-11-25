@@ -1,0 +1,28 @@
+id: ws-scalar-vector-05
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.1'
+tier: supplement
+marks: 4
+difficulty: 2
+source:
+  slug: ws-scalar-vector
+  file: sources/102561_4.pdf
+  pages:
+  - 4
+  question_no: '5'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: Resultant 22.4 m/s (11.2 cm on the drawing) at 26.6 deg south of west.
+notes: Marks not printed; estimated. Scale drawing; no answer space on the sheet. The key treats the 'South
+  wind' as blowing towards the south (26.6 deg south of west); by the usual convention a south wind blows
+  from the south, which would give 26.6 deg north of west.
+text: |
+  Graphical Challenge: Using a scale of 1 cm = 2 m/s, draw a vector diagram for a plane flying West at 20 m/s with a
+  South wind of 10 m/s. Measure the resultant velocity and angle. (scale drawing, vector diagram, resultant velocity)

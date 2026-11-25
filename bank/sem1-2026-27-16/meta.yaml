@@ -1,0 +1,24 @@
+id: sem1-2026-27-16
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.6'
+tier: supplement
+marks: 1
+difficulty: 2
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 6
+  question_no: '16'
+  site: school
+images:
+  question:
+  - q.png
+text: An object is moving at +3.0 m/s. A force acts on the object. After a time, the object is moving
+  at -4.0 m/s. The mass of the object is 5.0 kg. What is the change in momentum of the body? A -35 kg
+  m/s B -5.0 kg m/s C +5.0 kg m/s D +35 kg m/s

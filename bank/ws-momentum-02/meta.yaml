@@ -1,0 +1,33 @@
+id: ws-momentum-02
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+tier: supplement
+marks: 5
+difficulty: 2
+parts:
+- label: a
+  marks: 2
+- label: b
+  marks: 1
+- label: c
+  marks: 2
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 7
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a) 0.15 x 8.0 = 1.2 N s (b) 1.2 N s (c) F = 1.2/0.0015 = 800 N
+text: |
+  Fig. 2.1 shows a hammer being used to drive a nail into a piece of wood. Mass of hammer head 0.15 kg, speed 8.0 m/s
+  when it hits the nail, contact time 0.0015 s; the hammer head stops. (a) Calculate the change in momentum of the
+  hammer head. (b) State the impulse given to the nail. (c) Calculate the average force between the hammer and the nail.

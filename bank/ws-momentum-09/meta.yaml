@@ -1,0 +1,40 @@
+id: ws-momentum-09
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.7.1
+- '1.6'
+tier: supplement
+marks: 7
+difficulty: 2
+parts:
+- label: a
+  marks: 1
+- label: b(i)
+  marks: 2
+- label: b(ii)1
+  marks: 2
+- label: b(ii)2
+  marks: 2
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 15
+  question_no: '9'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a) energy cannot be created or destroyed / total energy constant (b)(i) chemical to
+  kinetic and/or gravitational potential; then KE to GPE, GPE to KE, KE to thermal (ii)1 p = 4.0 x 12
+  = 48 kg m/s 2 F = 48/0.60 = 80 N
+notes: Pasted without a question number or stem; starts at part (a).
+text: |
+  (a) State what is meant by the principle of conservation of energy. (b) Fig. 3.1 shows a girl throwing a heavy ball.
+  (i) State the energy changes from when the girl begins to exert a force on the ball until it hits the ground and
+  stops. (ii) Mass of ball 4.0 kg; force exerted for 0.60 s; speed increases from 0 to 12 m/s. Calculate 1. the
+  momentum of the ball on leaving the girl's hand 2. the average resultant force exerted on the ball.

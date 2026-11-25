@@ -1,0 +1,27 @@
+id: thermal-2025-26-06
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 2.2.3
+tier: core
+marks: 2
+difficulty: 2
+parts:
+- label: b(i)
+  marks: 2
+source:
+  slug: thermal-2025-26
+  file: sources/110430_1.pdf
+  pages:
+  - 3
+  question_no: '6'
+  site: school
+images:
+  question:
+  - q.png
+notes: Only part (b)(i) of the original question was pasted (starts at '(b)').
+text: |
+  (b) A block of ice is taken from a freezer at -25 °C, placed in a metal container and heated by a source of constant
+  power. Fig. 4.1 is a temperature-time heating curve A-B-C-D-E (melting at 0 °C, boiling at 100 °C); at E the
+  container is empty. (i) State what is taking place in the regions of the graph from B to C, and from D to E.

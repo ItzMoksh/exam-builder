@@ -1,0 +1,46 @@
+name: Semester 1 Physics IG9 2025-26 (given)
+exam: First Semester Examination (2025-26)
+batch: ig9-2025-26
+status: given
+note: Historical paper, recorded from sources/ so its questions count as used for this batch.
+sections:
+- title: Section I – Multiple Choice Questions
+  type: mcq
+  marks: 20
+  questions:
+  - sem1-2025-26-01
+  - sem1-2025-26-02
+  - sem1-2025-26-03
+  - sem1-2025-26-04
+  - sem1-2025-26-05
+  - sem1-2025-26-06
+  - sem1-2025-26-07
+  - sem1-2025-26-08
+  - sem1-2025-26-09
+  - sem1-2025-26-10
+  - sem1-2025-26-11
+  - sem1-2025-26-12
+  - sem1-2025-26-13
+  - sem1-2025-26-14
+  - sem1-2025-26-15
+  - sem1-2025-26-16
+  - sem1-2025-26-17
+  - sem1-2025-26-18
+  - sem1-2025-26-19
+  - sem1-2025-26-20
+- title: Section II – Extended Theory
+  type: theory
+  marks: 40
+  questions:
+  - sem1-2025-26-21
+  - sem1-2025-26-22
+  - sem1-2025-26-23
+  - sem1-2025-26-24
+  - sem1-2025-26-25
+  - sem1-2025-26-26
+- title: Section III – Alternative to Practical
+  type: atp
+  marks: 20
+  questions:
+  - sem1-2025-26-27
+  - sem1-2025-26-28

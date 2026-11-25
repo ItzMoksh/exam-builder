@@ -1,0 +1,29 @@
+id: sme-motion-mcq-25
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 3
+answer: D
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 35
+  - 36
+  question_no: '3'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'D: average speed = (100 + 50 + 30 + 70) km / (4.0 - 0.5) h = 71.4 km/h.'
+text: Hard Q3. A helicopter flies the route shown below (H to I 100 km, I to J 50 km, J to K 30 km, K
+  to L 70 km). It stops at point I for 30 minutes to pick up some cargo. The total time the helicopter
+  takes between taking off from H and landing at L is 4.0 hours. Calculate the average speed of the helicopter
+  when it is flying. A 55.6 km/h B 250 km/h C 62.5 km/h D 71.4 km/h

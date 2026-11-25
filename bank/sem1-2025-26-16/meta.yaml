@@ -1,0 +1,26 @@
+id: sem1-2025-26-16
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.8'
+tier: supplement
+marks: 1
+difficulty: 3
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 7
+  question_no: '16'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A washbasin has an exit pipe covered with a plug of area 12 cm2. A chain is attached to the centre of the
+  plug to assist in pulling the plug away from the exit hole. The washbasin contains water to a depth of
+  0.080 m. The density of the water is 1000 kg/m3. What is the force acting on the plug due to the water?
+  A 0.96 N  B 800 N  C 9600 N  D 80 000 N (liquid pressure p = rho g h)

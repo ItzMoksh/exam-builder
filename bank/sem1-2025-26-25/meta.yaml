@@ -1,0 +1,39 @@
+id: sem1-2025-26-25
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.7.3
+- 1.7.4
+- 1.7.1
+tier: supplement
+marks: 8
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 4
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 15
+  question_no: '5'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  (a) Tidal power derives most of its energy from the Moon and part of its energy from the Sun.
+  (i) State one other source of power which derives its energy from the Sun. [1]
+  (ii) State one source of power which does not derive its energy from the Sun. [1]
+  (b) Fig. 3.1 shows a small water turbine driven by a tidal flow of water to generate electrical power.
+  (i) Explain whether this method of generation of electrical power is renewable. [2]
+  (ii) The mass of water passing through the turbine each second is 6.0 x 10^3 kg. The speed of the water is
+  2.0 m/s. 40% of the kinetic energy of the water is converted to electrical energy. Calculate the electrical
+  power generated. [4] (efficiency, energy resources)

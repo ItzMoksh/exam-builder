@@ -1,0 +1,37 @@
+id: ws-momentum-08
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+- 1.7.2
+tier: supplement
+marks: 7
+difficulty: 3
+parts:
+- label: a(i)
+  marks: 2
+- label: a(ii)
+  marks: 2
+- label: b
+  marks: 3
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 14
+  question_no: '8'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a)(i) 1.2 x 0.065 = 0.078 N s (ii) 0.078/0.00052 = 150 m/s (b) work done against friction;
+  kinetic energy decreases to zero; thermal energy produced.
+notes: Pasted without a question number.
+text: |
+  Fig. 2.1 shows a wooden trolley of mass 1.2 kg at rest on the rough surface of a bench. A ball of mass 0.52 g travels
+  horizontally and embeds itself in the trolley; the trolley moves off at 0.065 m/s. (a) Calculate (i) the impulse
+  exerted on the trolley (ii) the speed of the ball as it hits the trolley. (b) Explain, in terms of the work done, the
+  energy change as the trolley slows down and stops.

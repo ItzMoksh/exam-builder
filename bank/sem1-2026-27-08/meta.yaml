@@ -1,0 +1,24 @@
+id: sem1-2026-27-08
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.1'
+tier: core
+marks: 1
+difficulty: 3
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 4
+  question_no: '8'
+  site: school
+images:
+  question:
+  - q.png
+text: Object X is placed against a ruler whose zero mark is not at its end. The ruler is placed against
+  another ruler to measure the end correction. What is the length of the object X? A 0.9 cm B 1.1 cm C
+  1.3 cm D 1.5 cm

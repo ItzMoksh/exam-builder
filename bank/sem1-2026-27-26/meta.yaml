@@ -1,0 +1,27 @@
+id: sem1-2026-27-26
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+tier: supplement
+marks: 3
+difficulty: 2
+parts:
+- label: b
+  marks: 3
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 17
+  question_no: '6'
+  site: school
+images:
+  question:
+  - q.png
+notes: The school paper prints only part (b); part (a) of the original Cambridge question was removed,
+  leaving a blank space under Fig. 2.1.
+text: |
+  Trolley A and trolley B are on a horizontal, frictionless bench. Trolley A moves to the right with a constant velocity u = 0.44 m/s. Trolley B is stationary. Fig. 2.1 shows trolley A before it collides with trolley B.
+  (b) After the collision, the two trolleys are joined together and travel with a constant velocity v = 0.18 m/s to the right. The mass of trolley A is 0.75 kg. Calculate the mass of trolley B. [3]

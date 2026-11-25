@@ -1,0 +1,134 @@
+# Cambridge IGCSE Physics 0625 — topic tree used for tagging.
+# Written from the 0625 syllabus structure (matches the textbook contents page in
+# sources/photo-syllabus-contents). Check point titles against the official
+# 2026-2028 syllabus PDF when it is added to sources/.
+# Tag questions with the most specific code that fits (e.g. "1.5.2"), several if needed.
+course: ig9-physics
+code: "0625"
+topics:
+  - code: "1"
+    title: Motion, forces and energy
+    children:
+      - {code: "1.1", title: Physical quantities and measurement techniques}
+      - {code: "1.2", title: Motion}
+      - {code: "1.3", title: Mass and weight}
+      - {code: "1.4", title: Density}
+      - code: "1.5"
+        title: Forces
+        children:
+          - {code: "1.5.1", title: Effects of forces}
+          - {code: "1.5.2", title: Turning effect of forces}
+          - {code: "1.5.3", title: Centre of gravity}
+      - {code: "1.6", title: Momentum}
+      - code: "1.7"
+        title: Energy, work and power
+        children:
+          - {code: "1.7.1", title: Energy}
+          - {code: "1.7.2", title: Work}
+          - {code: "1.7.3", title: Energy resources}
+          - {code: "1.7.4", title: Power}
+      - {code: "1.8", title: Pressure}
+  - code: "2"
+    title: Thermal physics
+    children:
+      - code: "2.1"
+        title: Kinetic particle model of matter
+        children:
+          - {code: "2.1.1", title: States of matter}
+          - {code: "2.1.2", title: Particle model}
+          - {code: "2.1.3", title: Gases and the absolute scale of temperature}
+      - code: "2.2"
+        title: Thermal properties and temperature
+        children:
+          - {code: "2.2.1", title: Thermal expansion of solids, liquids and gases}
+          - {code: "2.2.2", title: Specific heat capacity}
+          - {code: "2.2.3", title: Melting, boiling and evaporation}
+      - code: "2.3"
+        title: Transfer of thermal energy
+        children:
+          - {code: "2.3.1", title: Conduction}
+          - {code: "2.3.2", title: Convection}
+          - {code: "2.3.3", title: Radiation}
+          - {code: "2.3.4", title: Consequences of thermal energy transfer}
+  - code: "3"
+    title: Waves
+    children:
+      - {code: "3.1", title: General properties of waves}
+      - code: "3.2"
+        title: Light
+        children:
+          - {code: "3.2.1", title: Reflection of light}
+          - {code: "3.2.2", title: Refraction of light}
+          - {code: "3.2.3", title: Thin lenses}
+          - {code: "3.2.4", title: Dispersion of light}
+      - {code: "3.3", title: Electromagnetic spectrum}
+      - {code: "3.4", title: Sound}
+  - code: "4"
+    title: Electricity and magnetism
+    children:
+      - {code: "4.1", title: Simple phenomena of magnetism}
+      - code: "4.2"
+        title: Electrical quantities
+        children:
+          - {code: "4.2.1", title: Electric charge}
+          - {code: "4.2.2", title: Electric current}
+          - {code: "4.2.3", title: Electromotive force and potential difference}
+          - {code: "4.2.4", title: Resistance}
+          - {code: "4.2.5", title: Electrical energy and electrical power}
+      - code: "4.3"
+        title: Electric circuits
+        children:
+          - {code: "4.3.1", title: Circuit diagrams and circuit components}
+          - {code: "4.3.2", title: Series and parallel circuits}
+          - {code: "4.3.3", title: Action and use of circuit components}
+      - {code: "4.4", title: Electrical safety}
+      - code: "4.5"
+        title: Electromagnetic effects
+        children:
+          - {code: "4.5.1", title: Electromagnetic induction}
+          - {code: "4.5.2", title: The a.c. generator}
+          - {code: "4.5.3", title: Magnetic effect of a current}
+          - {code: "4.5.4", title: Forces on a current-carrying conductor}
+          - {code: "4.5.5", title: The d.c. motor}
+          - {code: "4.5.6", title: The transformer}
+  - code: "5"
+    title: Nuclear physics
+    children:
+      - {code: "5.1", title: The nuclear model of the atom}
+      - code: "5.2"
+        title: Radioactivity
+        children:
+          - {code: "5.2.1", title: Detection of radioactivity}
+          - {code: "5.2.2", title: The three types of nuclear emission}
+          - {code: "5.2.3", title: Radioactive decay}
+          - {code: "5.2.4", title: Half-life}
+          - {code: "5.2.5", title: Safety precautions}
+  - code: "6"
+    title: Space physics
+    children:
+      - {code: "6.1", title: Earth and the Solar System}
+      - {code: "6.2", title: Stars and the Universe}
+
+# Controlled vocabulary for ATP (alternative to practical) skills. Use only these in `skills:`.
+atp_skills:
+  read-scale: Read a scale (thermometer, ruler, meter, protractor, measuring cylinder)
+  record-readings: Record readings to suitable precision
+  table-headings-units: Complete table column headings with quantity and unit
+  plot-graph: Plot a graph (axes, scales, points)
+  line-of-best-fit: Draw a line of best fit
+  gradient: Calculate a gradient from a graph
+  calculation: Calculate a result from data / an equation
+  significant-figures: Give an answer to suitable significant figures and with a unit
+  conclusion: State whether data supports a suggestion / draw a conclusion
+  trend: Describe a trend or relationship in data
+  variables: Identify or control variables
+  precaution: State a precaution for accurate readings
+  source-of-error: Identify a source of error / difficulty
+  improvement: Suggest an improvement to the method
+  plan-experiment: Plan an experiment (method, table, analysis)
+  parallax: Avoid parallax / line of sight to the scale
+  meniscus: Read at the bottom of the meniscus
+  repeat-readings: Repeat readings and average
+  draw-diagram: Draw or complete a diagram (ray diagram, circuit, set-up)
+  measure-on-diagram: Measure a length or angle on the diagram
+  safety: Safety precaution

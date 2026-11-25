@@ -1,0 +1,24 @@
+id: sem1-2026-27-15
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.4'
+tier: core
+marks: 1
+difficulty: 1
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 6
+  question_no: '15'
+  site: school
+images:
+  question:
+  - q.png
+text: A student measures the density of an irregularly shaped stone. Which items of equipment are needed?
+  A a balance and a measuring cylinder containing water B a balance and a ruler C a ruler and a measuring
+  cylinder containing water D a measuring cylinder containing water only

@@ -1,0 +1,28 @@
+id: thermal-2025-26-01
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.2.3
+- 2.1.2
+tier: core
+marks: 1
+difficulty: 1
+answer: D
+answer_by: claude
+source:
+  slug: thermal-2025-26
+  file: sources/110430_1.pdf
+  pages:
+  - 1
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  Evaporation occurs when molecules escape from a liquid surface into the air above it. During this process the
+  temperature of the liquid falls. Why does the temperature of the liquid fall?
+  A The molecules in the vapour expand because the pressure is less. B The molecules left in the liquid have more
+  space to move around. C The molecules move more slowly when they escape into the air. D The molecules with the
+  highest energies escape into the air.

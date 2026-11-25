@@ -1,0 +1,24 @@
+id: ws-kinetic-theory-06
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.1.3
+tier: supplement
+marks: 1
+difficulty: 2
+answer: D
+answer_by: claude
+source:
+  slug: ws-kinetic-theory
+  file: sources/110429_2.pdf
+  pages:
+  - 3
+  question_no: '6'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  (Supplement) Which graph is a straight line through the origin for a fixed mass of gas at constant temperature?
+  A p against V, sloping upwards B p against V, horizontal C p against 1/V, horizontal D p against 1/V, sloping upwards

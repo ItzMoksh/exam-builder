@@ -1,0 +1,60 @@
+id: igexams-hookes-law-atp-05
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.1
+tier: core
+marks: 11
+difficulty: 2
+skills:
+- measure-on-diagram
+- calculation
+- record-readings
+- plot-graph
+- line-of-best-fit
+- gradient
+- precaution
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 1
+- label: c
+  marks: 2
+- label: d
+  marks: 4
+- label: e
+  marks: 2
+- label: f
+  marks: 1
+source:
+  slug: igexams-hookes-law-atp
+  file: sources/108374_1.pdf
+  pages:
+  - 13
+  - 14
+  question_no: '5'
+  site: igexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: |
+  (a) d0 = 21 mm [1]
+  (b) D0 = 210 mm or 10 x candidate's (a) [1]
+  (c) L values 1.0, 2.0, 3.0, 4.0, 5.0 [1]; e values 1.0, 9.0, 21.0, 29.0, 40.0 [1]
+  (d) graph: axes labelled with quantity and unit, correct way round; suitable scales; plots to 1/2 small square; good line judgement, single thin continuous line [4]
+  (e) triangle method used and shown on graph [1]; using at least half of line [1]
+  (f) any one: always measure from same point on spring; wait for spring/weight to stop bouncing; horizontal aid / ruler vertical; bench surface not uniform [1]
+notes: Figure/table numbers say Fig. 1.1 / Table 1.1 (copied from the original paper).
+text: |
+  The IGCSE class is investigating the stretching of a spring. Fig. 1.1 shows the experimental set up (spring hanging from a clamp above a bench, distance d0 from the bottom of the spring to the bench marked).
+  (a) On Fig. 1.1, measure the vertical distance d0, in mm, between the bottom of the spring and the surface of the bench. [1]
+  (b) The diagram is drawn 1/10th actual size. Calculate the actual distance D0, in mm, between the bottom of the spring and the surface of the bench. [1]
+  (c) A student hangs a 1.0 N load on the spring. He measures and records the distance D between the bottom of the spring and the surface of the bench, and the value of the load L. He repeats the procedure using loads of 2.0 N, 3.0 N, 4.0 N and 5.0 N. Calculate the extension e of the spring, for each set of readings, using the equation e = (D0 - D). Record the values of L and e in Table 1.1: D/mm 199, 191, 179, 171, 160. [2]
+  (d) Plot a graph of e/mm (y-axis) against L/N (x-axis). [4]
+  (e) Determine the gradient G of the graph. Show clearly on the graph how you obtained the necessary information. [2]
+  (f) When making measurements, the student is careful to avoid a line-of-sight error. Suggest one other precaution that the student should take when measuring the distance D between the bottom of the spring and the surface of the bench. [1]

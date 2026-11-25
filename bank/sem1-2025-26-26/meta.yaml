@@ -1,0 +1,29 @@
+id: sem1-2025-26-26
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.5.2
+tier: core
+marks: 5
+difficulty: 1
+parts:
+- label: a
+  marks: 2
+- label: b
+  marks: 3
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 16
+  question_no: '6'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  Fig. 3.1 shows a girl and a boy on a see-saw (girl 300 N at 2.4 m from the pivot, boy weight W at 1.6 m).
+  The see-saw pivots on the log.
+  (a) Calculate the girl's moment about the pivot. [2]
+  (b) The see-saw is balanced horizontally. Calculate the weight W of the boy. [3] (principle of moments)

@@ -1,0 +1,30 @@
+id: sem1-2024-25-06
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.2
+tier: core
+marks: 1
+difficulty: 2
+answer: D
+answer_by: claude
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 3
+  question_no: '6'
+  origin: 0625/22/F/M/24 Q6
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A weightless beam is balanced on a pivot as shown. Forces P, Q and R act on the beam.
+  Diagram: P acts downward at distance d left of the pivot; Q acts upward at distance b left of the pivot (c from P); R acts downward at distance a right of the pivot.
+  Which equation is correct?
+  A (P x c) + (Q x b) = (R x a)
+  B (P x c) - (Q x b) = (R x a)
+  C (P x d) + (Q x b) = (R x a)
+  D (P x d) - (Q x b) = (R x a)

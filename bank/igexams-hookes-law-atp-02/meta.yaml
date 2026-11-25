@@ -1,0 +1,62 @@
+id: igexams-hookes-law-atp-02
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.1
+tier: core
+marks: 10
+difficulty: 2
+skills:
+- precaution
+- parallax
+- plot-graph
+- line-of-best-fit
+- measure-on-diagram
+- significant-figures
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 4
+- label: c
+  marks: 1
+- label: d(i)
+  marks: 1
+- label: d(ii)
+  marks: 2
+- label: e
+  marks: 1
+source:
+  slug: igexams-hookes-law-atp
+  file: sources/108374_1.pdf
+  pages:
+  - 4
+  - 5
+  - 6
+  question_no: '2'
+  site: igexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+  markscheme:
+  - ms.png
+markscheme_text: |
+  (a) any one: clamp rule; rule close to spring; ensure rule vertical; avoid parallax (explained); set square / fiducial aid [1]
+  (b) graph: axes labelled, right way round, units; suitable scales; plots to 1/2 small square; good best-fit straight line, thin, continuous [4]
+  (c) l0 value consistent with candidate's graph [1]
+  (d)(i) l = 8(.0) cm [1]
+  (d)(ii) W = 1.4-1.7 N [1]; indication on graph matching value [1]
+  (e) any one: data only to 2 s.f.; cannot plot/read graph to that accuracy; cannot read rule to that accuracy [1]
+text: |
+  The class is investigating the behaviour of a spring, and then using the spring to determine the weight of an object. The apparatus is shown in Fig. 2.1 (spring with load hanging from a clamp, stretched length l marked).
+  (a) A load of weight L = 1.0 N is hung on the spring. The stretched length l of the spring is recorded in Table 2.1. Suggest a precaution that you would take when measuring the length of the spring, to ensure a reliable reading. You may draw a diagram. [1]
+  (b) Step (a) is repeated for values of L = 2.0 N, 3.0 N, 4.0 N and 5.0 N. Table 2.1: L/N 1.0, 2.0, 3.0, 4.0, 5.0; l/cm 6.1, 9.0, 13.4, 16.8, 21.0.
+  Plot a graph of l/cm (y-axis) against L/N (x-axis). [4]
+  (c) Use your graph to determine the length l0 of the spring with no load attached. [1]
+  (d) The loads are removed and an object is suspended from the spring, as shown in Fig. 2.2.
+  (i) On Fig. 2.2, measure the stretched length l of the spring. [1]
+  (ii) Use the graph, and your reading from (d)(i), to determine the weight W of the object. Show clearly on the graph how you obtained your answer. [2]
+  (e) A student measures the weight of a different load using this same method. He gives the weight as 2.564 N. Explain why this is not a suitable number of significant figures for this experiment. [1]

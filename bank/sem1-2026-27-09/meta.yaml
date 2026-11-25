@@ -1,0 +1,26 @@
+id: sem1-2026-27-09
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.3'
+- 1.5.1
+tier: core
+marks: 1
+difficulty: 2
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 4
+  question_no: '9'
+  site: school
+images:
+  question:
+  - q.png
+text: A man stands at rest on the surface of the Earth. The weight of the man is the gravitational force
+  that acts on him. According to Newton's third law, the weight of the man is one force in a pair of forces.
+  Which force is the other force in the pair? A a force downwards on the Earth B a force downwards on
+  the man C a force upwards on the Earth D a force upwards on the man

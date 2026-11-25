@@ -1,0 +1,25 @@
+id: sem1-2025-26-18
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.2
+tier: core
+marks: 1
+difficulty: 1
+answer: B
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 8
+  question_no: '18'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A wooden plank rests in equilibrium on two rocks on opposite sides of a narrow stream. Three forces P, Q and
+  R act on the plank (P and R upwards at the rocks, Q downwards, weight). How are the sizes of the forces
+  related? A P + Q = R  B P + R = Q  C P = Q = R  D P = Q + R

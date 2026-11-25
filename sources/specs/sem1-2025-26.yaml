@@ -1,0 +1,505 @@
+source: sem1-2025-26
+site: school
+questions:
+  # ---------------- Section I: Multiple Choice (20 x 1 mark) ----------------
+  - n: "01"
+    qno: 1
+    type: mcq
+    marks: 1
+    syllabus: ["1.1"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments: [{page: 2, y0: 66, y1: 398}]
+    text: |
+      A student wishes to measure accurately the volume of approximately 40 cm3 of water. She has two measuring
+      cylinders, a larger one that can hold 100 cm3 and a smaller one that can hold 50 cm3. The water forms a
+      meniscus where it touches the glass (diagram: top of meniscus, bottom of meniscus).
+      Which cylinder and which water level does the student use to ensure an accurate result?
+      A larger one, bottom of meniscus  B larger one, top of meniscus  C smaller one, bottom of meniscus
+      D smaller one, top of meniscus
+  - n: "02"
+    qno: 2
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments: [{page: 2, y0: 420, y1: 740}]
+    text: |
+      A racing car is fitted with an on-board computer. Every time the car passes the starting line, the computer
+      records the distance travelled in the following two seconds. Which set of data shows that the car is
+      increasing in speed during the two seconds? Tables of time/s and distance travelled/m:
+      A 0, 100, 200  B 0, 90, 180  C 0, 80, 190  D 0, 100, 180
+  - n: "03"
+    qno: 3
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments: [{page: 3, y0: 52, y1: 250}]
+    text: |
+      The diagram shows a series of images of a moving object taken at regular intervals. The object is moving
+      from left to right (dots equally spaced, then increasingly far apart).
+      Which statement describes the motion of the object?
+      A accelerates continuously  B decelerates continuously  C travels at constant speed and then accelerates
+      D travels at constant speed and then decelerates
+  - n: "04"
+    qno: 4
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.1"]
+    tier: supplement
+    difficulty: 2
+    answer: A
+    answer_by: claude
+    segments: [{page: 3, y0: 277, y1: 440}]
+    text: |
+      The drag force on a car increases with speed. At 20 m/s, the total drag force is 400 N. The mass of the car
+      is 1200 kg and the driving force is constant at 700 N. Which statement about the acceleration of the car at
+      20 m/s is correct?
+      A 0.25 m/s2 but will decrease as time passes  B 0.25 m/s2 but will increase as time passes
+      C 0.58 m/s2 but will decrease as time passes  D 0.58 m/s2 but will increase as time passes
+  - n: "05"
+    qno: 5
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.1"]
+    tier: supplement
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments: [{page: 3, y0: 466, y1: 715}]
+    text: |
+      Forces of 3 N and 4 N act at right angles, as shown (rectangle OXYZ, 3 N along OX, 4 N along OZ, diagonals
+      XZ and OY). What is the resultant force?
+      A 1 N along XZ  B 5 N along XZ  C 5 N along OY  D 7 N along OY
+  - n: "06"
+    qno: 6
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.1", "6.1"]
+    tier: supplement
+    difficulty: 2
+    answer: D
+    answer_by: claude
+    segments: [{page: 4, y0: 53, y1: 343}]
+    text: |
+      A satellite orbits the Earth above the atmosphere at a constant speed. The diagram shows the satellite at one
+      point in its circular orbit around the Earth. Which labelled arrow shows the direction of the resultant force
+      on the satellite at the position shown? (A along the orbit, B away from Earth, C along the orbit, D towards
+      Earth) Circular motion, centripetal force.
+  - n: "07"
+    qno: 7
+    type: mcq
+    marks: 1
+    syllabus: ["1.3"]
+    tier: core
+    difficulty: 2
+    answer: A
+    answer_by: claude
+    segments: [{page: 4, y0: 359, y1: 580}]
+    text: |
+      The gravitational field strength is 8.8 N/kg on Venus and 3.8 N/kg on Mars. An object has a weight of 42 N
+      on Venus. What are the mass and the weight of the object on Mars?
+      A 4.8 kg, 18 N  B 4.8 kg, 42 N  C 11 kg, 42 N  D 11 kg, 97 N
+  - n: "08"
+    qno: 8
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.1"]
+    tier: supplement
+    difficulty: 2
+    answer: B
+    answer_by: claude
+    segments: [{page: 4, y0: 608, y1: 735}]
+    text: |
+      A spring, which obeys Hooke's law, has an unstretched length of 10 cm. A load of 20 N is suspended from the
+      spring. The new length of the spring is 36 cm. What is the spring constant k of the spring?
+      A 0.56 N/cm  B 0.77 N/cm  C 1.3 N/cm  D 1.8 N/cm
+  - n: "09"
+    qno: 9
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.2"]
+    tier: core
+    difficulty: 2
+    answer: C
+    answer_by: claude
+    segments: [{page: 5, y0: 53, y1: 316}]
+    text: |
+      An object is pivoted at point P. A student ties a length of string to a peg on the object. He pulls the string
+      with a force F. Diagram shows distances q, r, s (perpendicular from P to the line of the string) and t.
+      What is the moment of the force F about the point P?
+      A F x q  B F x r  C F x s  D F x t
+  - n: "10"
+    qno: 10
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.2", "1.5.3"]
+    tier: core
+    difficulty: 2
+    answer: A
+    answer_by: claude
+    segments: [{page: 5, y0: 345, y1: 600}]
+    text: |
+      The diagram shows a beam lying on the ground. End Q is lifted from the ground by the force F. End P of the
+      beam remains on the ground. The length of the beam is 3.0 m and its weight is 600 N. The centre of mass of
+      the beam at G is 1.0 m from end P. What is the size of the force F when it just raises end Q from the ground?
+      A 200 N  B 300 N  C 400 N  D 600 N
+  - n: "11"
+    qno: 11
+    type: mcq
+    marks: 1
+    syllabus: ["1.3", "1.5.1"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments: [{page: 6, y0: 53, y1: 183}]
+    text: |
+      Which statement correctly describes the effects of placing a heavy load in a car?
+      A easier to accelerate the car and easier to bring the car to rest
+      B easier to accelerate the car but more difficult to bring the car to rest
+      C more difficult to accelerate the car and more difficult to bring the car to rest
+      D more difficult to accelerate the car but easier to bring the car to rest
+  - n: "12"
+    qno: 12
+    type: mcq
+    marks: 1
+    syllabus: ["1.7.1"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    segments: [{page: 6, y0: 209, y1: 358}]
+    text: |
+      Brakes are used to slow down a moving car. Into which form of energy is most of the kinetic energy converted
+      as the car slows down? A chemical  B elastic  C thermal  D sound
+  - n: "13"
+    qno: 13
+    type: mcq
+    marks: 1
+    syllabus: ["1.7.4"]
+    tier: core
+    difficulty: 1
+    answer: D
+    answer_by: claude
+    segments: [{page: 6, y0: 384, y1: 480}]
+    text: |
+      A boy produces an average power output of 60 W as he rides his bicycle for 2.0 minutes. How much useful
+      energy does he expend? A 0.50 J  B 30 J  C 120 J  D 7200 J
+  - n: "14"
+    qno: 14
+    type: mcq
+    marks: 1
+    syllabus: ["1.8"]
+    tier: core
+    difficulty: 1
+    answer: B
+    answer_by: claude
+    segments: [{page: 6, y0: 522, y1: 745}]
+    text: |
+      Which diagram shows an athlete exerting least pressure on the ground? A on hands and knees, B lying flat,
+      C standing on one foot, D standing on two feet.
+  - n: "15"
+    qno: 15
+    type: mcq
+    marks: 1
+    syllabus: ["1.7.1"]
+    tier: supplement
+    difficulty: 2
+    answer: C
+    answer_by: claude
+    segments: [{page: 7, y0: 53, y1: 362}]
+    text: |
+      The diagram shows a pendulum. The pendulum swings from P to Q to R and back to P. P is 10 cm higher than Q.
+      At which speed does the pendulum bob pass through Q?
+      A 0.44 m/s  B 1.0 m/s  C 1.4 m/s  D 2.0 m/s (gravitational potential energy to kinetic energy)
+  - n: "16"
+    qno: 16
+    type: mcq
+    marks: 1
+    syllabus: ["1.8"]
+    tier: supplement
+    difficulty: 3
+    answer: A
+    answer_by: claude
+    segments: [{page: 7, y0: 390, y1: 700}]
+    text: |
+      A washbasin has an exit pipe covered with a plug of area 12 cm2. A chain is attached to the centre of the
+      plug to assist in pulling the plug away from the exit hole. The washbasin contains water to a depth of
+      0.080 m. The density of the water is 1000 kg/m3. What is the force acting on the plug due to the water?
+      A 0.96 N  B 800 N  C 9600 N  D 80 000 N (liquid pressure p = rho g h)
+  - n: "17"
+    qno: 17
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 2
+    answer: D
+    answer_by: claude
+    segments: [{page: 8, y0: 53, y1: 345}]
+    text: |
+      The curved line on the graph shows the motion of a car (speed-time graph with a tangent drawn at 4.0 s from
+      (2.0 s, 3.0 m/s) to (5.0 s, 12.0 m/s)). What is the acceleration of the car at the time of 4.0 s?
+      A 0.33 m/s2  B 0.44 m/s2  C 2.3 m/s2  D 3.0 m/s2
+  - n: "18"
+    qno: 18
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.2"]
+    tier: core
+    difficulty: 1
+    answer: B
+    answer_by: claude
+    segments: [{page: 8, y0: 375, y1: 700}]
+    text: |
+      A wooden plank rests in equilibrium on two rocks on opposite sides of a narrow stream. Three forces P, Q and
+      R act on the plank (P and R upwards at the rocks, Q downwards, weight). How are the sizes of the forces
+      related? A P + Q = R  B P + R = Q  C P = Q = R  D P = Q + R
+  - n: "19"
+    qno: 19
+    type: mcq
+    marks: 1
+    syllabus: ["1.5.1", "1.2"]
+    tier: core
+    difficulty: 2
+    answer: A
+    answer_by: claude
+    segments: [{page: 9, y0: 58, y1: 228}]
+    text: |
+      A skydiver jumps from a stationary helicopter and reaches a steady vertical speed. She then opens her
+      parachute. Which statement about the falling skydiver is correct?
+      A As her parachute opens, her acceleration is upwards.
+      B As she falls at a steady speed with her parachute open, her weight is zero.
+      C When she accelerates, the resultant force on her is zero.
+      D When she falls at a steady speed, air resistance is zero.
+  - n: "20"
+    qno: 20
+    type: mcq
+    marks: 1
+    syllabus: ["1.7.4", "1.7.1"]
+    tier: supplement
+    difficulty: 1
+    answer: B
+    answer_by: claude
+    segments: [{page: 9, y0: 258, y1: 345}]
+    text: |
+      A 40 W lamp wastes 34 J of energy every second by heating its surroundings. What is the efficiency of the
+      lamp? A 0.15%  B 15%  C 18%  D 85%
+
+  # ---------------- Section II: Extended Theory (40 marks) ----------------
+  - n: "21"
+    qno: 1
+    type: theory
+    marks: 8
+    parts:
+      - {label: "a", marks: 2}
+      - {label: "b(i)", marks: 1}
+      - {label: "b(ii)", marks: 2}
+      - {label: "b(iii)", marks: 3}
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 2
+    segments: [{page: 10, y0: 53, y1: 757, x0: 80}]
+    text: |
+      A rocket is launched vertically upwards from the ground. The rocket travels with uniform acceleration from
+      rest. After 8.0 s, the speed of the rocket is 120 m/s.
+      (a) Calculate the acceleration of the rocket. [2]
+      (b)(i) On Fig. 1.1 (speed/m/s 0-200 against time/s 0-27 grid), draw the graph for the motion of the rocket in
+      the first 8.0 s. [1]
+      (ii) Use the graph to determine the height of the rocket at 8.0 s. [2]
+      (iii) From time = 8.0 s to time = 20.0 s, the rocket rises with increasing speed but with decreasing
+      acceleration. From time = 20.0 s to time = 25.0 s, the rocket has a constant speed of less than 200 m/s.
+      On Fig. 1.1, draw the graph for this motion. [3]
+  - n: "22"
+    qno: 2
+    type: theory
+    marks: 6
+    parts:
+      - {label: "a(i)", marks: 3}
+      - {label: "a(ii)", marks: 3}
+    syllabus: ["1.6", "1.7.1"]
+    tier: supplement
+    difficulty: 2
+    segments: [{page: 11, y0: 53, y1: 710}]
+    text: |
+      Fig. 2.1 shows two identical trolleys, P and Q, held at rest on a frictionless horizontal surface. A load is
+      fixed to trolley P. There is a compressed spring between trolley P and trolley Q. The trolleys are released.
+      As the spring expands, it pushes the trolleys apart. Trolley Q moves to the right at a constant speed of
+      0.36 m/s. The mass of each trolley is 1.2 kg. The mass of the load on trolley P is 1.5 kg. The spring has
+      negligible mass.
+      (a) Calculate: (i) the speed at which trolley P moves to the left [3] (ii) the kinetic energy of trolley Q
+      when it moves at 0.36 m/s. [3] (momentum conservation, explosion)
+  - n: "23"
+    qno: 3
+    type: theory
+    marks: 8
+    parts:
+      - {label: "a", marks: 3}
+      - {label: "b", marks: 2}
+      - {label: "c", marks: 2}
+      - {label: "d", marks: 1}
+    syllabus: ["1.4", "1.8", "1.1"]
+    tier: supplement
+    difficulty: 2
+    segments:
+      - {page: 12, y0: 53, y1: 480}
+      - {page: 13, y0: 44, y1: 335}
+    text: |
+      Fig. 1.1 is the top view of a rectangular paddling pool of constant depth (44.0 m by 20.0 m). The pool is
+      filled with sea water.
+      (a) The volume of the sea water in the pool is 264 m3. Calculate the depth of the pool. [3]
+      (b) The mass of the sea water in the pool is 2.70 x 10^5 kg. Calculate the density of the sea water. Give your
+      answer to 3 significant figures. [2]
+      (c) Calculate the pressure due to the sea water at the bottom of the pool. [2]
+      (d) State a suitable instrument for measuring the dimensions given in Fig. 1.1. [1]
+  - n: "24"
+    qno: 4
+    type: theory
+    marks: 5
+    parts:
+      - {label: "a", marks: 3}
+      - {label: "b", marks: 2}
+    syllabus: ["1.7.1", "1.7.2"]
+    tier: supplement
+    difficulty: 2
+    segments: [{page: 14, y0: 53, y1: 525}]
+    text: |
+      Fig. 3.1 shows an aircraft on the deck of an aircraft carrier. The aircraft accelerates from rest along the
+      deck. At take-off, the aircraft has a speed of 75 m/s. The mass of the aircraft is 9500 kg.
+      (a) Calculate the kinetic energy of the aircraft at take-off. [3]
+      (b) On an aircraft carrier, a catapult provides an accelerating force on the aircraft. The catapult provides a
+      constant force for a distance of 150 m along the deck. Calculate the resultant force on the aircraft as it
+      accelerates. Assume that all of the kinetic energy at take-off is from the work done on the aircraft by the
+      catapult. [2]
+  - n: "25"
+    qno: 5
+    type: theory
+    marks: 8
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 1}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 4}
+    syllabus: ["1.7.3", "1.7.4", "1.7.1"]
+    tier: supplement
+    difficulty: 2
+    segments: [{page: 15, y0: 53, y1: 742}]
+    text: |
+      (a) Tidal power derives most of its energy from the Moon and part of its energy from the Sun.
+      (i) State one other source of power which derives its energy from the Sun. [1]
+      (ii) State one source of power which does not derive its energy from the Sun. [1]
+      (b) Fig. 3.1 shows a small water turbine driven by a tidal flow of water to generate electrical power.
+      (i) Explain whether this method of generation of electrical power is renewable. [2]
+      (ii) The mass of water passing through the turbine each second is 6.0 x 10^3 kg. The speed of the water is
+      2.0 m/s. 40% of the kinetic energy of the water is converted to electrical energy. Calculate the electrical
+      power generated. [4] (efficiency, energy resources)
+  - n: "26"
+    qno: 6
+    type: theory
+    marks: 5
+    parts:
+      - {label: "a", marks: 2}
+      - {label: "b", marks: 3}
+    syllabus: ["1.5.2"]
+    tier: core
+    difficulty: 1
+    segments: [{page: 16, y0: 55, y1: 555}]
+    text: |
+      Fig. 3.1 shows a girl and a boy on a see-saw (girl 300 N at 2.4 m from the pivot, boy weight W at 1.6 m).
+      The see-saw pivots on the log.
+      (a) Calculate the girl's moment about the pivot. [2]
+      (b) The see-saw is balanced horizontally. Calculate the weight W of the boy. [3] (principle of moments)
+
+  # ---------------- Section III: Alternative to Practical (20 marks) ----------------
+  - n: "27"
+    qno: 1
+    type: atp
+    marks: 9
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 2}
+      - {label: "b", marks: 1}
+      - {label: "c", marks: 1}
+      - {label: "d", marks: 2}
+      - {label: "e", marks: 2}
+    syllabus: ["1.5.2"]
+    tier: core
+    difficulty: 2
+    skills: [calculation, precaution, draw-diagram, variables, source-of-error, repeat-readings, significant-figures]
+    segments:
+      - {page: 17, y0: 58, y1: 690, x0: 66}
+      - {page: 18, y0: 60, y1: 665}
+    text: |
+      A student is determining the weight of a load using a balancing method. Fig. 1.1 shows the apparatus (metre
+      rule on a pivot, load P at distance x, load Q at distance y).
+      (a) The student places the metre rule on the pivot and adjusts its position so that the metre rule is as near
+      as possible to being balanced. Scale reading = 50.2 cm. He places a 2.00 N load P on the metre rule so that
+      its centre is exactly at the 20.0 cm mark on the rule.
+      (i) Use this information to determine the distance x. [1]
+      (ii) Explain how you would ensure that the centre of the load P is exactly at the 20.0 cm mark on the rule.
+      You may draw a diagram. [2]
+      (b) The student places a load Q on the metre rule and adjusts its position so that the metre rule is as near
+      as possible to being balanced. He measures the distance y between the centre of load Q and the pivot.
+      y = 15.3 cm. Calculate the weight W of load Q using the equation W = kx/y, where k = 2.00 N. [1]
+      (c) The student repeats the procedure using a different, suitably chosen, distance x. Suggest a suitable
+      distance x. [1]
+      (d) The student calculates a new value of W = 4.04 N. Suggest two reasons why the values determined for W may
+      not be the same. [2]
+      (e) Calculate the average W_AV of the values for W, the weight of load Q. Give your answer to a suitable
+      number of significant figures for this experiment. [2]
+  - n: "28"
+    qno: 2
+    type: atp
+    marks: 11
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 1}
+      - {label: "a(iii)", marks: 1}
+      - {label: "b(i)", marks: 1}
+      - {label: "b(ii)", marks: 2}
+      - {label: "c", marks: 2}
+      - {label: "d", marks: 1}
+      - {label: "e", marks: 2}
+    syllabus: ["1.1"]
+    tier: core
+    difficulty: 2
+    skills: [measure-on-diagram, calculation, parallax, read-scale, record-readings, conclusion, repeat-readings, variables, precaution]
+    segments:
+      - {page: 19, y0: 55, y1: 590}
+      - {page: 20, y0: 38, y1: 415}
+      - {page: 21, y0: 38, y1: 630}
+      - {page: 22, y0: 38, y1: 495}
+    text: |
+      A student is comparing the oscillations of two pendulums. Fig. 1.1 shows the first pendulum (clamp, bob,
+      distance d).
+      (a)(I) On Fig. 1.1, measure the distance d, from the bottom of the clamp to the bottom of the bob. [1]
+      (II) Fig. 1.1 is drawn 1/10th actual size. Calculate the actual distance D from the bottom of the clamp to the
+      bottom of the bob. [1]
+      (III) Explain briefly how to use a set-square to avoid a parallax (line-of-sight) error when measuring the
+      length of this pendulum. You may draw a diagram. [1]
+      (b) The student displaces the bob slightly and releases it so that it swings. She measures the time t for 20
+      complete oscillations. The time t is shown on the stopwatch in Fig. 1.2 (00:28.12).
+      (I) Write down the time t shown in Fig. 1.2. [1]
+      (II) Calculate the period T1 of the pendulum. The period is the time for one complete oscillation. [2]
+      (c) The student repeats the procedure using another pendulum as shown in Fig. 1.3. This has a long, thin
+      pendulum bob. The distance D is the same as for the first pendulum. T2 = 1.37 s. In this experiment, both
+      pendulum bobs have the same mass. A student suggests that since both pendulums have the same overall length D
+      and mass, the periods T1 and T2 should be equal. State whether the results support this suggestion. Justify
+      your answer by reference to the results. [2]
+      (d) The period T of a pendulum can be determined by measuring the time t for 20 complete oscillations and then
+      calculating the period. Tick the box next to the sentence that gives the best explanation of why this is more
+      accurate than timing a single oscillation (eliminates errors / experiment repeated / more readings / reduces
+      the effect of errors when starting and stopping the stopwatch). [1]
+      (e) A student plans to carry out more pendulum experiments. Mark the possible variables with V and the
+      precautions with P: amplitude of swing, length of pendulum, mass of pendulum bob, shape of pendulum bob, use
+      of a reference point to aid counting, viewing the rule at right-angles when measuring the length. [2]

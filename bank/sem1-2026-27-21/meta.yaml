@@ -1,0 +1,36 @@
+id: sem1-2026-27-21
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.2'
+- 1.5.1
+tier: core
+marks: 7
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 2
+- label: a(iii)
+  marks: 2
+- label: b
+  marks: 2
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 9
+  - 10
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  A car travels along a straight horizontal road, initially at a constant speed. The speed-time graph in Fig. 1.1 shows the motion of the car from time t = 0 (constant 29 m/s until about 6.4 s, then decelerates uniformly to 0 at 11.2 s).
+  At time t = 5.7 s, the driver sees an obstruction in the road. The driver applies the brakes a short time later, and the car begins to slow down.
+  (a) Using Fig. 1.1, determine: (i) the speed of the car at time t = 0 [1] (ii) the distance travelled by the car between the driver seeing the obstruction at t = 5.7 s and the car beginning to slow down [2] (iii) the distance travelled by the car between t = 0 and t = 11.2 s [2]
+  (b) The speed of the car affects both the thinking distance and the braking distance. State one factor that affects only the braking distance of the car. Explain how a change in this factor increases the braking distance. [2]

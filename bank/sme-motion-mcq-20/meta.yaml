@@ -1,0 +1,27 @@
+id: sme-motion-mcq-20
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: B
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 29
+  - 30
+  question_no: '11'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'B: average speed = gradient between X and Y = (12 - 6) m / (30 - 10) s = 0.30 m/s.'
+text: Medium Q11. The diagram shows a distance-time graph for an object moving in a straight line. What
+  is the average speed between X and Y? A 0.20 m/s B 0.30 m/s C 0.40 m/s D 0.60 m/s

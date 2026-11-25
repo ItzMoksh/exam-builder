@@ -1,0 +1,37 @@
+id: sem1-2024-25-21
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 7
+difficulty: 1
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: b(i)
+  marks: 1
+- label: b(ii)
+  marks: 1
+- label: c
+  marks: 3
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 10
+  question_no: '1'
+  origin: 0625/33/M/J/23 Q1
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  Fig. 1.1 shows the distance-time graph for an engineer's journey. She drives from her home directly to her office and parks the car. She then drives from her office to her friend's house and parks the car.
+  Graph: distance from home/km against time/h; 0 to 60 km in 2 h, stationary at 60 km until 7 h, back to 20 km at 10 h, then stationary.
+  (a) Determine the distance between: (i) the engineer's home and her office (ii) the engineer's office and her friend's house. [1][1]
+  (b) Determine the time taken to travel between: (i) the engineer's home and her office (ii) the engineer's office and her friend's house. [1][1]
+  (c) Calculate the speed of the car between time = 7 h and time = 10 h. [3]

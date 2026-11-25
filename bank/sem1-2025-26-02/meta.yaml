@@ -1,0 +1,26 @@
+id: sem1-2025-26-02
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 2
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A racing car is fitted with an on-board computer. Every time the car passes the starting line, the computer
+  records the distance travelled in the following two seconds. Which set of data shows that the car is
+  increasing in speed during the two seconds? Tables of time/s and distance travelled/m:
+  A 0, 100, 200  B 0, 90, 180  C 0, 80, 190  D 0, 100, 180

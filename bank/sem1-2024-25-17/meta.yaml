@@ -1,0 +1,28 @@
+id: sem1-2024-25-17
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.1'
+tier: core
+marks: 1
+difficulty: 1
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 8
+  question_no: '17'
+  origin: 0625/23/O/N/17 Q1
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A measuring cylinder contains some water. A small metal block is slowly lowered into the water and is then removed.
+  Finally a piece of plastic is attached to the metal block and the block is again slowly lowered into the water.
+  The diagrams show the measuring cylinder at each stage of this process (1: water only at 55 cm3; 2: with metal block 70 cm3; 3: with metal block and plastic 80 cm3).
+  What is the volume of the piece of plastic?
+  A 10 cm3  B 25 cm3  C 70 cm3  D 80 cm3

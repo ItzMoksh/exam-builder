@@ -1,0 +1,37 @@
+id: ws-momentum-06
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+- 1.7.1
+tier: supplement
+marks: 6
+difficulty: 2
+parts:
+- label: b(i)
+  marks: 3
+- label: b(ii)
+  marks: 3
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 12
+  question_no: '6'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (b)(i) I = m delta v = 2.0 x 0.60 = 1.2 N s (ii) kinetic energy of A decreases; thermal/internal
+  energy produced due to friction; block slows down.
+notes: 'Printed Cambridge number ''4'' cropped away; worksheet calls it 6 (Pulley). Only part (b) was
+  pasted: part (a) of the original is missing, so the question starts at (b).'
+text: |
+  Two blocks A and B joined by a thin thread over a frictionless pulley; A at rest on a rough horizontal surface, B held
+  just below the pulley (Fig. 1.1). B is released and falls 0.45 m before the thread tightens. Mass of B 0.50 kg.
+  (b) Mass of A 2.0 kg; A moves to the right at 0.60 m/s. (i) Calculate the impulse exerted on block A as it accelerates
+  from rest to 0.60 m/s. (ii) Both blocks move at constant 0.60 m/s until B hits the ground. Explain the energy change
+  that takes place in block A after block B stops moving.

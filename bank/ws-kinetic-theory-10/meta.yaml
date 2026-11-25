@@ -1,0 +1,36 @@
+id: ws-kinetic-theory-10
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 2.1.3
+tier: supplement
+marks: 5
+difficulty: 2
+skills:
+- calculation
+- conclusion
+- trend
+parts:
+- label: a
+  marks: 1
+- label: b
+  marks: 2
+- label: c
+  marks: 2
+source:
+  slug: ws-kinetic-theory
+  file: sources/110429_2.pdf
+  pages:
+  - 4
+  question_no: '10'
+  site: school
+images:
+  question:
+  - q.png
+notes: Header says [6] (and 'Section C ... 6 marks') but the part marks printed add to 5 (1+2+2); marks
+  set to 5.
+text: |
+  A fixed mass of gas at constant temperature is compressed. Results: p/kPa 100, 200, 250, 400; V/cm3 80, 40, 32, 20.
+  (a) Calculate p x V for each pair of readings. (b) State the relationship between p and V shown by the results, and
+  the two conditions needed. (c) Calculate the volume when the pressure is 500 kPa.

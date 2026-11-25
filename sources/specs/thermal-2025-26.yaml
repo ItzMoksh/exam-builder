@@ -1,0 +1,127 @@
+source: thermal-2025-26
+site: school
+# Collage of pasted Cambridge questions. Each school question number sits on its own line above the
+# pasted strip, so y0 starts below it. No answer key in the source.
+questions:
+  - n: "01"
+    qno: 1
+    type: mcq
+    marks: 1
+    syllabus: ["2.2.3", "2.1.2"]
+    tier: core
+    difficulty: 1
+    answer: D
+    answer_by: claude
+    segments:
+      - {page: 1, y0: 128, y1: 300}
+    text: |
+      Evaporation occurs when molecules escape from a liquid surface into the air above it. During this process the
+      temperature of the liquid falls. Why does the temperature of the liquid fall?
+      A The molecules in the vapour expand because the pressure is less. B The molecules left in the liquid have more
+      space to move around. C The molecules move more slowly when they escape into the air. D The molecules with the
+      highest energies escape into the air.
+
+  - n: "02"
+    qno: 2
+    type: mcq
+    marks: 1
+    syllabus: ["2.1.3"]
+    tier: core
+    difficulty: 2
+    answer: C
+    answer_by: claude
+    notes: "C = pressure rises from a non-zero starting value. B also rises but starts from zero pressure, which is impossible for a gas that already has a measured pressure."
+    segments:
+      - {page: 1, y0: 300, y1: 700, x0: 70}
+    text: |
+      The pressure of a fixed mass of gas in a cylinder is measured. The volume of the cylinder is then slowly decreased.
+      The temperature of the gas does not change. Which graph could show the change of pressure of the gas during this
+      process? (four pressure-time graphs A-D: A horizontal, B rising from zero, C rising from a non-zero value,
+      D falling)
+
+  - n: "03"
+    qno: 3
+    type: mcq
+    marks: 1
+    syllabus: ["2.2.3"]
+    tier: core
+    difficulty: 1
+    answer: C
+    answer_by: claude
+    notes: "Fixed points / thermometer calibration are not a named point in the current 0625 syllabus; tagged 2.2.3 (melting point of ice)."
+    segments:
+      - {page: 2, y0: 46, y1: 190}
+    text: |
+      To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in
+      A pure alcohol. B pure distilled water. C pure melting ice. D pure mercury.
+
+  - n: "04"
+    qno: 4
+    type: mcq
+    marks: 1
+    syllabus: ["2.3.2"]
+    tier: core
+    difficulty: 1
+    answer: A
+    answer_by: claude
+    segments:
+      - {page: 2, y0: 220, y1: 600}
+    text: |
+      The diagram shows a cooling unit at the top of a refrigerator. Why is the cooling unit placed at the top?
+      A Cold air falls and warm air is displaced upwards. B Cold air is a bad conductor so heat is not conducted into the
+      refrigerator. C Cold air is a good conductor so heat is conducted out of the refrigerator. D Cold air remains at the
+      top and so prevents convection.
+
+  - n: "05"
+    qno: 5
+    type: theory
+    marks: 4
+    parts:
+      - {label: "i", marks: 4}
+    syllabus: ["2.2.2"]
+    tier: supplement
+    difficulty: 2
+    notes: "Only part (i) of the original question was pasted."
+    segments:
+      - {page: 3, y0: 46, y1: 270}
+    text: |
+      Some sea water has a specific heat capacity of 3900 J/(kg °C) and a boiling point of 100.6 °C. (i) Calculate the
+      energy required to raise the temperature of 0.800 kg of this sea water from 12.0 °C up to its boiling point. State
+      the equation that you use. (Delta E = m c Delta theta)
+
+  - n: "06"
+    qno: 6
+    type: theory
+    marks: 2
+    parts:
+      - {label: "b(i)", marks: 2}
+    syllabus: ["2.2.3"]
+    tier: core
+    difficulty: 2
+    notes: "Only part (b)(i) of the original question was pasted (starts at '(b)')."
+    segments:
+      - {page: 3, y0: 318, y1: 748}
+    text: |
+      (b) A block of ice is taken from a freezer at -25 °C, placed in a metal container and heated by a source of constant
+      power. Fig. 4.1 is a temperature-time heating curve A-B-C-D-E (melting at 0 °C, boiling at 100 °C); at E the
+      container is empty. (i) State what is taking place in the regions of the graph from B to C, and from D to E.
+
+  - n: "07"
+    qno: 7
+    type: theory
+    marks: 5
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 1}
+      - {label: "a(iii)", marks: 1}
+      - {label: "b", marks: 2}
+    syllabus: ["2.2.1", "2.1.2"]
+    tier: core
+    difficulty: 2
+    segments:
+      - {page: 4, y0: 46, y1: 747}
+    text: |
+      (a) The temperature of a block of iron is increased. State what happens to (i) the energy of the atoms due to their
+      vibrations, (ii) the average separation of the atoms, (iii) the density of the iron. (b) Concrete roads are laid in
+      sections with gaps filled with soft pitch (Fig. 6.1). Suggest why the concrete is laid in sections like this.
+      (thermal expansion)

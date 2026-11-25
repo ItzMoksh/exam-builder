@@ -1,0 +1,40 @@
+id: sem1-2025-26-23
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.4'
+- '1.8'
+- '1.1'
+tier: supplement
+marks: 8
+difficulty: 2
+parts:
+- label: a
+  marks: 3
+- label: b
+  marks: 2
+- label: c
+  marks: 2
+- label: d
+  marks: 1
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 12
+  - 13
+  question_no: '3'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  Fig. 1.1 is the top view of a rectangular paddling pool of constant depth (44.0 m by 20.0 m). The pool is
+  filled with sea water.
+  (a) The volume of the sea water in the pool is 264 m3. Calculate the depth of the pool. [3]
+  (b) The mass of the sea water in the pool is 2.70 x 10^5 kg. Calculate the density of the sea water. Give your
+  answer to 3 significant figures. [2]
+  (c) Calculate the pressure due to the sea water at the bottom of the pool. [2]
+  (d) State a suitable instrument for measuring the dimensions given in Fig. 1.1. [1]

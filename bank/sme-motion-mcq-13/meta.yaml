@@ -1,0 +1,32 @@
+id: sme-motion-mcq-13
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: supplement
+marks: 1
+difficulty: 2
+answer: D
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 20
+  question_no: '4'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms-1.png
+  - ms-2.png
+  - ms-3.png
+markscheme_text: 'D: acceleration = gradient of tangent at 0.4 s = (560 - 40)/(0.52 - 0.28) = 2.2 x 10^3
+  m/s^2.'
+notes: SME labels this Extended tier only. The key D (2.2 x 10^3 m/s^2) is consistent with the axis in
+  seconds; the explanation's closing tip saying the time is in ms does not match the printed graph (Time
+  / s).
+text: Medium Q4. A charged particle is accelerated when passing through an electric field. What is the
+  acceleration of the particle at 0.4 s? Speed-time curve (time in s); tangent gradient. A 4.6 x 10^-4
+  m/s^2 B 2.2 x 10^-3 m/s^2 C 7.5 x 10^2 m/s^2 D 2.2 x 10^3 m/s^2

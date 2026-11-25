@@ -1,0 +1,26 @@
+id: sem1-2024-25-08
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.8'
+tier: supplement
+marks: 1
+difficulty: 2
+answer: B
+answer_by: claude
+source:
+  slug: sem1-2024-25
+  file: sources/107769_2.pdf
+  pages:
+  - 4
+  question_no: '8'
+  origin: 0625/22/F/M/24 Q8
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  The diagram shows a column of liquid 50 cm high. The pressure, due to the liquid, at the bottom of the liquid is 6000 N/m2.
+  What is the density of the liquid?
+  A 310 kg/m3  B 1200 kg/m3  C 29 000 kg/m3  D 120 000 kg/m3

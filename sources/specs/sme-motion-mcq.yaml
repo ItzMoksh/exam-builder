@@ -1,0 +1,372 @@
+source: sme-motion-mcq
+site: savemyexams
+# Save My Exams topical MCQ booklet, Motion. Easy Q1-9 -> n01-09 (difficulty 1),
+# Medium Q1-13 -> n10-22 (difficulty 2), Hard Q1-5 -> n23-27 (difficulty 3).
+# Answers and explanations are printed in the source (ms crops).
+# "Extended tier only" labels printed by SME are left out of the crops; those questions are tier: supplement.
+questions:
+  # ---------------- Easy ----------------
+  - n: "01"
+    qno: 1
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: B
+    segments: [{page: 2, y0: 110, y1: 510, x0: 92}]
+    ms:
+      segments: [{page: 3, y0: 42, y1: 345}, {page: 4, y0: 42, y1: 485}, {page: 5, y0: 42, y1: 400}]
+      text: "B: constant speed on a distance-time graph is a straight sloping line. A stationary, C accelerating, D decelerating."
+    text: "Easy Q1. Which distance-time graph shows an object moving with constant speed? Four distance-time graphs A (horizontal line), B (straight line through origin), C (curve upwards), D (curve levelling off)."
+  - n: "02"
+    qno: 2
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: C
+    segments: [{page: 6, y0: 40, y1: 440, x0: 92}]
+    ms:
+      segments: [{page: 6, y0: 450, y1: 752}, {page: 7, y0: 42, y1: 70}, {page: 8, y0: 42, y1: 715}, {page: 9, y0: 42, y1: 445}]
+      text: "C: constant speed on a speed-time graph is a horizontal line. A accelerating, B decelerating, D at rest then accelerating."
+    text: "Easy Q2. Which speed-time graph shows an object moving with a constant speed? Four speed-time graphs A, B, C, D."
+  - n: "03"
+    qno: 3
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: D
+    segments: [{page: 9, y0: 455, y1: 705, x0: 92}]
+    ms:
+      segments: [{page: 9, y0: 715, y1: 750}, {page: 10, y0: 42, y1: 400}]
+      text: "D: distance = area under the speed-time graph; section D has the largest area (14 large squares)."
+    text: "Easy Q3. In which section of the graph is the most distance covered? Speed-time graph on a grid divided into sections A, B, C, D; area under graph."
+  - n: "04"
+    qno: 4
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: C
+    segments: [{page: 10, y0: 415, y1: 548, x0: 92}]
+    ms:
+      segments: [{page: 10, y0: 550, y1: 745}, {page: 11, y0: 42, y1: 150}]
+      text: "C: v = s/t = 30/2.5 = 12 m/s (metres and seconds give m/s)."
+    text: "Easy Q4. What is the speed of a bowling ball which travels down a 30 m lane in 2.5 seconds? A 75 miles per hour B 75 metres per second C 12 metres per second D 12 miles per hour"
+  - n: "05"
+    qno: 5
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 1
+    answer: C
+    segments: [{page: 11, y0: 160, y1: 585, x0: 92}]
+    ms:
+      segments: [{page: 11, y0: 605, y1: 725}, {page: 12, y0: 42, y1: 275}]
+      text: "C: speed-time graph starting from zero whose gradient decreases as air resistance increases, flattening at terminal speed."
+    notes: "Terminal velocity is supplement content in 0625; SME lists it as Easy without an Extended label."
+    text: "Easy Q5. A BASE jumper, initially at rest, falls from the top of El Capitan in Yosemite National Park. Air resistance is not ignored. Which graph represents their motion as they approach terminal velocity? Four graphs A-D (distance-time and speed-time)."
+  - n: "06"
+    qno: 6
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: A
+    segments: [{page: 12, y0: 288, y1: 530, x0: 92}, {page: 13, y0: 45, y1: 280, x0: 92}]
+    ms:
+      segments: [{page: 13, y0: 300, y1: 700}]
+      text: "A: gradient of distance-time graph = speed. P to Q constant, Q to R zero, R to S constant."
+    text: "Easy Q6. The graph shows how the distance travelled by a vehicle changes with time. Which row describes the speed of the vehicle in each section of the graph? Distance-time graph P Q R S. Table: P to Q, Q to R, R to S; A constant zero constant; B constant zero decreasing; C increasing constant decreasing; D increasing zero constant."
+  - n: "07"
+    qno: 7
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: B
+    segments: [{page: 14, y0: 40, y1: 418, x0: 92}]
+    ms:
+      segments: [{page: 14, y0: 422, y1: 700}]
+      text: "B: P at rest; Q accelerating, R constant speed, S decelerating, so moving in Q, R and S only."
+    text: "Easy Q7. The speed-time graph for a train is shown. Which regions of the graph show the train moving? A P, Q, R and S B Q, R and S only C Q and S only D R only"
+  - n: "08"
+    qno: 8
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 1
+    answer: A
+    segments: [{page: 15, y0: 40, y1: 360, x0: 92}]
+    ms:
+      segments: [{page: 15, y0: 375, y1: 530}]
+      text: "A: gradient of speed-time graph = acceleration; area under it = distance travelled."
+    notes: "SME labels this Extended tier only."
+    text: "Easy Q8. A speed-time graph is used to describe the motion of an object. Which quantities are calculated from the gradient of the graph and from the area under the graph? Table gradient / area: A acceleration, distance travelled; B acceleration, total journey time; C distance travelled, acceleration; D total journey time, distance travelled."
+  - n: "09"
+    qno: 9
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 1
+    answer: B
+    segments: [{page: 15, y0: 540, y1: 722, x0: 92}]
+    ms:
+      segments: [{page: 15, y0: 726, y1: 750}, {page: 16, y0: 42, y1: 295}]
+      text: "B: average speed = total distance / total time, so metre ruler and stopwatch."
+    text: "Easy Q9. A student carries out an experiment to find the average speed of a metal ball as it rolls down a slope. Which pieces of equipment are needed? A top pan balance and metre ruler B metre ruler and stopwatch C top pan balance and stopwatch D measuring cylinder and stopwatch"
+  # ---------------- Medium ----------------
+  - n: "10"
+    qno: 1
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: D
+    segments: [{page: 17, y0: 115, y1: 345, x0: 92}]
+    ms:
+      segments: [{page: 17, y0: 355, y1: 585}]
+      text: "D: average speed = (10.0 + 3.0) / (6.0 + 3.0) = 1.44 km/min."
+    text: "Medium Q1. A car travels along a clear 10.0 km section of motorway in 6.0 minutes. It then drives through 3.0 km of roadworks in 3.0 minutes. Which calculation will give the correct average speed for the journey? A 3.0/3.0 = 1.00 km/min B 10.0/6.0 = 1.67 km/min C = 2.67 km/min D = 1.44 km/min"
+    notes: "Source defect: options C and D print only '= 2.67 km/min' and '= 1.44 km/min' without the calculation (explanation says C is the sum of the two speeds, D is 13.0/9.0)."
+  - n: "11"
+    problem: "Option B is blank in the Save My Exams PDF. Fix or retype option B before use."
+    qno: 2
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: A
+    segments: [{page: 18, y0: 40, y1: 540, x0: 92}]
+    ms:
+      segments: [{page: 18, y0: 545, y1: 750}, {page: 19, y0: 42, y1: 325}]
+      text: "A: distance = area under speed-time graph = triangle = 1/2 x 6.5 x 8.0 = 26 m."
+    text: "Medium Q2. The graph shows the journey undertaken by a car (speed-time graph, triangle). Which equation correctly gives the distance travelled by the car? A (6.5 x 8.0)/2 = 26 m B (blank in source) C 6.5/8.0 = 0.81 m D 8.0/6.5 = 1.2 m"
+    notes: "Source defect: option B is blank in the SME PDF. Answer A is unaffected, but fix or replace option B before using in a paper."
+  - n: "12"
+    qno: 3
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: B
+    segments: [{page: 19, y0: 335, y1: 515, x0: 92}]
+    ms:
+      segments: [{page: 19, y0: 520, y1: 752}, {page: 20, y0: 42, y1: 135}]
+      text: "B: average speed = (8 x 300 m) / (4.0 x 60 s) = 10 m/s."
+    text: "Medium Q3. During a Go Karting race, a car does 8 laps of a 300 m course. It takes 4.0 minutes to complete the race. What was the average speed of the Go Kart? A 75 m/s B 10 m/s C 1.25 m/s D 600 m/s"
+  - n: "13"
+    qno: 4
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 2
+    answer: D
+    segments: [{page: 20, y0: 172, y1: 600, x0: 92}]
+    ms:
+      segments: [{page: 20, y0: 605, y1: 750}, {page: 21, y0: 50, y1: 620}, {page: 22, y0: 42, y1: 350}]
+      text: "D: acceleration = gradient of tangent at 0.4 s = (560 - 40)/(0.52 - 0.28) = 2.2 x 10^3 m/s^2."
+    notes: "SME labels this Extended tier only. The key D (2.2 x 10^3 m/s^2) is consistent with the axis in seconds; the explanation's closing tip saying the time is in ms does not match the printed graph (Time / s)."
+    text: "Medium Q4. A charged particle is accelerated when passing through an electric field. What is the acceleration of the particle at 0.4 s? Speed-time curve (time in s); tangent gradient. A 4.6 x 10^-4 m/s^2 B 2.2 x 10^-3 m/s^2 C 7.5 x 10^2 m/s^2 D 2.2 x 10^3 m/s^2"
+  - n: "14"
+    qno: 5
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: C
+    segments: [{page: 22, y0: 358, y1: 390, x0: 92}, {page: 23, y0: 42, y1: 450, x0: 92}]
+    ms:
+      segments: [{page: 23, y0: 455, y1: 750}, {page: 24, y0: 42, y1: 600}]
+      text: "C: areas under graphs A 27.5, B 20.5, C about 34.6 (quarter circle + rectangle), D 32, so C is largest."
+    text: "Medium Q5. Four speed-time graphs have axes with the same scales. Each large square has a height of 1 m/s and width of 1 s. Which graph shows the greatest distance covered? Graphs A, B, C (curve), D on grids; area under graph."
+  - n: "15"
+    qno: 6
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: A
+    segments: [{page: 24, y0: 612, y1: 640, x0: 92}, {page: 25, y0: 42, y1: 390, x0: 92}]
+    ms:
+      segments: [{page: 25, y0: 393, y1: 700}]
+      text: "A: at time t both lines have the same speed value. Runner 2 has covered more distance; neither has zero gradient; runner 2's speed is still increasing."
+    text: "Medium Q6. Two runners take part in a race. The graph shows how the speed of each runner changes with time. What does the graph show about the runners at time t? A Both runners are moving at the same speed. B Runner 1 has zero acceleration. C Runner 1 runs ahead of runner 2. D Runner 2 is slowing down."
+  - n: "16"
+    qno: 7
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 2
+    answer: C
+    segments: [{page: 26, y0: 72, y1: 210, x0: 92}]
+    ms:
+      segments: [{page: 26, y0: 213, y1: 520}]
+      text: "C: terminal velocity when resultant force is zero, i.e. air resistance equals weight."
+    notes: "SME labels this Extended tier only."
+    text: "Medium Q7. When does an object falling vertically through the air reach terminal velocity? A when the acceleration of the object becomes negative B when the acceleration of the object is equal to g C when the air resistance equals the weight of the object D when the air resistance is greater than the weight of the object"
+  - n: "17"
+    qno: 8
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 2
+    answer: A
+    segments: [{page: 26, y0: 562, y1: 712, x0: 92}, {page: 27, y0: 42, y1: 178, x0: 92}]
+    ms:
+      segments: [{page: 27, y0: 180, y1: 455}]
+      text: "A: a = (5.7 - 4.1)/(3.0 - 2.0) = 1.6 m/s^2."
+    notes: "SME labels this Extended tier only."
+    text: "Medium Q8. An athlete runs a 100 m race in a straight line. The table shows how his speed changes with time for the first 5.0 s of the race. speed m/s 0, 1.7, 4.1, 5.7, 6.5, 6.8; time/s 0, 1.0, 2.0, 3.0, 4.0, 5.0. What is the average acceleration of the athlete between time 2.0 s and time 3.0 s? A 1.6 m/s^2 B 1.9 m/s^2 C 4.9 m/s^2 D 5.7 m/s^2"
+  - n: "18"
+    qno: 9
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: D
+    segments: [{page: 27, y0: 465, y1: 745, x0: 92}]
+    ms:
+      segments: [{page: 28, y0: 42, y1: 300}]
+      text: "D: length of train = distance = speed x time = 40 x 2.0 = 80 m."
+    text: "Medium Q9. A man stands next to a railway track. A train travelling at 40 m/s takes 2.0 s to pass the man. What is the length of the train? A 20 m B 38 m C 40 m D 80 m"
+  - n: "19"
+    qno: 10
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: C
+    segments: [{page: 28, y0: 310, y1: 690, x0: 92}]
+    ms:
+      segments: [{page: 28, y0: 694, y1: 750}, {page: 29, y0: 42, y1: 448}]
+      text: "C: distance = area of triangle = 1/2 x 400 x 20 = 4000 m."
+    text: "Medium Q10. The graph represents the motion of a vehicle (speed-time graph, uniform acceleration from 0 to 20 m/s in 400 s). What is the distance travelled by the vehicle in 400 s? A 20 m B 400 m C 4000 m D 8000 m"
+  - n: "20"
+    qno: 11
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: B
+    segments: [{page: 29, y0: 455, y1: 740, x0: 92}, {page: 30, y0: 42, y1: 150, x0: 92}]
+    ms:
+      segments: [{page: 30, y0: 152, y1: 530}]
+      text: "B: average speed = gradient between X and Y = (12 - 6) m / (30 - 10) s = 0.30 m/s."
+    text: "Medium Q11. The diagram shows a distance-time graph for an object moving in a straight line. What is the average speed between X and Y? A 0.20 m/s B 0.30 m/s C 0.40 m/s D 0.60 m/s"
+  - n: "21"
+    qno: 12
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 2
+    answer: B
+    segments: [{page: 31, y0: 40, y1: 242, x0: 92}]
+    ms:
+      segments: [{page: 31, y0: 245, y1: 478}]
+      text: "B: there is air resistance, and at terminal velocity velocity is constant so acceleration is zero."
+    notes: "Terminal velocity is supplement content in 0625."
+    text: "Medium Q12. An object falls towards the surface of the Earth. The object is falling at its terminal velocity. Which statement is correct? A There is air resistance and the acceleration of the object is negative. B There is air resistance and the acceleration of the object is zero. C There is no air resistance and the acceleration of the object is negative. D There is no air resistance and the acceleration of the object is zero."
+  - n: "22"
+    qno: 13
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 2
+    answer: C
+    segments: [{page: 31, y0: 484, y1: 750, x0: 92}, {page: 32, y0: 42, y1: 170, x0: 92}]
+    ms:
+      segments: [{page: 32, y0: 175, y1: 560}]
+      text: "C: constant speed from 10 s to 25 s at 10 m/s, distance = 10 x 15 = 150 m."
+    text: "Medium Q13. The diagram shows a speed-time graph for a car travelling along a straight road. What is the distance travelled by the car while it is moving at constant speed? A 50 m B 75 m C 150 m D 200 m"
+  # ---------------- Hard ----------------
+  - n: "23"
+    qno: 1
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 3
+    answer: B
+    segments: [{page: 33, y0: 145, y1: 500, x0: 92}]
+    ms:
+      segments: [{page: 33, y0: 510, y1: 750}, {page: 34, y0: 42, y1: 90}]
+      text: "B: free fall acceleration g is constant, so speed increases and acceleration is constant."
+    notes: "SME labels this Extended tier only."
+    text: "Hard Q1. A cannonball is dropped from a three story building. Which row of the table correctly describes both the speed and the acceleration of the cannonball as it falls? You can ignore air resistance for this question. Speed / Acceleration: A constant constant; B increasing constant; C increasing increasing; D constant increasing. Free fall."
+  - n: "24"
+    qno: 2
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 3
+    answer: A
+    segments: [{page: 34, y0: 97, y1: 565, x0: 92}]
+    ms:
+      segments: [{page: 34, y0: 570, y1: 750}, {page: 35, y0: 42, y1: 505}]
+      text: "A: constant speed (horizontal line) from t = 20 s to 30 s at 15 m/s, distance = 10 x 15 = 150 m."
+    text: "Hard Q2. The graph shows the motion of a motorbike (speed-time graph). What is the distance travelled by the motorbike while it is moving at a constant speed? A 150 m B 50 m C 300 m D 750 m"
+  - n: "25"
+    qno: 3
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: core
+    difficulty: 3
+    answer: D
+    segments: [{page: 35, y0: 510, y1: 545, x0: 92}, {page: 36, y0: 40, y1: 422, x0: 92}]
+    ms:
+      segments: [{page: 36, y0: 425, y1: 660}]
+      text: "D: average speed = (100 + 50 + 30 + 70) km / (4.0 - 0.5) h = 71.4 km/h."
+    text: "Hard Q3. A helicopter flies the route shown below (H to I 100 km, I to J 50 km, J to K 30 km, K to L 70 km). It stops at point I for 30 minutes to pick up some cargo. The total time the helicopter takes between taking off from H and landing at L is 4.0 hours. Calculate the average speed of the helicopter when it is flying. A 55.6 km/h B 250 km/h C 62.5 km/h D 71.4 km/h"
+  - n: "26"
+    qno: 4
+    type: mcq
+    marks: 1
+    syllabus: ["1.2", "3.4"]
+    tier: core
+    difficulty: 3
+    answer: C
+    segments: [{page: 36, y0: 668, y1: 748, x0: 92}, {page: 37, y0: 40, y1: 208, x0: 92}]
+    ms:
+      segments: [{page: 37, y0: 212, y1: 550}]
+      text: "C: distance = (343 x 0.84)/2 = 144 m (sound goes to the cliff and back)."
+    text: "Hard Q4. A man claps in a forest. There is nobody around to hear the sound. However, there is a very flat cliff face some distance away, and the man hears an echo from the clap 0.84 s later. The speed of sound in air is 343 m/s. How far away was the man from the cliff? A 408 m B 288 m C 144 m D 204 m"
+  - n: "27"
+    qno: 5
+    type: mcq
+    marks: 1
+    syllabus: ["1.2"]
+    tier: supplement
+    difficulty: 3
+    answer: C
+    segments: [{page: 38, y0: 40, y1: 452, x0: 92}]
+    ms:
+      segments: [{page: 38, y0: 455, y1: 650}, {page: 39, y0: 45, y1: 340}]
+      text: "C: acceleration = gradient of tangent; at 20 s the tangent is horizontal so acceleration = 0."
+    notes: "SME labels this Extended tier only."
+    text: "Hard Q5. The graph shows the speed-time graph of a cyclist moving in a straight line (curve with a maximum at 20 s). What is the acceleration of the cyclist at a time of 20 seconds? A 0.5 m/s^2 B -0.5 m/s^2 C 0 m/s^2 D 11.5 m/s^2"

@@ -1,0 +1,33 @@
+id: sem1-2025-26-22
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+- 1.7.1
+tier: supplement
+marks: 6
+difficulty: 2
+parts:
+- label: a(i)
+  marks: 3
+- label: a(ii)
+  marks: 3
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 11
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  Fig. 2.1 shows two identical trolleys, P and Q, held at rest on a frictionless horizontal surface. A load is
+  fixed to trolley P. There is a compressed spring between trolley P and trolley Q. The trolleys are released.
+  As the spring expands, it pushes the trolleys apart. Trolley Q moves to the right at a constant speed of
+  0.36 m/s. The mass of each trolley is 1.2 kg. The mass of the load on trolley P is 1.5 kg. The spring has
+  negligible mass.
+  (a) Calculate: (i) the speed at which trolley P moves to the left [3] (ii) the kinetic energy of trolley Q
+  when it moves at 0.36 m/s. [3] (momentum conservation, explosion)

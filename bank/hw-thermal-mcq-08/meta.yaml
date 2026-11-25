@@ -1,0 +1,23 @@
+id: hw-thermal-mcq-08
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.3
+tier: core
+marks: 1
+difficulty: 1
+answer: C
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 4
+  question_no: '8'
+  site: unknown
+images:
+  question:
+  - q.png
+text: Thermal energy travels through space (a vacuum) from the Sun to the Earth. How is it transferred?
+  A conduction only B convection only C radiation only D convection and radiation

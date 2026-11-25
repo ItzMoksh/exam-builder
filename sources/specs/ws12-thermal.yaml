@@ -1,0 +1,186 @@
+source: ws12-thermal
+site: tophysicstutor
+# School worksheet WS12 (TSRS Moulsari, Grade 9). School header on p1 and footer on every page are cropped out.
+# Questions are structured (OCR AS-style "quality of written communication" pencil icons on Q3 and Q6),
+# several go beyond IGCSE (internal energy definitions, data-logger method). No MCQs, no key.
+questions:
+  - n: "01"
+    qno: 1
+    type: theory
+    marks: 8
+    parts:
+      - {label: "a(ii)", marks: 2}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 1}
+      - {label: "c", marks: 3}
+    syllabus: ["4.2.5", "2.2.2", "2.2.3"]
+    tier: supplement
+    difficulty: 2
+    notes: "Worksheet starts at part (ii); part (a)(i) [1 mark] is missing from the source, so the printed [Total: 9] is one more than the 8 marks shown. Part (c) refers to Fig. 3.1 (numbering from the original paper)."
+    segments:
+      - {page: 1, y0: 160, y1: 650}
+      - {page: 2, y0: 60, y1: 470}
+    mask:
+      - {page: 1, x0: 40, y0: 162, x1: 68, y1: 186}
+    text: |
+      (ii) A domestic refrigerator works at a mean power of 70 W. Calculate the cost of running this refrigerator for one week at a cost of 12p per kW h. cost = £ ... [2]
+      (b) A large jug containing 2.0 kg of milk is placed in a refrigerator. The milk cools from 18 °C to 3.0 °C over a time period of 100 minutes. The specific heat capacity of milk is 3800 J kg-1 K-1. Calculate
+      (i) the thermal energy removed from the milk as it cools from 18 °C to 3 °C. energy removed = ... J [2]
+      (ii) the rate at which thermal energy is removed from the milk. rate = ... J s-1 [1]
+      (c) Another container full of milk is placed in a freezer and cooled from 18 °C to -18 °C. Assume that thermal energy is removed at a constant rate and that the freezing-point of milk is 0 °C. The specific heat capacity of milk below 0 °C is significantly less than its value above 0 °C. On Fig. 3.1 sketch a graph to show the variation with time of the temperature of the milk over the range 18 °C to -18 °C. Numbers are not required on the time axis. (Axes: temperature/°C 18, 0, -18 against time.) [3]
+  - n: "02"
+    qno: 2
+    type: theory
+    marks: 12
+    parts:
+      - {label: "a(i)", marks: 2}
+      - {label: "a(ii)", marks: 2}
+      - {label: "b", marks: 8}
+    syllabus: ["2.2.2"]
+    tier: supplement
+    difficulty: 3
+    notes: "Part (b) is an 8-mark extended experiment description (electrical method for c of a liquid) with a long answer space over two pages."
+    segments:
+      - {page: 3, y0: 80, y1: 635}
+      - {page: 4, y0: 65, y1: 768}
+      - {page: 5, y0: 65, y1: 415}
+    text: |
+      (a) The table shows the specific heat capacities c of alcohol and water: alcohol 2460 J kg-1 K-1, water 4180 J kg-1 K-1.
+      (i) An alcohol thermometer is placed in 80 g of water at 20 °C. The mass of alcohol in the thermometer is 0.050 g. The water is then heated from 20 °C to 60 °C. Calculate the ratio energy required to warm the water from 20 °C to 60 °C / energy required to warm the alcohol from 20 °C to 60 °C. ratio = ... [2]
+      (ii) State and explain a situation in which the very high value of specific heat capacity for water is useful. [2]
+      (b) Describe an electrical experiment to determine the specific heat capacity c of a liquid. Include in your answer: a labelled diagram of the arrangement; a list of the measurements to be taken; an explanation of how the value of c would be determined from your results; possible sources of uncertainty in your measurements and how these could be reduced. [8]
+  - n: "03"
+    qno: 3
+    type: theory
+    marks: 10
+    parts:
+      - {label: "a", marks: 1}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 2}
+      - {label: "c(i)", marks: 3}
+      - {label: "c(ii)", marks: 2}
+    syllabus: ["2.2.3", "2.1.2", "2.2.2", "1.4"]
+    tier: supplement
+    difficulty: 3
+    segments:
+      - {page: 6, y0: 84, y1: 745}
+    text: |
+      (a) State the term used for the energy required to change a solid into a liquid. You should use the appropriate technical term spelled correctly. [1]
+      (b) (i) Define the internal energy of a system. [2]
+      (ii) There is a change in internal energy when a mass of water at 100 °C becomes an equal mass of vapour at 100 °C. Explain why. [2]
+      (c) (i) The air in a greenhouse has a volume of 15 m3, a density of 1.2 kg m-3 and a specific heat capacity of 990 J kg-1 K-1. Immediately after sunset, the soil is transferring thermal energy to the air at an average rate of 12 W. Estimate the increase in temperature of the air in the greenhouse one hour after sunset as a result of this energy transfer from the soil. increase in temperature = ... K [3]
+      (ii) Suggest two possible reasons why the actual increase in temperature of the air is likely to be much lower than this estimate. [2]
+  - n: "04"
+    qno: 4
+    type: theory
+    marks: 10
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 1}
+      - {label: "a(iii)", marks: 2}
+      - {label: "b(i)", marks: 4}
+      - {label: "b(ii)", marks: 2}
+    syllabus: ["2.1.2", "2.2.3", "2.2.2"]
+    tier: supplement
+    difficulty: 3
+    segments:
+      - {page: 7, y0: 82, y1: 745}
+      - {page: 8, y0: 70, y1: 605}
+    text: |
+      (a) Describe (i) the motion of atoms in a solid at a temperature well below its melting point [1]
+      (ii) the effect of a small increase in temperature on the motion of these atoms [1]
+      (iii) the effect on the internal energy and temperature of the solid when it melts. [2]
+      (b) Fig. 6.1 shows the apparatus used to determine the specific heat capacity of a metal. A block made of the metal is heated by an electrical heater that produces a constant power of 48 W. In order to reduce heat loss from the sides, top and bottom of the block, it is covered by a layer of insulating material. (Diagram: metal block with electrical heater, temperature sensors to data logger, insulating material.) Temperature sensors connected to a data logger show that the block and insulation are initially at the room temperature of 18 °C. The heater is switched on and after 720 seconds the sensors show that the temperature of the block is 54 °C and the average temperature of the insulating material is 38 °C.
+      (i) Use the information given above and the data shown below to determine the specific heat capacity of the metal block. mass of metal block = 0.98 kg; power of heater = 48 W; specific heat capacity of the insulating material = 850 J kg-1 K-1; mass of the insulating material = 0.027 kg. [4]
+      (ii) A second experiment is done without the insulating material and with the block again starting at 18 °C. Discuss whether the value of the specific heat capacity calculated from the second experiment is likely to be lower, the same or higher than the value calculated in (i). [2]
+  - n: "05"
+    qno: 5
+    type: theory
+    marks: 11
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 3}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 4}
+      - {label: "b(iii)", marks: 1}
+    syllabus: ["1.7.1", "1.7.2", "2.2.2"]
+    tier: supplement
+    difficulty: 3
+    segments:
+      - {page: 9, y0: 130, y1: 755}
+      - {page: 10, y0: 60, y1: 455}
+    text: |
+      A car of mass 970 kg is travelling at 27 m s-1 when the brakes are applied. The car is brought to rest in a distance of 40 m.
+      (a) (i) Calculate the kinetic energy of the car when it is travelling at 27 m s-1. [1]
+      (ii) Hence calculate the average braking force on the car stating any assumption that you make. [3]
+      (b) The car has four brake discs each of mass 1.2 kg. The material from which the discs are made has a specific heat capacity of 520 J kg-1 K-1.
+      (i) Calculate the temperature rise of each disc after braking from a speed of 27 m s-1. Assume all the kinetic energy of the car is converted into internal energy of the brake discs equally during braking. [2]
+      (ii) State and explain two reasons why the actual temperature rise will be different. [4]
+      (iii) Suggest one modification to the design of the disc braking system that could reduce the temperature rise of the discs. [1]
+  - n: "06"
+    qno: 6
+    type: theory
+    marks: 8
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 1}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 2}
+      - {label: "b(iii)", marks: 2}
+    syllabus: ["2.2.3", "2.2.2", "4.2.5"]
+    tier: supplement
+    difficulty: 2
+    segments:
+      - {page: 11, y0: 80, y1: 790}
+    text: |
+      (a) In your answer you should use appropriate technical terms spelled correctly. State the terms used to describe the thermal energy required to change (i) a solid into a liquid at a constant temperature [1] (ii) a liquid into a gas at a constant temperature. [1]
+      (b) Most households waste energy by overfilling electric kettles. Assume that, on average, 0.80 kg of water per household per day is unnecessarily boiled.
+      (i) Estimate the energy required when 0.80 kg of water, initially at 18 °C, is heated in an electric kettle. The kettle switches off automatically when the water is boiling steadily at 100 °C. The specific heat capacity of water is 4200 J kg-1 K-1. heat energy = ... J [2]
+      (ii) State and explain two different reasons why the actual quantity of energy required to warm the water to 100 °C is greater than the estimate in (i). [2]
+      (iii) Calculate, in kW h, the average annual energy wasted per household by boiling too much water. [2]
+  - n: "07"
+    qno: 7
+    type: theory
+    marks: 12
+    parts:
+      - {label: "a(i)", marks: 1}
+      - {label: "a(ii)", marks: 1}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 2}
+      - {label: "c(i)", marks: 4}
+      - {label: "c(ii)", marks: 2}
+    syllabus: ["2.2.2", "2.2.3", "2.1.2", "1.7.4"]
+    tier: supplement
+    difficulty: 3
+    segments:
+      - {page: 12, y0: 78, y1: 615}
+      - {page: 13, y0: 60, y1: 520}
+      - {page: 14, y0: 55, y1: 590}
+    text: |
+      (a) (i) Define specific heat capacity. [1]
+      (ii) Describe the difference between the latent heat of fusion and the latent heat of vaporisation. [1]
+      (b) The graph in Fig. 4.1 shows the variation of temperature with time for a fixed mass of substance when heated by a constant power source. At A the substance is a solid; at E the substance is a vapour. (Heating curve A-B rising, B-C flat, C-D rising less steeply, D-E flat.)
+      (i) Describe the changes taking place in the kinetic energy and potential energy of the molecules for the following sections: A to B; B to C. [2]
+      (ii) State and explain what you can conclude from Fig. 4.1 about the specific heat capacity of the substance in the solid state compared with the specific heat capacity of the substance in the liquid state. [2]
+      (c) The electric heating element of a bathroom shower has a power rating of 5.0 kW. An attempt is made to test the accuracy of this value by measuring the rate of flow of the water and the temperature of the water before and after passing the element. temperature of water supply = 17.4 °C; temperature of water after being heated = 36.7 °C; rate of flow of water = 3.60 x 10-3 m3 min-1; density of water = 1000 kg m-3; specific heat capacity of water = 4200 J kg-1 K-1.
+      (i) Show that the power of the heating element is approximately 5 kW. [4]
+      (ii) State and explain a possible source of uncertainty that might affect the reliability of the test. [2]
+  - n: "08"
+    qno: 8
+    type: theory
+    marks: 9
+    parts:
+      - {label: "a", marks: 3}
+      - {label: "b(i)", marks: 2}
+      - {label: "b(ii)", marks: 2}
+      - {label: "c", marks: 2}
+    syllabus: ["2.2.2", "1.4", "1.7.4"]
+    tier: supplement
+    difficulty: 3
+    segments:
+      - {page: 15, y0: 80, y1: 790}
+    text: |
+      A room measures 4.5 m x 4.0 m x 2.4 m. The air in the room is heated by a gas-powered heater from 12 °C to 21 °C. The density of the air, assumed to remain constant, is 1.3 kg m-3.
+      (a) Calculate the thermal energy required to raise the temperature of the air in the room. The specific heat capacity of air is 990 J kg-1 K-1. [3]
+      (b) The heater has an output power of 2.3 kW. The heating gas has a density 0.72 kg m-3. Each cubic metre of heating gas provides 39 MJ of thermal energy. Use your answer to (a) to calculate (i) the time required to raise the temperature of the air from 12 °C to 21 °C [2] (ii) the mass of heating gas used in this time. [2]
+      (c) Suggest two reasons why the time required and the mass of heating gas will in practice be greater than the values calculated in (b). [2]

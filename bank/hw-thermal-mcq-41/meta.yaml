@@ -1,0 +1,24 @@
+id: hw-thermal-mcq-41
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.3
+tier: core
+marks: 1
+difficulty: 1
+answer: A
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 21
+  question_no: '41'
+  site: unknown
+images:
+  question:
+  - q.png
+text: Two identical cars, one black and one white, left in bright sunshine then at night. Which car shows
+  the greater rate of temperature increase and which the greater rate of temperature decrease? Absorbers
+  and emitters of infra-red radiation.

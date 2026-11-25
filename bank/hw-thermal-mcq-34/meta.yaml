@@ -1,0 +1,25 @@
+id: hw-thermal-mcq-34
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.2
+- 2.2.1
+tier: core
+marks: 1
+difficulty: 2
+answer: A
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 17
+  question_no: '34'
+  site: unknown
+images:
+  question:
+  - q.png
+text: Why does convection take place in a liquid when it is heated? A liquids expand when heated B liquids
+  bubble near boiling point C molecules expand when heated D molecules near the surface escape into the
+  air

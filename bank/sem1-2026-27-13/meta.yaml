@@ -1,0 +1,26 @@
+id: sem1-2026-27-13
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.8'
+- 1.5.2
+tier: core
+marks: 1
+difficulty: 3
+answer: B
+answer_by: claude
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 6
+  question_no: '13'
+  site: school
+images:
+  question:
+  - q.png
+text: An athlete doing press-ups on a floor using both hands; area of contact of each hand with the floor
+  is S; toes act as a pivot. The athlete's weight W acts through point X; the distance between toes and
+  X is three quarters of the distance between toes and shoulders. What is the pressure exerted on the
+  palm of each of the athlete's hands? A W/8S B 3W/8S C W/4S D 3W/4S

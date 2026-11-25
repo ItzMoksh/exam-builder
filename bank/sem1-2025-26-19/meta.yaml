@@ -1,0 +1,29 @@
+id: sem1-2025-26-19
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.1
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 9
+  question_no: '19'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A skydiver jumps from a stationary helicopter and reaches a steady vertical speed. She then opens her
+  parachute. Which statement about the falling skydiver is correct?
+  A As her parachute opens, her acceleration is upwards.
+  B As she falls at a steady speed with her parachute open, her weight is zero.
+  C When she accelerates, the resultant force on her is zero.
+  D When she falls at a steady speed, air resistance is zero.

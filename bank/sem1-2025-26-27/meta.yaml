@@ -1,0 +1,60 @@
+id: sem1-2025-26-27
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.2
+tier: core
+marks: 9
+difficulty: 2
+skills:
+- calculation
+- precaution
+- draw-diagram
+- variables
+- source-of-error
+- repeat-readings
+- significant-figures
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 2
+- label: b
+  marks: 1
+- label: c
+  marks: 1
+- label: d
+  marks: 2
+- label: e
+  marks: 2
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 17
+  - 18
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  A student is determining the weight of a load using a balancing method. Fig. 1.1 shows the apparatus (metre
+  rule on a pivot, load P at distance x, load Q at distance y).
+  (a) The student places the metre rule on the pivot and adjusts its position so that the metre rule is as near
+  as possible to being balanced. Scale reading = 50.2 cm. He places a 2.00 N load P on the metre rule so that
+  its centre is exactly at the 20.0 cm mark on the rule.
+  (i) Use this information to determine the distance x. [1]
+  (ii) Explain how you would ensure that the centre of the load P is exactly at the 20.0 cm mark on the rule.
+  You may draw a diagram. [2]
+  (b) The student places a load Q on the metre rule and adjusts its position so that the metre rule is as near
+  as possible to being balanced. He measures the distance y between the centre of load Q and the pivot.
+  y = 15.3 cm. Calculate the weight W of load Q using the equation W = kx/y, where k = 2.00 N. [1]
+  (c) The student repeats the procedure using a different, suitably chosen, distance x. Suggest a suitable
+  distance x. [1]
+  (d) The student calculates a new value of W = 4.04 N. Suggest two reasons why the values determined for W may
+  not be the same. [2]
+  (e) Calculate the average W_AV of the values for W, the weight of load Q. Give your answer to a suitable
+  number of significant figures for this experiment. [2]

@@ -1,0 +1,42 @@
+id: ws12-thermal-05
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.7.1
+- 1.7.2
+- 2.2.2
+tier: supplement
+marks: 11
+difficulty: 3
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 3
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 4
+- label: b(iii)
+  marks: 1
+source:
+  slug: ws12-thermal
+  file: sources/DOC-20261029-WA0017.pdf
+  pages:
+  - 9
+  - 10
+  question_no: '5'
+  site: tophysicstutor
+images:
+  question:
+  - q-1.png
+  - q-2.png
+text: |
+  A car of mass 970 kg is travelling at 27 m s-1 when the brakes are applied. The car is brought to rest in a distance of 40 m.
+  (a) (i) Calculate the kinetic energy of the car when it is travelling at 27 m s-1. [1]
+  (ii) Hence calculate the average braking force on the car stating any assumption that you make. [3]
+  (b) The car has four brake discs each of mass 1.2 kg. The material from which the discs are made has a specific heat capacity of 520 J kg-1 K-1.
+  (i) Calculate the temperature rise of each disc after braking from a speed of 27 m s-1. Assume all the kinetic energy of the car is converted into internal energy of the brake discs equally during braking. [2]
+  (ii) State and explain two reasons why the actual temperature rise will be different. [4]
+  (iii) Suggest one modification to the design of the disc braking system that could reduce the temperature rise of the discs. [1]

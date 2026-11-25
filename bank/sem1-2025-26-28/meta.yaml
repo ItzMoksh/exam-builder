@@ -1,0 +1,76 @@
+id: sem1-2025-26-28
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- '1.1'
+tier: core
+marks: 11
+difficulty: 2
+skills:
+- measure-on-diagram
+- calculation
+- parallax
+- read-scale
+- record-readings
+- conclusion
+- repeat-readings
+- variables
+- precaution
+parts:
+- label: a(i)
+  marks: 1
+- label: a(ii)
+  marks: 1
+- label: a(iii)
+  marks: 1
+- label: b(i)
+  marks: 1
+- label: b(ii)
+  marks: 2
+- label: c
+  marks: 2
+- label: d
+  marks: 1
+- label: e
+  marks: 2
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 19
+  - 20
+  - 21
+  - 22
+  question_no: '2'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+  - q-4.png
+text: |
+  A student is comparing the oscillations of two pendulums. Fig. 1.1 shows the first pendulum (clamp, bob,
+  distance d).
+  (a)(I) On Fig. 1.1, measure the distance d, from the bottom of the clamp to the bottom of the bob. [1]
+  (II) Fig. 1.1 is drawn 1/10th actual size. Calculate the actual distance D from the bottom of the clamp to the
+  bottom of the bob. [1]
+  (III) Explain briefly how to use a set-square to avoid a parallax (line-of-sight) error when measuring the
+  length of this pendulum. You may draw a diagram. [1]
+  (b) The student displaces the bob slightly and releases it so that it swings. She measures the time t for 20
+  complete oscillations. The time t is shown on the stopwatch in Fig. 1.2 (00:28.12).
+  (I) Write down the time t shown in Fig. 1.2. [1]
+  (II) Calculate the period T1 of the pendulum. The period is the time for one complete oscillation. [2]
+  (c) The student repeats the procedure using another pendulum as shown in Fig. 1.3. This has a long, thin
+  pendulum bob. The distance D is the same as for the first pendulum. T2 = 1.37 s. In this experiment, both
+  pendulum bobs have the same mass. A student suggests that since both pendulums have the same overall length D
+  and mass, the periods T1 and T2 should be equal. State whether the results support this suggestion. Justify
+  your answer by reference to the results. [2]
+  (d) The period T of a pendulum can be determined by measuring the time t for 20 complete oscillations and then
+  calculating the period. Tick the box next to the sentence that gives the best explanation of why this is more
+  accurate than timing a single oscillation (eliminates errors / experiment repeated / more readings / reduces
+  the effect of errors when starting and stopping the stopwatch). [1]
+  (e) A student plans to carry out more pendulum experiments. Mark the possible variables with V and the
+  precautions with P: amplitude of swing, length of pendulum, mass of pendulum bob, shape of pendulum bob, use
+  of a reference point to aid counting, viewing the rule at right-angles when measuring the length. [2]

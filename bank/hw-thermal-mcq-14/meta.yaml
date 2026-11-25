@@ -1,0 +1,25 @@
+id: hw-thermal-mcq-14
+course: ig9-physics
+type: mcq
+status: draft
+problem: Table looks cut off in the source (times 3, 3, 4, 4 give a tie). Check against the original paper.
+syllabus:
+- 2.3.1
+tier: core
+marks: 1
+difficulty: 1
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 7
+  question_no: '14'
+  site: unknown
+images:
+  question:
+  - q.png
+notes: 'Source table looks truncated: the heading reads ''taken / s'' and the times print as 3, 3, 4,
+  4, so P and Q tie for the shortest time. Answer left empty; check the original paper or fix the table
+  before use.'
+text: Four rods of different metals P, Q, R, S, equal lengths and diameters, heated at one end. Table
+  of time taken for the other end to rise by 1.0 degC. Which metal is the best conductor of thermal energy?

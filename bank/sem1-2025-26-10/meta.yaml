@@ -1,0 +1,27 @@
+id: sem1-2025-26-10
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 1.5.2
+- 1.5.3
+tier: core
+marks: 1
+difficulty: 2
+answer: A
+answer_by: claude
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 5
+  question_no: '10'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  The diagram shows a beam lying on the ground. End Q is lifted from the ground by the force F. End P of the
+  beam remains on the ground. The length of the beam is 3.0 m and its weight is 600 N. The centre of mass of
+  the beam at G is 1.0 m from end P. What is the size of the force F when it just raises end Q from the ground?
+  A 200 N  B 300 N  C 400 N  D 600 N

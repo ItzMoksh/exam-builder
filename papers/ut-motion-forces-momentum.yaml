@@ -1,0 +1,48 @@
+name: Unit Test 2 Physics IG9 2026-27
+exam: Unit Test 2 (2026-27)
+class: IGCSE – Class 9
+time: 45 minutes
+batch: ig9-2026-27
+status: draft
+footer_code: TSRS Moulsari/IG9/Physics/UT2/2026-27
+sections:
+- title: Section I – Multiple Choice Questions
+  type: mcq
+  marks: 10
+  topics:
+  - '1.1'
+  - '1.2'
+  - '1.3'
+  - '1.4'
+  - '1.5'
+  - '1.6'
+  questions:
+  - ws-scalar-vector-01
+  - sme-motion-mcq-01
+  - sem1-2025-26-18
+  - sme-motion-mcq-22
+  - sem1-2025-26-06
+  - sem1-2024-25-13
+  - sem1-2025-26-07
+  - sem1-2024-25-05
+  - sme-motion-mcq-23
+  - sme-motion-mcq-25
+- title: Section II – Structured Questions
+  type: theory
+  marks: 10
+  topics:
+  - '1.2'
+  - '1.4'
+  - '1.5'
+  - '1.6'
+  questions:
+  - ws-momentum-05
+- title: Section III – Alternative to Practical
+  type: atp
+  marks: 10
+  topics:
+  - '1.1'
+  - '1.4'
+  - '1.5'
+  questions:
+  - igexams-hookes-law-atp-02

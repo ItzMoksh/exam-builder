@@ -1,0 +1,36 @@
+id: ws-momentum-07
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.6'
+tier: supplement
+marks: 6
+difficulty: 2
+parts:
+- label: a
+  marks: 3
+- label: b(i)
+  marks: 2
+- label: b(ii)
+  marks: 1
+source:
+  slug: ws-momentum
+  file: sources/108374_3.pdf
+  pages:
+  - 13
+  question_no: '7'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a) momentum before = after; 800 x 2 = 1600; v = (1600 - 1300)/800 = 0.38 m/s (b)(i)
+  impulse = change in momentum = 1300 N s (ii) 1300 N s
+notes: Printed Cambridge number '5' cropped away; worksheet calls it 7 (Car collision).
+text: |
+  Fig. 3.1 shows a collision at very slow speed between two cars. Car B, 800 kg, moving at 2.0 m/s collides with
+  stationary car A, 1000 kg. Afterwards both travel in the initial direction of car B. (a) Car A moves at 1.3 m/s.
+  Show that the speed of car B after the collision is approximately 0.4 m/s. (b)(i) Calculate the impulse exerted by
+  car A on car B. (ii) State the impulse exerted by car B on car A.

@@ -1,0 +1,26 @@
+id: hw-thermal-mcq-06
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.4
+- 2.3.2
+tier: core
+marks: 1
+difficulty: 2
+answer: B
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 3
+  question_no: '6'
+  site: unknown
+images:
+  question:
+  - q.png
+text: Two plastic cups one inside the other with a small spacer and small air gap; hot water in the inner
+  cup with a lid, standing on a bench. Which statement is correct? A bench heated by convection from bottom
+  of outer cup B lid reduces energy lost by convection C no thermal conduction through sides D thermal
+  radiation prevented by the small air gap

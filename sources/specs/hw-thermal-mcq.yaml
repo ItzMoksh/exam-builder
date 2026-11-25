@@ -1,0 +1,629 @@
+# PhysicsAndMathsTutor topical MCQs on thermal physics. No answer key in the source; answers worked out by Claude.
+source: hw-thermal-mcq
+site: unknown
+questions:
+- n: '01'
+  qno: 1
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 1, y0: 49, y1: 381, x0: 62.8}
+  text: 'Liquid heated in a beaker from below: how does the density change and what is the energy transfer process? Table: density decreases/increases; conduction/convection.'
+- n: '02'
+  qno: 2
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 1, y0: 404, y1: 602, x0: 60.7}
+  text: Rod half glass, half copper, heated in the centre; pins A, B, C, D attached with wax. Which pin falls off first?
+- n: '03'
+  qno: 3
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 1, y0: 619, y1: 728, x0: 60.0}
+  text: Which process involves convection? A bread toasting under a grill B energy from the Sun warming a road surface C hot air rising to the top of a cool room D thermal energy transfer through a copper
+    bar
+- n: '04'
+  qno: 4
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1, 2.3.4]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 2, y0: 108, y1: 335, x0: 71.6}
+  text: 'Uses for containers made from good thermal conductors and poor thermal conductors: in which row are both suggested uses correct? (keeping a cold liquid at a low temperature, keeping a hot liquid
+    hot, transferring thermal energy quickly from a hot liquid / to a cold liquid)'
+- n: '05'
+  qno: 5
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 2, y0: 384, y1: 516, x0: 74.6}
+  text: A cotton sheet is ironed with a hot electric iron. How is energy transferred through the metal base of the iron to the sheet? A conduction only B convection only C radiation only D convection and
+    radiation only
+- n: '06'
+  qno: 6
+  type: mcq
+  marks: 1
+  syllabus: [2.3.4, 2.3.2]
+  tier: core
+  difficulty: 2
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 3, y0: 65, y1: 422, x0: 82.3}
+  text: Two plastic cups one inside the other with a small spacer and small air gap; hot water in the inner cup with a lid, standing on a bench. Which statement is correct? A bench heated by convection
+    from bottom of outer cup B lid reduces energy lost by convection C no thermal conduction through sides D thermal radiation prevented by the small air gap
+- n: '07'
+  qno: 7
+  type: mcq
+  marks: 1
+  syllabus: [2.2.3]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 3, y0: 444, y1: 696, x0: 66.9}
+  text: A solid is heated from room temperature at a constant rate; temperature-time graph with points A, B, C, D. At which time has it just become completely liquid? (melting, heating curve)
+- n: 08
+  qno: 8
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 4, y0: 108, y1: 242, x0: 81.5}
+  text: Thermal energy travels through space (a vacuum) from the Sun to the Earth. How is it transferred? A conduction only B convection only C radiation only D convection and radiation
+- n: 09
+  qno: 9
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3, 2.3.4]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 4, y0: 301, y1: 619, x0: 78.2}
+  text: Vacuum flask used to keep liquid hot. How does thermal energy pass through the vacuum? A conduction only B convection only C radiation D conduction and convection
+- n: '10'
+  qno: 10
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 2
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 5, y0: 101, y1: 451, x0: 73.8}
+  text: A cupboard is placed in front of a wall heater; air can move through a gap under the cupboard. Which row describes the temperature (cool/warm) and direction (away from/towards the heater) of the
+    air in the gap? Convection current.
+- n: '11'
+  qno: 11
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 6, y0: 105, y1: 250, x0: 78.2}
+  text: One method of heat transfer involves the energy travelling at a much greater speed than in other methods. What is its name? A conduction B convection C evaporation D radiation
+- n: '12'
+  qno: 12
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 6, y0: 311, y1: 525, x0: 82.5}
+  text: A block of ice held by a clamp in a warm room. At which point A (above), B, C (side) or D (below) is the temperature the lowest? Cold air sinks, convection.
+- n: '13'
+  qno: 13
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.2.1]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 7, y0: 107, y1: 371, x0: 74.7}
+  text: Air in a room heated by a heater; diagram shows circulation of air. Which statement about the air that is heated is correct? contracts/expands, less/more dense.
+- n: '14'
+  problem: "Table looks cut off in the source (times 3, 3, 4, 4 give a tie). Check against the original paper."
+  qno: 14
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: core
+  difficulty: 1
+  segments:
+  - {page: 7, y0: 393, y1: 616, x0: 72.9}
+  notes: 'Source table looks truncated: the heading reads ''taken / s'' and the times print as 3, 3, 4, 4, so P and Q tie for the shortest time. Answer left empty; check the original paper or fix the table
+    before use.'
+  text: Four rods of different metals P, Q, R, S, equal lengths and diameters, heated at one end. Table of time taken for the other end to rise by 1.0 degC. Which metal is the best conductor of thermal
+    energy?
+- n: '15'
+  qno: 15
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.3.4]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 8, y0: 68, y1: 261, x0: 70.1}
+  text: Refrigerator cooling unit and oven heater can each be fitted at the top or the bottom. Which row shows the best position for the cooling unit and for the heater?
+- n: '16'
+  qno: 16
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 8, y0: 280, y1: 526, x0: 84.9}
+  text: A girl outdoors warms her hands by holding them beside a fire. How does the heat from the fire reach her hands? A conduction only B convection and conduction C convection and radiation D radiation
+    only
+- n: '17'
+  qno: 17
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 8, y0: 545, y1: 690, x0: 77.8}
+  text: A heater fitted to the ceiling of an office keeps workers warm. How does thermal energy reach the workers below the heater? A conduction and convection B convection and radiation C convection only
+    D radiation only
+- n: '18'
+  qno: 18
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 9, y0: 76, y1: 224, x0: 75.6}
+  text: Which row shows how heating changes the density of air (decreases/increases) and the method of energy transfer caused by this density change (conduction/convection)?
+- n: '19'
+  qno: 19
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 9, y0: 256, y1: 365, x0: 68.6}
+  text: What is the name of the process of heat transfer using electromagnetic waves? A conduction B convection C evaporation D radiation
+- n: '20'
+  qno: 20
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1, 2.3.2]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 9, y0: 381, y1: 710, x0: 76.0}
+  text: Ice trapped by a metal gauze at the bottom of a tube of water; water heated strongly (boiling) at the top but the ice melts very slowly. Why? A heat always travels upwards B hot water more dense
+    C metal gauze stops heat D water is a poor conductor of heat
+- n: '21'
+  qno: 21
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1, 2.3.2, 2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 10, y0: 99, y1: 208, x0: 68.3}
+  text: Which statement about the transfer of thermal energy is correct? A all metals conduct equally well B convection only in solids or liquids C convection because hot liquid is more dense D the radiation
+    that transfers thermal energy is electromagnetic radiation
+- n: '22'
+  qno: 22
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3, 2.3.2, 2.3.1]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 10, y0: 249, y1: 561, x0: 67.2}
+  text: A heater above a thermometer with air between. Which row (yes/no for conduction, convection, radiation) shows how heat energy from the heater reaches the thermometer bulb?
+- n: '23'
+  qno: 23
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 11, y0: 127, y1: 446, x0: 69.1}
+  text: Air-conditioning unit high on the wall of a room draws in warm air and releases cold air. What happens to the cold air (falls/rises) and why (less/more dense than warm air)?
+- n: '24'
+  qno: 24
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 11, y0: 498, y1: 610, x0: 64}
+  mask:
+  - {page: 11, x0: 66, y0: 500, x1: 79.8, y1: 517}
+  text: Which statement about thermal radiation is correct? A only occurs in a vacuum B movement of electrons through a material C movement of atoms D it is infra-red radiation
+- n: '25'
+  qno: 25
+  type: mcq
+  marks: 1
+  syllabus: [2.3.4, 2.3.1, 2.3.2]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 12, y0: 136, y1: 432, x0: 79.9}
+  text: 'Double glazing: two panes of glass separated by a vacuum. Which method or methods of energy transfer are prevented by the vacuum? A conduction and convection B conduction and radiation C convection
+    and radiation D radiation only'
+- n: '26'
+  qno: 26
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1, 2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 12, y0: 474, y1: 609, x0: 94.1}
+  text: 'Conduction and radiation: which statement is correct? A conduction involves density changes in fluids B conduction only occurs in solids C radiation cannot occur in a vacuum D radiation involves
+    electromagnetic waves'
+- n: '27'
+  qno: 27
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.3.4]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 13, y0: 81, y1: 380, x0: 87.8}
+  text: A heater is to be fitted in a room to warm the air throughout; position P (low on wall) or Q (high on wall). Which position is better and why (warmer air less/more dense, rises/falls)?
+- n: '28'
+  qno: 28
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3, 2.3.4]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 14, y0: 102, y1: 502, x0: 76.8}
+  text: Cross-section of a vacuum flask with hot liquid in a cold room; X and Y are points on the inside surfaces of the walls either side of the vacuum. How is thermal energy transferred between X and
+    Y? A conduction and convection B conduction only C radiation and convection D radiation only
+- n: '29'
+  qno: 29
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 15, y0: 83, y1: 435, x0: 73.2}
+  text: Refrigerator with the cooling unit at the top cools the air near it. What happens to the density of the air as it cools (decreases/increases) and how does it move (moves down/stays at the top)?
+- n: '30'
+  qno: 30
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.3.3]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 15, y0: 476, y1: 596, x0: 92.1}
+  text: Which statement about the transfer of thermal energy is correct? A convection in air only when trapped B convection only in a gas C radiation cannot occur in air D radiation can occur in a vacuum,
+    but convection cannot
+- n: '31'
+  qno: 31
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 16, y0: 78, y1: 406, x0: 72.6}
+  text: A man in a cold room switches on a heater and stands one metre away; he feels warmer almost immediately. How is thermal energy transferred so quickly? A conduction, convection and radiation B conduction
+    only C convection only D radiation only
+- n: '32'
+  qno: 32
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 16, y0: 459, y1: 631, x0: 78.1}
+  notes: Same question as Q2 of this source.
+  text: Rod half glass, half copper, heated in the centre; pins A, B, C, D attached with wax. Which pin falls off first?
+- n: '33'
+  qno: 33
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 17, y0: 149, y1: 426, x0: 71.6}
+  text: A piece of hot metal held by a clamp in a cold room; the air next to the metal becomes hotter. Which row shows the density change of the air (decreases/increases) and the direction it moves (upwards/downwards)?
+- n: '34'
+  qno: 34
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.2.1]
+  tier: core
+  difficulty: 2
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 17, y0: 456, y1: 565, x0: 86.2}
+  text: Why does convection take place in a liquid when it is heated? A liquids expand when heated B liquids bubble near boiling point C molecules expand when heated D molecules near the surface escape
+    into the air
+- n: '35'
+  qno: 35
+  type: mcq
+  marks: 1
+  syllabus: [2.3.4, 2.3.2]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 18, y0: 77, y1: 353, x0: 80.4}
+  notes: Similar to Q6 and Q48 of this source (options reordered).
+  text: Two plastic cups one inside the other with hot water and a lid, small spacer and small air gap, on a bench. Which statement is correct? A radiation prevented by the air gap B no heat passes through
+    the sides C bench heated by convection D the lid reduces heat loss by convection
+- n: '36'
+  qno: 36
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 18, y0: 405, y1: 666, x0: 71.2}
+  text: 'Experiment to find the best conductor of heat: balls stuck with wax to rods of different metals (diagram 1), rods heated at one end, some balls fall off (diagram 2, rods A, B, C, D). Which labelled
+    metal is the best conductor of heat?'
+- n: '37'
+  qno: 37
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.3.4]
+  tier: core
+  difficulty: 1
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 19, y0: 106, y1: 240, x0: 104.6}
+  text: Food is kept in a cool-box using two ice packs. Where should the ice packs be placed to keep all the food as cool as possible? A both at the bottom B both at the top C front and back D left and
+    right
+- n: '38'
+  qno: 38
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2, 2.3.4]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 19, y0: 285, y1: 585, x0: 101.9}
+  text: Cooling unit at the top of a refrigerator. Why is it placed at the top? A cold air falls and warm air is displaced upwards B cold air is a bad conductor C cold air is a good conductor D cold air
+    stays at the top and prevents convection
+- n: '39'
+  qno: 39
+  type: mcq
+  marks: 1
+  syllabus: [2.3.4]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 20, y0: 60, y1: 612, x0: 56}
+  mask:
+  - {page: 20, x0: 65, y0: 62, x1: 78.6, y1: 79}
+  text: Two identical copper cans filled with boiling water, one insulated with wool; thermometer readings every minute. Which temperature-time graph (A, B, C, D) shows the results for the insulated and
+    uninsulated cans? Cooling curves.
+- n: '40'
+  qno: 40
+  type: mcq
+  marks: 1
+  syllabus: [2.2.3]
+  tier: core
+  difficulty: 2
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 21, y0: 80, y1: 404, x0: 87.8}
+  text: A substance loses thermal energy at a steady rate; cooling curve of temperature against time with two flat sections and a steep section PQ between them. What could the portion PQ represent? A gas
+    condensing B gas cooling C liquid cooling D liquid solidifying
+- n: '41'
+  qno: 41
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 21, y0: 435, y1: 661, x0: 77.1}
+  text: Two identical cars, one black and one white, left in bright sunshine then at night. Which car shows the greater rate of temperature increase and which the greater rate of temperature decrease? Absorbers
+    and emitters of infra-red radiation.
+- n: '42'
+  qno: 42
+  type: mcq
+  marks: 1
+  syllabus: [2.2.3]
+  tier: core
+  difficulty: 1
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 22, y0: 139, y1: 369, x0: 88.8}
+  text: 'A beaker of liquid on a bench with an electric fan causing a draught; the liquid evaporates. Which row shows two changes (surface area of the liquid, speed of fan: increase/decrease) that both
+    make it evaporate more quickly?'
+- n: '43'
+  qno: 43
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: supplement
+  difficulty: 2
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 22, y0: 400, y1: 552, x0: 90.4}
+  text: Which processes occur in a metal to cause thermal conduction? Table of ticks and crosses for electron transfer, proton transfer, lattice vibration.
+- n: '44'
+  qno: 44
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 23, y0: 139, y1: 409, x0: 82.7}
+  text: A wooden beam painted part black and part white absorbs infra-red radiation from the Sun by day and loses it at night. Which part heats up more quickly during the day and which cools down more quickly
+    at night?
+- n: '45'
+  qno: 45
+  type: mcq
+  marks: 1
+  syllabus: [2.3.3]
+  tier: core
+  difficulty: 1
+  answer: A
+  answer_by: claude
+  segments:
+  - {page: 23, y0: 438, y1: 588, x0: 71.7}
+  text: Which row shows the surface that is the better absorber and the surface that is the better emitter of infra-red radiation (black surface / white surface)?
+- n: '46'
+  qno: 46
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1, 2.3.4]
+  tier: core
+  difficulty: 2
+  answer: D
+  answer_by: claude
+  segments:
+  - {page: 24, y0: 165, y1: 391, x0: 76.9}
+  notes: Same question as Q4 of this source.
+  text: 'Uses for containers made from good thermal conductors and poor thermal conductors: in which row are both suggested uses correct?'
+- n: '47'
+  qno: 47
+  type: mcq
+  marks: 1
+  syllabus: [2.3.1]
+  tier: supplement
+  difficulty: 1
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 24, y0: 437, y1: 571, x0: 95.4}
+  text: One end of a copper rod is heated. What is one method by which thermal energy is transferred in the copper rod? Free electrons / molecules of copper move from the hotter end to the cooler end or
+    the reverse.
+- n: '48'
+  qno: 48
+  type: mcq
+  marks: 1
+  syllabus: [2.3.4, 2.3.2]
+  tier: core
+  difficulty: 2
+  answer: B
+  answer_by: claude
+  segments:
+  - {page: 25, y0: 77, y1: 433, x0: 78.1}
+  notes: Same question as Q6 of this source.
+  text: Two plastic cups one inside the other with a small spacer and small air gap; hot water in the inner cup with a lid, on a bench. Which statement is correct? A bench heated by convection B lid reduces
+    energy lost by convection C no conduction through sides D radiation prevented by air gap
+- n: '49'
+  qno: 49
+  type: mcq
+  marks: 1
+  syllabus: [2.3.2]
+  tier: core
+  difficulty: 1
+  answer: C
+  answer_by: claude
+  segments:
+  - {page: 26, y0: 91, y1: 420, x0: 83.9}
+  text: Ice floating at the top of warm water in a glass lowers its temperature. What is the main process by which the water at the bottom of the glass becomes cool? A condensation B conduction C convection
+    D radiation

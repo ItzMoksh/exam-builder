@@ -1,0 +1,48 @@
+id: sem1-2026-27-27
+course: ig9-physics
+type: atp
+status: draft
+syllabus:
+- 1.5.2
+tier: core
+marks: 10
+difficulty: 2
+skills:
+- read-scale
+- calculation
+- precaution
+- plot-graph
+- line-of-best-fit
+parts:
+- label: a(i)
+  marks: 2
+- label: a(ii)
+  marks: 1
+- label: a(iii)
+  marks: 1
+- label: b
+  marks: 4
+- label: c(i)
+  marks: 1
+- label: c(ii)
+  marks: 1
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 18
+  - 19
+  - 20
+  question_no: '1'
+  site: school
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  - q-3.png
+text: |
+  A student determines the weight of a metre rule. The metre rule is supported by a pivot at the 10.0 cm mark and is suspended from a forcemeter by a loop of thread at the 90.0 cm mark (Fig. 1.1: stands, bosses, 2.0 N weight at distance l from the pivot).
+  (a) The student places a 2.0 N weight at a distance l from the pivot, adjusts the clamp so the metre rule is horizontal and reads the force F on the forcemeter. Fig. 1.2 shows the weight and the metre rule from above; Fig. 1.3 shows the reading on the forcemeter.
+  (i) Calculate the value of l from readings taken from Fig. 1.2. Show your working clearly. [2] (ii) Read the value F shown on the forcemeter in Fig. 1.3. [1] (iii) Explain how the student makes sure that the rule is horizontal before taking the reading. You may draw a diagram. [1]
+  (b) Table 1.1: l/cm 20.0, 30.0, 40.0, 50.0, 60.0; F/N 1.35, 1.60, 1.90, 2.15, 2.45. Plot a graph of F/N (y-axis) against l/cm (x-axis). Start your axes from the origin (0,0). [4]
+  (c) (i) From your graph determine F0, the value of F when l = 0. [1] (ii) Calculate the weight WR of the metre rule, using the equation WR = 2 x F0. [1]

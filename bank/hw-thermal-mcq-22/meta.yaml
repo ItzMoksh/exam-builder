@@ -1,0 +1,25 @@
+id: hw-thermal-mcq-22
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- 2.3.3
+- 2.3.2
+- 2.3.1
+tier: core
+marks: 1
+difficulty: 2
+answer: D
+answer_by: claude
+source:
+  slug: hw-thermal-mcq
+  file: sources/HW_1307418_2Pract.pdf
+  pages:
+  - 10
+  question_no: '22'
+  site: unknown
+images:
+  question:
+  - q.png
+text: A heater above a thermometer with air between. Which row (yes/no for conduction, convection, radiation)
+  shows how heat energy from the heater reaches the thermometer bulb?

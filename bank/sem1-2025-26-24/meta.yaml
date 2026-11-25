@@ -1,0 +1,33 @@
+id: sem1-2025-26-24
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.7.1
+- 1.7.2
+tier: supplement
+marks: 5
+difficulty: 2
+parts:
+- label: a
+  marks: 3
+- label: b
+  marks: 2
+source:
+  slug: sem1-2025-26
+  file: sources/107524_2.pdf
+  pages:
+  - 14
+  question_no: '4'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  Fig. 3.1 shows an aircraft on the deck of an aircraft carrier. The aircraft accelerates from rest along the
+  deck. At take-off, the aircraft has a speed of 75 m/s. The mass of the aircraft is 9500 kg.
+  (a) Calculate the kinetic energy of the aircraft at take-off. [3]
+  (b) On an aircraft carrier, a catapult provides an accelerating force on the aircraft. The catapult provides a
+  constant force for a distance of 150 m along the deck. Calculate the resultant force on the aircraft as it
+  accelerates. Assume that all of the kinetic energy at take-off is from the work done on the aircraft by the
+  catapult. [2]

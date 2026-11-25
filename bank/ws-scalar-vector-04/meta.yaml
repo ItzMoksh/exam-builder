@@ -1,0 +1,33 @@
+id: ws-scalar-vector-04
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- '1.1'
+tier: supplement
+marks: 4
+difficulty: 2
+parts:
+- label: a
+  marks: 2
+- label: b
+  marks: 2
+source:
+  slug: ws-scalar-vector
+  file: sources/102561_4.pdf
+  pages:
+  - 3
+  question_no: '4'
+  site: school
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms.png
+markscheme_text: (a) F = sqrt(12^2 + 5^2) = sqrt(169) = 13 N (b) tan(theta) = 12/5 = 2.4, theta = 67.4
+  deg to the 5 N force.
+notes: Marks not printed; estimated.
+text: |
+  Two forces act on a block. A 12 N force acts vertically upwards, and a 5 N force acts horizontally to the right.
+  a) Calculate the magnitude of the resultant force. b) Determine the angle the resultant force makes with the 5 N force.
+  (resultant of two perpendicular vectors, Pythagoras, tan)

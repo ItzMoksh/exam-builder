@@ -1,0 +1,29 @@
+id: sme-motion-mcq-26
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+- '3.4'
+tier: core
+marks: 1
+difficulty: 3
+answer: C
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 36
+  - 37
+  question_no: '4'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms.png
+markscheme_text: 'C: distance = (343 x 0.84)/2 = 144 m (sound goes to the cliff and back).'
+text: Hard Q4. A man claps in a forest. There is nobody around to hear the sound. However, there is a
+  very flat cliff face some distance away, and the man hears an echo from the clap 0.84 s later. The speed
+  of sound in air is 343 m/s. How far away was the man from the cliff? A 408 m B 288 m C 144 m D 204 m

@@ -1,0 +1,30 @@
+id: sme-motion-mcq-14
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: core
+marks: 1
+difficulty: 2
+answer: C
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 22
+  - 23
+  question_no: '5'
+  site: savemyexams
+images:
+  question:
+  - q-1.png
+  - q-2.png
+  markscheme:
+  - ms-1.png
+  - ms-2.png
+markscheme_text: 'C: areas under graphs A 27.5, B 20.5, C about 34.6 (quarter circle + rectangle), D 32,
+  so C is largest.'
+text: Medium Q5. Four speed-time graphs have axes with the same scales. Each large square has a height
+  of 1 m/s and width of 1 s. Which graph shows the greatest distance covered? Graphs A, B, C (curve),
+  D on grids; area under graph.

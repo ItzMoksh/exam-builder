@@ -1,0 +1,28 @@
+id: sem1-2026-27-24
+course: ig9-physics
+type: theory
+status: draft
+syllabus:
+- 1.5.2
+tier: core
+marks: 6
+difficulty: 1
+parts:
+- label: a
+  marks: 3
+- label: b
+  marks: 3
+source:
+  slug: sem1-2026-27
+  file: sources/109597_1.pdf
+  pages:
+  - 15
+  question_no: '4'
+  site: school
+images:
+  question:
+  - q.png
+text: |
+  A plank balances horizontally on a log of wood, which acts as a pivot.
+  (a) A girl sits on one end of the plank, and her brother pushes down on the other end to make the plank balance horizontally. Fig. 3.1: girl's weight = 404 N at 1.2 m from the pivot, force F at 1.6 m. Calculate the moment of the girl's weight about the pivot and show that it is close to 480 N m. [3]
+  (b) The plank balances horizontally when the boy pushes down with a force F at a distance of 1.6 m from the pivot. Calculate the size of force F. [3]

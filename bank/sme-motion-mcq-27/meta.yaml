@@ -1,0 +1,29 @@
+id: sme-motion-mcq-27
+course: ig9-physics
+type: mcq
+status: draft
+syllabus:
+- '1.2'
+tier: supplement
+marks: 1
+difficulty: 3
+answer: C
+source:
+  slug: sme-motion-mcq
+  file: sources/motion answer grade 9 physics.pdf
+  pages:
+  - 38
+  question_no: '5'
+  site: savemyexams
+images:
+  question:
+  - q.png
+  markscheme:
+  - ms-1.png
+  - ms-2.png
+markscheme_text: 'C: acceleration = gradient of tangent; at 20 s the tangent is horizontal so acceleration
+  = 0.'
+notes: SME labels this Extended tier only.
+text: Hard Q5. The graph shows the speed-time graph of a cyclist moving in a straight line (curve with
+  a maximum at 20 s). What is the acceleration of the cyclist at a time of 20 seconds? A 0.5 m/s^2 B -0.5
+  m/s^2 C 0 m/s^2 D 11.5 m/s^2
