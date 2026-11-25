@@ -10,6 +10,9 @@ up for both hosts:
 
 Both fit the free plans. The repo stays private: the host only reads it to build. Use **one** of them.
 
+**Live now:** https://exam-builder-dusky.vercel.app (Vercel team *simplelife*, project `exam-builder`,
+storage `exam-builder-papers`: Upstash Redis, free plan, Mumbai). Set up on 26 Nov 2026.
+
 ## Option A: Vercel (about 10 minutes)
 
 1. **Push the repo** to GitHub (private).
@@ -22,7 +25,8 @@ Both fit the free plans. The repo stays private: the host only reads it to build
    - Press **Deploy**. It takes 1-2 minutes.
 4. **Storage for her papers:** go to the project → **Storage** tab → **Create Database** → **Upstash for
    Redis** (free plan). Pick the region nearest to her (e.g. Mumbai), create it, and **Connect** it to this
-   project for all environments. This adds the `KV_REST_API_URL` and `KV_REST_API_TOKEN` variables.
+   project for all environments. On the connect screen, set **Custom Prefix** to `KV` (Vercel suggests
+   `STORAGE`). That makes the variables `KV_REST_API_URL` and `KV_REST_API_TOKEN`, which the app reads.
 5. **Redeploy** so the storage is used: Deployments → the latest one → ⋯ → Redeploy.
 6. **The link** is under *Domains* on the project page, e.g. `https://exam-builder.vercel.app`. Open it,
    check the password page appears, enter the password once on her computer (remembered for a year), and
