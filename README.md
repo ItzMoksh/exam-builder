@@ -10,7 +10,7 @@ See [DESIGN.md](DESIGN.md) for the full design and roadmap.
 ## The web app (for the teacher)
 
 `app/` is the website she uses: choose the chapters and marks, check and swap the suggested questions, and
-download the paper and mark scheme in Word. It's hosted free on Cloudflare Pages behind a password, and her
+download the paper and mark scheme in Word. It's hosted free on Vercel or Cloudflare Pages behind a password, and her
 papers are saved online. Setup and updating: [HOSTING.md](HOSTING.md).
 
 ## Layout

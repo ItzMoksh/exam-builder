@@ -7,9 +7,10 @@
     "build": "vite build && node scripts/copy-data.mjs",
     "preview": "vite preview",
     "preview:cloudflare": "wrangler pages dev dist --kv PAPERS --binding SITE_PASSWORD=test --persist-to ../.cache/wrangler",
-    "test": "node scripts/test-suggest.mjs && node scripts/test-word.mjs"
+    "test": "node scripts/test-suggest.mjs && node scripts/test-server.mjs && node scripts/test-word.mjs"
   },
   "dependencies": {
+    "@vercel/functions": "^3.11.3",
     "docx": "^9.16.0",
     "preact": "^10.29.8"
   },

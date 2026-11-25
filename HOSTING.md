@@ -1,14 +1,42 @@
-# Hosting the web app (Cloudflare Pages, free)
+# Hosting the web app (free, on Vercel or Cloudflare)
 
-The web app in `app/` is a static site plus two small Cloudflare Pages Functions:
+The web app in `app/` is a static site plus two small server pieces, written once in `app/server/` and wired
+up for both hosts:
 
-- `app/functions/_middleware.js`: a password page in front of everything (questions, images, data).
-- `app/functions/api/papers/[[id]].js`: saves her papers in Cloudflare KV, so they're kept online and
-  survive browser cache clears and a change of computer.
+| | Vercel | Cloudflare Pages |
+|---|---|---|
+| Password page in front of everything | `app/middleware.js` | `app/functions/_middleware.js` |
+| Saved papers | `app/api/papers/` and Upstash Redis | `app/functions/api/papers/` and KV |
 
-Everything here fits Cloudflare's free plan. The repo stays private: Cloudflare only reads it to build.
+Both fit the free plans. The repo stays private: the host only reads it to build. Use **one** of them.
 
-## One-time setup (about 15 minutes)
+## Option A: Vercel (about 10 minutes)
+
+1. **Push the repo** to GitHub (private).
+2. In Vercel, go to **Add New… → Project → Import Git Repository**. If the repo isn't listed, use *Adjust
+   GitHub App Permissions* and give Vercel access to **only** `exam-builder`. Then press **Import**.
+3. On the configure screen:
+   - **Root Directory** → Edit → choose `app`. Framework shows **Vite**; the build settings come from
+     `app/vercel.json`.
+   - **Environment Variables**: add `SITE_PASSWORD` with a password she can type easily, but not guessable.
+   - Press **Deploy**. It takes 1-2 minutes.
+4. **Storage for her papers:** go to the project → **Storage** tab → **Create Database** → **Upstash for
+   Redis** (free plan). Pick the region nearest to her (e.g. Mumbai), create it, and **Connect** it to this
+   project for all environments. This adds the `KV_REST_API_URL` and `KV_REST_API_TOKEN` variables.
+5. **Redeploy** so the storage is used: Deployments → the latest one → ⋯ → Redeploy.
+6. **The link** is under *Domains* on the project page, e.g. `https://exam-builder.vercel.app`. Open it,
+   check the password page appears, enter the password once on her computer (remembered for a year), and
+   bookmark it.
+
+Notes:
+- If the build fails with "index.json not found", go to Settings → Build and Deployment → Root Directory
+  and make sure *Include files outside the root directory in the Build Step* is on.
+- Without step 4 the app still works, but papers are saved only in that browser.
+- Vercel's own "Deployment Protection" only covers preview links. The password page is what protects the
+  real address.
+- Vercel's free Hobby plan is meant for personal, non-commercial use.
+
+## Option B: Cloudflare Pages (about 15 minutes)
 
 1. **Push the repo** to GitHub (private).
 2. **Make a Cloudflare account** at dash.cloudflare.com (free plan, no card needed for Pages).
@@ -39,14 +67,14 @@ Optional: Custom domains, if you'd like a nicer address than `*.pages.dev`.
 ## Updating
 
 - **New questions:** ingest with Claude Code (`/ingest`), run `.venv/Scripts/python tools/eb.py index`,
-  commit and push. Cloudflare rebuilds automatically and the site updates in about 2 minutes.
+  commit and push. Vercel or Cloudflare rebuilds automatically and the site updates in about 2 minutes.
 - **App changes:** same thing. Every push to `main` redeploys. Pushes to other branches get their own preview
   URL, which is also behind the password.
 
 ## Where her papers live
 
-Papers she makes in the app are stored in the `PAPERS` KV namespace, not in git. You can see them in the
-Cloudflare dashboard (KV → `exam-builder-papers`). Each browser also keeps a copy, and if the API is down the
+Papers she makes in the app are stored online, not in git: in Upstash Redis on Vercel (one hash called
+`exam-builder:papers`), or in the `PAPERS` KV namespace on Cloudflare. Each browser also keeps a copy, and if the API is down the
 app keeps working from that copy. Papers in `papers/*.yaml` (the school's past exams) are read-only in the app,
 and their questions count as already given.
 
@@ -58,13 +86,14 @@ npm install
 npm run dev                  # http://localhost:5173, no password, papers saved in the browser
 npm run build
 npm run preview:cloudflare   # http://localhost:8788, real password page (password: test) and KV storage
-npm test                     # suggestion checks + builds ../out/web-test - paper.docx
+npm test                     # suggestion checks, password/API checks, builds ../out/web-test - paper.docx
 ```
 
 Wrangler (used by `preview:cloudflare`) needs Node 22.12 or newer.
 
-## Limits (free plan)
+## Limits (free plans)
 
-500 builds a month, 20,000 files per deployment, 25 MB per file, and 100,000 function requests a day. Every
+Vercel Hobby: 100 GB bandwidth and 1 million edge requests a month, which is far more than needed.
+Cloudflare: 500 builds a month, 20,000 files per deployment, 25 MB per file, and 100,000 function requests a day. Every
 page and image request passes through the password check, so a busy session might use a few hundred. The
 bank currently deploys as about 320 files (54 MB).
