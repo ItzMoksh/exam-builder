@@ -7,6 +7,12 @@ questions as Word files with the school header, plus a mark scheme.
 
 See [DESIGN.md](DESIGN.md) for the full design and roadmap.
 
+## The web app (for the teacher)
+
+`app/` is the website she uses: choose the chapters and marks, check and swap the suggested questions, and
+download the paper and mark scheme in Word. It's hosted free on Cloudflare Pages behind a password, and her
+papers are saved online. Setup and updating: [HOSTING.md](HOSTING.md).
+
 ## Layout
 
 | Path | What |
@@ -18,7 +24,8 @@ See [DESIGN.md](DESIGN.md) for the full design and roadmap.
 | `blueprints/` | Paper templates (semester exam 80, unit test). |
 | `papers/` | Every paper built: which questions, for which batch (used to avoid repeats). |
 | `tools/eb.py` | Ingest: `layout`, `render`, `apply`, `sheet`, `index`. |
-| `tools/paper.py` | Papers: `find`, `draft`, `build`. |
+| `tools/paper.py` | Papers from the command line: `find`, `draft`, `build`. |
+| `app/` | Web app (Vite + Preact). `src/suggest.js` and `src/word.js` mirror `paper.py`'s draft and build. |
 
 ## Use it with Claude Code
 

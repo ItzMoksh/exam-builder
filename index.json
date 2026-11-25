@@ -58,7 +58,17 @@
    },
    "text": "A student uses a balancing method to determine the weight of a piece of soft modelling clay (Fig. 2.1: metre rule\non a pivot at the 50.0 cm mark, metal cube P of weight 1.0 N at distance x, clay Q at distance y; W = Px/y).\n(a) On Fig. 2.1, mark clearly the distance x. (b) Suggest a change to Q that would make it easier to find y\naccurately. (c) It is difficult to achieve an exact balance of the metre rule; explain how you would reduce the\neffect of this problem to improve reliability. (d) The metal cube P is larger than the width of the metre rule;\nexplain how you would determine the reading of the metre rule scale at the position of the centre of mass of P.\n(e) Explain briefly how you would determine the position of the centre of mass of the metre rule.\n",
    "dir": "bank/atp-moment-com-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1383,
+     1624
+    ],
+    "q-2.png": [
+     1316,
+     1115
+    ]
+   }
   },
   {
    "id": "atp-moment-com-02",
@@ -129,7 +139,21 @@
    "notes": "Page 3 of the source has a screenshot 'X' close-button overlay covering part of the first line ('...a load using a balancing method'); it is in the crop and could not be removed.",
    "text": "A student determines the mass of a load X using a balancing method (Fig. 1.1: metre rule pivoted at 50.0 cm mark,\nload X taped with centre over the 90.0 cm mark, mass m at distance d from the pivot). Fig. 1.2(a)-(e) show the\nrule balanced for m = 40 g, 50 g, 60 g, 70 g, 80 g (ruler scales). (a)(i) Use Fig. 1.2 to determine d for each m and\nrecord in Table 1.1 (m/g, d/cm, 1/d / 1/cm). (ii) Calculate 1/d. (b) Describe one difficulty the student might have\nand how he might overcome it. (c) Plot a graph of m/g (y-axis) against 1/d (x-axis). (d) Determine the gradient G\nof the graph. (e) Determine the mass mu of load X using mu = G/40.0.\n",
    "dir": "bank/atp-moment-com-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1374,
+     2066
+    ],
+    "q-2.png": [
+     1416,
+     2125
+    ],
+    "q-3.png": [
+     1340,
+     952
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-01",
@@ -160,7 +184,13 @@
    },
    "text": "Liquid heated in a beaker from below: how does the density change and what is the energy transfer process? Table: density decreases/increases; conduction/convection.",
    "dir": "bank/hw-thermal-mcq-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1360,
+     922
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-02",
@@ -191,7 +221,13 @@
    },
    "text": "Rod half glass, half copper, heated in the centre; pins A, B, C, D attached with wax. Which pin falls off first?",
    "dir": "bank/hw-thermal-mcq-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1343,
+     546
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-03",
@@ -222,7 +258,13 @@
    },
    "text": "Which process involves convection? A bread toasting under a grill B energy from the Sun warming a road surface C hot air rising to the top of a cool room D thermal energy transfer through a copper bar",
    "dir": "bank/hw-thermal-mcq-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     712,
+     299
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-04",
@@ -254,7 +296,13 @@
    },
    "text": "Uses for containers made from good thermal conductors and poor thermal conductors: in which row are both suggested uses correct? (keeping a cold liquid at a low temperature, keeping a hot liquid hot, transferring thermal energy quickly from a hot liquid / to a cold liquid)",
    "dir": "bank/hw-thermal-mcq-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1345,
+     628
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-05",
@@ -285,7 +333,13 @@
    },
    "text": "A cotton sheet is ironed with a hot electric iron. How is energy transferred through the metal base of the iron to the sheet? A conduction only B convection only C radiation only D convection and radiation only",
    "dir": "bank/hw-thermal-mcq-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1042,
+     360
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-06",
@@ -317,7 +371,13 @@
    },
    "text": "Two plastic cups one inside the other with a small spacer and small air gap; hot water in the inner cup with a lid, standing on a bench. Which statement is correct? A bench heated by convection from bottom of outer cup B lid reduces energy lost by convection C no thermal conduction through sides D thermal radiation prevented by the small air gap",
    "dir": "bank/hw-thermal-mcq-06",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1316,
+     986
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-07",
@@ -348,7 +408,13 @@
    },
    "text": "A solid is heated from room temperature at a constant rate; temperature-time graph with points A, B, C, D. At which time has it just become completely liquid? (melting, heating curve)",
    "dir": "bank/hw-thermal-mcq-07",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1164,
+     689
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-08",
@@ -379,7 +445,13 @@
    },
    "text": "Thermal energy travels through space (a vacuum) from the Sun to the Earth. How is it transferred? A conduction only B convection only C radiation only D convection and radiation",
    "dir": "bank/hw-thermal-mcq-08",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1170,
+     369
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-09",
@@ -411,7 +483,13 @@
    },
    "text": "Vacuum flask used to keep liquid hot. How does thermal energy pass through the vacuum? A conduction only B convection only C radiation D conduction and convection",
    "dir": "bank/hw-thermal-mcq-09",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     850,
+     874
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-10",
@@ -442,7 +520,13 @@
    },
    "text": "A cupboard is placed in front of a wall heater; air can move through a gap under the cupboard. Which row describes the temperature (cool/warm) and direction (away from/towards the heater) of the air in the gap? Convection current.",
    "dir": "bank/hw-thermal-mcq-10",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1253,
+     968
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-11",
@@ -473,7 +557,13 @@
    },
    "text": "One method of heat transfer involves the energy travelling at a much greater speed than in other methods. What is its name? A conduction B convection C evaporation D radiation",
    "dir": "bank/hw-thermal-mcq-11",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1343,
+     396
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-12",
@@ -504,7 +594,13 @@
    },
    "text": "A block of ice held by a clamp in a warm room. At which point A (above), B, C (side) or D (below) is the temperature the lowest? Cold air sinks, convection.",
    "dir": "bank/hw-thermal-mcq-12",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1024,
+     591
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-13",
@@ -536,7 +632,13 @@
    },
    "text": "Air in a room heated by a heater; diagram shows circulation of air. Which statement about the air that is heated is correct? contracts/expands, less/more dense.",
    "dir": "bank/hw-thermal-mcq-13",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1325,
+     730
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-14",
@@ -567,7 +669,13 @@
    "notes": "Source table looks truncated: the heading reads 'taken / s' and the times print as 3, 3, 4, 4, so P and Q tie for the shortest time. Answer left empty; check the original paper or fix the table before use.",
    "text": "Four rods of different metals P, Q, R, S, equal lengths and diameters, heated at one end. Table of time taken for the other end to rise by 1.0 degC. Which metal is the best conductor of thermal energy?",
    "dir": "bank/hw-thermal-mcq-14",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1340,
+     612
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-15",
@@ -599,7 +707,13 @@
    },
    "text": "Refrigerator cooling unit and oven heater can each be fitted at the top or the bottom. Which row shows the best position for the cooling unit and for the heater?",
    "dir": "bank/hw-thermal-mcq-15",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1341,
+     526
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-16",
@@ -630,7 +744,13 @@
    },
    "text": "A girl outdoors warms her hands by holding them beside a fire. How does the heat from the fire reach her hands? A conduction only B convection and conduction C convection and radiation D radiation only",
    "dir": "bank/hw-thermal-mcq-16",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1089,
+     679
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-17",
@@ -661,7 +781,13 @@
    },
    "text": "A heater fitted to the ceiling of an office keeps workers warm. How does thermal energy reach the workers below the heater? A conduction and convection B convection and radiation C convection only D radiation only",
    "dir": "bank/hw-thermal-mcq-17",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1344,
+     401
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-18",
@@ -692,7 +818,13 @@
    },
    "text": "Which row shows how heating changes the density of air (decreases/increases) and the method of energy transfer caused by this density change (conduction/convection)?",
    "dir": "bank/hw-thermal-mcq-18",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1343,
+     408
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-19",
@@ -723,7 +855,13 @@
    },
    "text": "What is the name of the process of heat transfer using electromagnetic waves? A conduction B convection C evaporation D radiation",
    "dir": "bank/hw-thermal-mcq-19",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1093,
+     294
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-20",
@@ -755,7 +893,13 @@
    },
    "text": "Ice trapped by a metal gauze at the bottom of a tube of water; water heated strongly (boiling) at the top but the ice melts very slowly. Why? A heat always travels upwards B hot water more dense C metal gauze stops heat D water is a poor conductor of heat",
    "dir": "bank/hw-thermal-mcq-20",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1013,
+     909
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-21",
@@ -788,7 +932,13 @@
    },
    "text": "Which statement about the transfer of thermal energy is correct? A all metals conduct equally well B convection only in solids or liquids C convection because hot liquid is more dense D the radiation that transfers thermal energy is electromagnetic radiation",
    "dir": "bank/hw-thermal-mcq-21",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1177,
+     300
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-22",
@@ -821,7 +971,13 @@
    },
    "text": "A heater above a thermometer with air between. Which row (yes/no for conduction, convection, radiation) shows how heat energy from the heater reaches the thermometer bulb?",
    "dir": "bank/hw-thermal-mcq-22",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1342,
+     862
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-23",
@@ -852,7 +1008,13 @@
    },
    "text": "Air-conditioning unit high on the wall of a room draws in warm air and releases cold air. What happens to the cold air (falls/rises) and why (less/more dense than warm air)?",
    "dir": "bank/hw-thermal-mcq-23",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1344,
+     882
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-24",
@@ -883,7 +1045,13 @@
    },
    "text": "Which statement about thermal radiation is correct? A only occurs in a vacuum B movement of electrons through a material C movement of atoms D it is infra-red radiation",
    "dir": "bank/hw-thermal-mcq-24",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     798,
+     302
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-25",
@@ -916,7 +1084,13 @@
    },
    "text": "Double glazing: two panes of glass separated by a vacuum. Which method or methods of energy transfer are prevented by the vacuum? A conduction and convection B conduction and radiation C convection and radiation D radiation only",
    "dir": "bank/hw-thermal-mcq-25",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1134,
+     820
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-26",
@@ -948,7 +1122,13 @@
    },
    "text": "Conduction and radiation: which statement is correct? A conduction involves density changes in fluids B conduction only occurs in solids C radiation cannot occur in a vacuum D radiation involves electromagnetic waves",
    "dir": "bank/hw-thermal-mcq-26",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1204,
+     373
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-27",
@@ -980,7 +1160,13 @@
    },
    "text": "A heater is to be fitted in a room to warm the air throughout; position P (low on wall) or Q (high on wall). Which position is better and why (warmer air less/more dense, rises/falls)?",
    "dir": "bank/hw-thermal-mcq-27",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1051,
+     828
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-28",
@@ -1012,7 +1198,13 @@
    },
    "text": "Cross-section of a vacuum flask with hot liquid in a cold room; X and Y are points on the inside surfaces of the walls either side of the vacuum. How is thermal energy transferred between X and Y? A conduction and convection B conduction only C radiation and convection D radiation only",
    "dir": "bank/hw-thermal-mcq-28",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1293,
+     1107
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-29",
@@ -1043,7 +1235,13 @@
    },
    "text": "Refrigerator with the cooling unit at the top cools the air near it. What happens to the density of the air as it cools (decreases/increases) and how does it move (moves down/stays at the top)?",
    "dir": "bank/hw-thermal-mcq-29",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1018,
+     974
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-30",
@@ -1075,7 +1273,13 @@
    },
    "text": "Which statement about the transfer of thermal energy is correct? A convection in air only when trapped B convection only in a gas C radiation cannot occur in air D radiation can occur in a vacuum, but convection cannot",
    "dir": "bank/hw-thermal-mcq-30",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     898,
+     327
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-31",
@@ -1106,7 +1310,13 @@
    },
    "text": "A man in a cold room switches on a heater and stands one metre away; he feels warmer almost immediately. How is thermal energy transferred so quickly? A conduction, convection and radiation B conduction only C convection only D radiation only",
    "dir": "bank/hw-thermal-mcq-31",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1344,
+     907
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-32",
@@ -1138,7 +1348,13 @@
    "notes": "Same question as Q2 of this source.",
    "text": "Rod half glass, half copper, heated in the centre; pins A, B, C, D attached with wax. Which pin falls off first?",
    "dir": "bank/hw-thermal-mcq-32",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1341,
+     469
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-33",
@@ -1169,7 +1385,13 @@
    },
    "text": "A piece of hot metal held by a clamp in a cold room; the air next to the metal becomes hotter. Which row shows the density change of the air (decreases/increases) and the direction it moves (upwards/downwards)?",
    "dir": "bank/hw-thermal-mcq-33",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1284,
+     763
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-34",
@@ -1201,7 +1423,13 @@
    },
    "text": "Why does convection take place in a liquid when it is heated? A liquids expand when heated B liquids bubble near boiling point C molecules expand when heated D molecules near the surface escape into the air",
    "dir": "bank/hw-thermal-mcq-34",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     918,
+     297
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-35",
@@ -1234,7 +1462,13 @@
    "notes": "Similar to Q6 and Q48 of this source (options reordered).",
    "text": "Two plastic cups one inside the other with hot water and a lid, small spacer and small air gap, on a bench. Which statement is correct? A radiation prevented by the air gap B no heat passes through the sides C bench heated by convection D the lid reduces heat loss by convection",
    "dir": "bank/hw-thermal-mcq-35",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1342,
+     762
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-36",
@@ -1265,7 +1499,13 @@
    },
    "text": "Experiment to find the best conductor of heat: balls stuck with wax to rods of different metals (diagram 1), rods heated at one end, some balls fall off (diagram 2, rods A, B, C, D). Which labelled metal is the best conductor of heat?",
    "dir": "bank/hw-thermal-mcq-36",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1313,
+     721
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-37",
@@ -1297,7 +1537,13 @@
    },
    "text": "Food is kept in a cool-box using two ice packs. Where should the ice packs be placed to keep all the food as cool as possible? A both at the bottom B both at the top C front and back D left and right",
    "dir": "bank/hw-thermal-mcq-37",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1092,
+     368
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-38",
@@ -1329,7 +1575,13 @@
    },
    "text": "Cooling unit at the top of a refrigerator. Why is it placed at the top? A cold air falls and warm air is displaced upwards B cold air is a bad conductor C cold air is a good conductor D cold air stays at the top and prevents convection",
    "dir": "bank/hw-thermal-mcq-38",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1064,
+     828
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-39",
@@ -1360,7 +1612,13 @@
    },
    "text": "Two identical copper cans filled with boiling water, one insulated with wool; thermometer readings every minute. Which temperature-time graph (A, B, C, D) shows the results for the insulated and uninsulated cans? Cooling curves.",
    "dir": "bank/hw-thermal-mcq-39",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1398,
+     1525
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-40",
@@ -1391,7 +1649,13 @@
    },
    "text": "A substance loses thermal energy at a steady rate; cooling curve of temperature against time with two flat sections and a steep section PQ between them. What could the portion PQ represent? A gas condensing B gas cooling C liquid cooling D liquid solidifying",
    "dir": "bank/hw-thermal-mcq-40",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1069,
+     897
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-41",
@@ -1422,7 +1686,13 @@
    },
    "text": "Two identical cars, one black and one white, left in bright sunshine then at night. Which car shows the greater rate of temperature increase and which the greater rate of temperature decrease? Absorbers and emitters of infra-red radiation.",
    "dir": "bank/hw-thermal-mcq-41",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1349,
+     624
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-42",
@@ -1453,7 +1723,13 @@
    },
    "text": "A beaker of liquid on a bench with an electric fan causing a draught; the liquid evaporates. Which row shows two changes (surface area of the liquid, speed of fan: increase/decrease) that both make it evaporate more quickly?",
    "dir": "bank/hw-thermal-mcq-42",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1342,
+     634
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-43",
@@ -1484,7 +1760,13 @@
    },
    "text": "Which processes occur in a metal to cause thermal conduction? Table of ticks and crosses for electron transfer, proton transfer, lattice vibration.",
    "dir": "bank/hw-thermal-mcq-43",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1103,
+     417
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-44",
@@ -1515,7 +1797,13 @@
    },
    "text": "A wooden beam painted part black and part white absorbs infra-red radiation from the Sun by day and loses it at night. Which part heats up more quickly during the day and which cools down more quickly at night?",
    "dir": "bank/hw-thermal-mcq-44",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1348,
+     741
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-45",
@@ -1546,7 +1834,13 @@
    },
    "text": "Which row shows the surface that is the better absorber and the surface that is the better emitter of infra-red radiation (black surface / white surface)?",
    "dir": "bank/hw-thermal-mcq-45",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1343,
+     414
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-46",
@@ -1579,7 +1873,13 @@
    "notes": "Same question as Q4 of this source.",
    "text": "Uses for containers made from good thermal conductors and poor thermal conductors: in which row are both suggested uses correct?",
    "dir": "bank/hw-thermal-mcq-46",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1344,
+     624
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-47",
@@ -1610,7 +1910,13 @@
    },
    "text": "One end of a copper rod is heated. What is one method by which thermal energy is transferred in the copper rod? Free electrons / molecules of copper move from the hotter end to the cooler end or the reverse.",
    "dir": "bank/hw-thermal-mcq-47",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1079,
+     367
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-48",
@@ -1643,7 +1949,13 @@
    "notes": "Same question as Q6 of this source.",
    "text": "Two plastic cups one inside the other with a small spacer and small air gap; hot water in the inner cup with a lid, on a bench. Which statement is correct? A bench heated by convection B lid reduces energy lost by convection C no conduction through sides D radiation prevented by air gap",
    "dir": "bank/hw-thermal-mcq-48",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1321,
+     984
+    ]
+   }
   },
   {
    "id": "hw-thermal-mcq-49",
@@ -1674,7 +1986,13 @@
    },
    "text": "Ice floating at the top of warm water in a glass lowers its temperature. What is the main process by which the water at the bottom of the glass becomes cool? A condensation B conduction C convection D radiation",
    "dir": "bank/hw-thermal-mcq-49",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1209,
+     907
+    ]
+   }
   },
   {
    "id": "igexams-hookes-law-atp-01",
@@ -1743,7 +2061,21 @@
    "markscheme_text": "(a) l0 = 55 mm c.a.o. [1]\n(b)(i) e = 4, 9, 14, 19, 23 (ecf from (a)) [1]\n(b)(ii) view scale at right angles, or straight edge / set square / pointer between bottom of spring and rule [1]\n(c) graph: axes labelled with quantity and unit; suitable scales; plots to 1/2 small square; good thin continuous line, neat plots [4]\n(d)(i) e = 17 mm (ecf (a)) [1]\n(d)(ii) method shown on graph [1]; W = 3.5-3.75 N, unit needed, no ecf [1]\n",
    "text": "A student is investigating the stretching of a spring. The apparatus is shown in Fig. 1.1 (spring hanging from a clamp, unstretched length l0 marked).\n(a) On Fig. 1.1, measure the unstretched length l0 of the spring. Record l0 in the first row of Table 1.1. [1]\n(b) The student hangs a load L of 1.0 N on the spring and measures the new length l of the spring. She repeats the measurements using loads of 2.0 N, 3.0 N, 4.0 N and 5.0 N.\n(i) For each set of readings, calculate the extension e of the spring using the equation e = (l - l0). Record the values of e in the table.\nTable 1.1: L/N 0.0, 1.0, 2.0, 3.0, 4.0, 5.0; l/mm (blank), 59, 64, 69, 74, 78; e/mm 0, ... [1]\n(ii) Explain briefly one precaution that you would take in order to obtain reliable readings. [1]\n(c) Plot a graph of e/mm (y-axis) against L/N (x-axis). [4]\n(d) The student removes the load from the spring and hangs an unknown load X on the spring. She measures the length l of the spring: l = 72 mm.\n(i) Calculate the extension e of the spring. [1]\n(ii) Use the graph to determine the weight W of the load X. Show clearly on the graph how you obtained the necessary information. [2]\n",
    "dir": "bank/igexams-hookes-law-atp-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1107,
+     1674
+    ],
+    "q-2.png": [
+     1107,
+     1483
+    ],
+    "ms.png": [
+     2149,
+     683
+    ]
+   }
   },
   {
    "id": "igexams-hookes-law-atp-02",
@@ -1814,7 +2146,25 @@
    "markscheme_text": "(a) any one: clamp rule; rule close to spring; ensure rule vertical; avoid parallax (explained); set square / fiducial aid [1]\n(b) graph: axes labelled, right way round, units; suitable scales; plots to 1/2 small square; good best-fit straight line, thin, continuous [4]\n(c) l0 value consistent with candidate's graph [1]\n(d)(i) l = 8(.0) cm [1]\n(d)(ii) W = 1.4-1.7 N [1]; indication on graph matching value [1]\n(e) any one: data only to 2 s.f.; cannot plot/read graph to that accuracy; cannot read rule to that accuracy [1]\n",
    "text": "The class is investigating the behaviour of a spring, and then using the spring to determine the weight of an object. The apparatus is shown in Fig. 2.1 (spring with load hanging from a clamp, stretched length l marked).\n(a) A load of weight L = 1.0 N is hung on the spring. The stretched length l of the spring is recorded in Table 2.1. Suggest a precaution that you would take when measuring the length of the spring, to ensure a reliable reading. You may draw a diagram. [1]\n(b) Step (a) is repeated for values of L = 2.0 N, 3.0 N, 4.0 N and 5.0 N. Table 2.1: L/N 1.0, 2.0, 3.0, 4.0, 5.0; l/cm 6.1, 9.0, 13.4, 16.8, 21.0.\nPlot a graph of l/cm (y-axis) against L/N (x-axis). [4]\n(c) Use your graph to determine the length l0 of the spring with no load attached. [1]\n(d) The loads are removed and an object is suspended from the spring, as shown in Fig. 2.2.\n(i) On Fig. 2.2, measure the stretched length l of the spring. [1]\n(ii) Use the graph, and your reading from (d)(i), to determine the weight W of the object. Show clearly on the graph how you obtained your answer. [2]\n(e) A student measures the weight of a different load using this same method. He gives the weight as 2.564 N. Explain why this is not a suitable number of significant figures for this experiment. [1]\n",
    "dir": "bank/igexams-hookes-law-atp-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1106,
+     1612
+    ],
+    "q-2.png": [
+     1106,
+     1559
+    ],
+    "q-3.png": [
+     1106,
+     1686
+    ],
+    "ms.png": [
+     1400,
+     1096
+    ]
+   }
   },
   {
    "id": "igexams-hookes-law-atp-03",
@@ -1886,7 +2236,25 @@
    "notes": "Spring constant k = F/e is supplement content. Figure numbers in the question say Fig. 1.1 / 1.2 (copied from the original paper).",
    "text": "The IGCSE class is investigating the motion of a mass hanging on a spring. Fig. 1.1 shows the apparatus (clamp holding spring, unstretched length l0 marked, clamp holding cork with a pin, bench).\n(a) On Fig. 1.1, measure the length l0 of the unstretched spring, in mm. [1]\n(b) The diagram is drawn one tenth of actual size. Write down the actual length L0 of the unstretched spring, in mm. [1]\nA student hangs a 300 g mass on the spring and measures the new length L of the spring: L = 255 mm.\n(i) Calculate the extension e of the spring using the equation e = (L - L0).\n(ii) Calculate a value for the spring constant k using the equation k = F/e, where F = 3.0 N. Include the appropriate unit. [2]\n(c) The student adjusts the position of the lower clamp so that the pin is level with the bottom of the mass when the mass is not moving. She pulls the mass down a short distance and releases it so that it oscillates up and down. Fig. 1.2 shows one complete oscillation. She measures the time t taken for 20 complete oscillations: t = 26.84 s. Calculate the time T taken for one complete oscillation. [1]\n(d) She replaces the 300 g mass with a 500 g mass. She repeats the timing: t = 34.48 s.\n(i) Calculate the time T taken for one complete oscillation.\n(ii) The student suggests that the time taken for the oscillations of the spring should not be affected by the change in mass. State whether her results support this suggestion and justify your answer by reference to the results. [2]\n(e) Explain briefly how you avoid a line-of-sight (parallax) error when measuring the length of a spring in this type of experiment. You may draw a diagram. [1]\n",
    "dir": "bank/igexams-hookes-law-atp-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1107,
+     1692
+    ],
+    "q-2.png": [
+     1106,
+     1536
+    ],
+    "q-3.png": [
+     1106,
+     669
+    ],
+    "ms.png": [
+     1399,
+     965
+    ]
+   }
   },
   {
    "id": "igexams-hookes-law-atp-04",
@@ -1949,7 +2317,25 @@
    "notes": "Figure/table numbers say Fig. 5.1 / Table 5.1 (copied from the original paper).",
    "text": "The IGCSE class is investigating the stretching of a spring. Fig. 5.1 shows the apparatus (forcemeter 0-10 N holding a spring, load attached to the bottom of the spring resting on the bench, unstretched length l0 marked).\n(a) On Fig. 5.1, measure the unstretched length l0 of the spring, in mm. [1]\n(b) A student hangs the spring on the forcemeter with the load attached to the bottom of the spring, as shown in Fig. 5.1. The load remains on the bench. He gently raises the forcemeter until it reads 1.0 N. He measures the new length l of the spring. He repeats the procedure using a range of forcemeter readings. The readings are recorded in Table 5.1: F/N 1.0, 2.0, 3.0, 4.0, 5.0; l/mm 67, 77, 91, 105, 115; e/mm (blank).\n(i) Calculate the extension e of the spring, for each set of readings, using the equation e = (l - l0). Record the values of e in Table 5.1. [1]\n(ii) Plot a graph of e/mm (y-axis) against F/N (x-axis). [5]\n(iii) Determine the gradient G of the graph. Show clearly on the graph how you obtained the necessary information. [2]\n",
    "dir": "bank/igexams-hookes-law-atp-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1045,
+     1467
+    ],
+    "q-2.png": [
+     996,
+     1560
+    ],
+    "q-3.png": [
+     1003,
+     351
+    ],
+    "ms.png": [
+     1401,
+     615
+    ]
+   }
   },
   {
    "id": "igexams-hookes-law-atp-05",
@@ -2020,7 +2406,21 @@
    "notes": "Figure/table numbers say Fig. 1.1 / Table 1.1 (copied from the original paper).",
    "text": "The IGCSE class is investigating the stretching of a spring. Fig. 1.1 shows the experimental set up (spring hanging from a clamp above a bench, distance d0 from the bottom of the spring to the bench marked).\n(a) On Fig. 1.1, measure the vertical distance d0, in mm, between the bottom of the spring and the surface of the bench. [1]\n(b) The diagram is drawn 1/10th actual size. Calculate the actual distance D0, in mm, between the bottom of the spring and the surface of the bench. [1]\n(c) A student hangs a 1.0 N load on the spring. He measures and records the distance D between the bottom of the spring and the surface of the bench, and the value of the load L. He repeats the procedure using loads of 2.0 N, 3.0 N, 4.0 N and 5.0 N. Calculate the extension e of the spring, for each set of readings, using the equation e = (D0 - D). Record the values of L and e in Table 1.1: D/mm 199, 191, 179, 171, 160. [2]\n(d) Plot a graph of e/mm (y-axis) against L/N (x-axis). [4]\n(e) Determine the gradient G of the graph. Show clearly on the graph how you obtained the necessary information. [2]\n(f) When making measurements, the student is careful to avoid a line-of-sight error. Suggest one other precaution that the student should take when measuring the distance D between the bottom of the spring and the surface of the bench. [1]\n",
    "dir": "bank/igexams-hookes-law-atp-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1047,
+     1656
+    ],
+    "q-2.png": [
+     1045,
+     1527
+    ],
+    "ms.png": [
+     1399,
+     998
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-01",
@@ -2054,7 +2454,13 @@
    "dir": "bank/sem1-2024-25-01",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1061,
+     440
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-02",
@@ -2088,7 +2494,13 @@
    "dir": "bank/sem1-2024-25-02",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1202,
+     639
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-03",
@@ -2122,7 +2534,13 @@
    "dir": "bank/sem1-2024-25-03",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     756,
+     370
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-04",
@@ -2156,7 +2574,13 @@
    "dir": "bank/sem1-2024-25-04",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     897,
+     382
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-05",
@@ -2190,7 +2614,13 @@
    "dir": "bank/sem1-2024-25-05",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1138,
+     839
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-06",
@@ -2224,7 +2654,13 @@
    "dir": "bank/sem1-2024-25-06",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1225,
+     720
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-07",
@@ -2258,7 +2694,13 @@
    "dir": "bank/sem1-2024-25-07",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1059,
+     401
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-08",
@@ -2292,7 +2734,13 @@
    "dir": "bank/sem1-2024-25-08",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1341,
+     768
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-09",
@@ -2326,7 +2774,13 @@
    "dir": "bank/sem1-2024-25-09",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1293,
+     511
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-10",
@@ -2360,7 +2814,13 @@
    "dir": "bank/sem1-2024-25-10",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1342,
+     965
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-11",
@@ -2394,7 +2854,13 @@
    "dir": "bank/sem1-2024-25-11",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1004,
+     875
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-12",
@@ -2429,7 +2895,13 @@
    "dir": "bank/sem1-2024-25-12",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     968,
+     399
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-13",
@@ -2463,7 +2935,13 @@
    "dir": "bank/sem1-2024-25-13",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1174,
+     829
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-14",
@@ -2497,7 +2975,13 @@
    "dir": "bank/sem1-2024-25-14",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1100,
+     324
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-15",
@@ -2531,7 +3015,13 @@
    "dir": "bank/sem1-2024-25-15",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1250,
+     184
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-16",
@@ -2566,7 +3056,13 @@
    "dir": "bank/sem1-2024-25-16",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1114,
+     489
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-17",
@@ -2600,7 +3096,13 @@
    "dir": "bank/sem1-2024-25-17",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1344,
+     1107
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-18",
@@ -2634,7 +3136,13 @@
    "dir": "bank/sem1-2024-25-18",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1181,
+     690
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-19",
@@ -2669,7 +3177,13 @@
    "dir": "bank/sem1-2024-25-19",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1343,
+     947
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-20",
@@ -2704,7 +3218,13 @@
    "dir": "bank/sem1-2024-25-20",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     818,
+     648
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-21",
@@ -2758,7 +3278,13 @@
    "dir": "bank/sem1-2024-25-21",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1336,
+     1663
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-22",
@@ -2821,7 +3347,17 @@
    "dir": "bank/sem1-2024-25-22",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1336,
+     1572
+    ],
+    "q-2.png": [
+     1337,
+     2039
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-23",
@@ -2869,7 +3405,13 @@
    "dir": "bank/sem1-2024-25-23",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1338,
+     1937
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-24",
@@ -2918,7 +3460,17 @@
    "dir": "bank/sem1-2024-25-24",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1340,
+     1650
+    ],
+    "q-2.png": [
+     1336,
+     627
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-25",
@@ -2970,7 +3522,13 @@
    "dir": "bank/sem1-2024-25-25",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1337,
+     1732
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-26",
@@ -3053,7 +3611,21 @@
    "dir": "bank/sem1-2024-25-26",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1338,
+     1786
+    ],
+    "q-2.png": [
+     1339,
+     1890
+    ],
+    "q-3.png": [
+     1336,
+     450
+    ]
+   }
   },
   {
    "id": "sem1-2024-25-27",
@@ -3114,7 +3686,17 @@
    "dir": "bank/sem1-2024-25-27",
    "used_in": [
     "Semester 1 Physics IG9 2024-25 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1337,
+     1491
+    ],
+    "q-2.png": [
+     1337,
+     1994
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-01",
@@ -3147,7 +3729,13 @@
    "dir": "bank/sem1-2025-26-01",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1270,
+     913
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-02",
@@ -3180,7 +3768,13 @@
    "dir": "bank/sem1-2025-26-02",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1292,
+     853
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-03",
@@ -3213,7 +3807,13 @@
    "dir": "bank/sem1-2025-26-03",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1285,
+     526
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-04",
@@ -3246,7 +3846,13 @@
    "dir": "bank/sem1-2025-26-04",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1331,
+     402
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-05",
@@ -3279,7 +3885,13 @@
    "dir": "bank/sem1-2025-26-05",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     795,
+     670
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-06",
@@ -3313,7 +3925,13 @@
    "dir": "bank/sem1-2025-26-06",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1333,
+     798
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-07",
@@ -3346,7 +3964,13 @@
    "dir": "bank/sem1-2025-26-07",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1123,
+     564
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-08",
@@ -3379,7 +4003,13 @@
    "dir": "bank/sem1-2025-26-08",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1061,
+     334
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-09",
@@ -3412,7 +4042,13 @@
    "dir": "bank/sem1-2025-26-09",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1324,
+     693
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-10",
@@ -3446,7 +4082,13 @@
    "dir": "bank/sem1-2025-26-10",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1298,
+     689
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-11",
@@ -3480,7 +4122,13 @@
    "dir": "bank/sem1-2025-26-11",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1243,
+     323
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-12",
@@ -3513,7 +4161,13 @@
    "dir": "bank/sem1-2025-26-12",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1281,
+     379
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-13",
@@ -3546,7 +4200,13 @@
    "dir": "bank/sem1-2025-26-13",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1268,
+     191
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-14",
@@ -3579,7 +4239,13 @@
    "dir": "bank/sem1-2025-26-14",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1302,
+     584
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-15",
@@ -3612,7 +4278,13 @@
    "dir": "bank/sem1-2025-26-15",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1066,
+     839
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-16",
@@ -3645,7 +4317,13 @@
    "dir": "bank/sem1-2025-26-16",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1381,
+     801
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-17",
@@ -3678,7 +4356,13 @@
    "dir": "bank/sem1-2025-26-17",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1128,
+     788
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-18",
@@ -3711,7 +4395,13 @@
    "dir": "bank/sem1-2025-26-18",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1202,
+     842
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-19",
@@ -3745,7 +4435,13 @@
    "dir": "bank/sem1-2025-26-19",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1418,
+     427
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-20",
@@ -3779,7 +4475,13 @@
    "dir": "bank/sem1-2025-26-20",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1201,
+     207
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-21",
@@ -3828,7 +4530,13 @@
    "dir": "bank/sem1-2025-26-21",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1290,
+     1946
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-22",
@@ -3870,7 +4578,13 @@
    "dir": "bank/sem1-2025-26-22",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1290,
+     1800
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-23",
@@ -3923,7 +4637,17 @@
    "dir": "bank/sem1-2025-26-23",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1289,
+     1154
+    ],
+    "q-2.png": [
+     1288,
+     785
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-24",
@@ -3965,7 +4689,13 @@
    "dir": "bank/sem1-2025-26-24",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1291,
+     1284
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-25",
@@ -4016,7 +4746,13 @@
    "dir": "bank/sem1-2025-26-25",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1288,
+     1869
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-26",
@@ -4057,7 +4793,13 @@
    "dir": "bank/sem1-2025-26-26",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1290,
+     1352
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-27",
@@ -4125,7 +4867,17 @@
    "dir": "bank/sem1-2025-26-27",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1291,
+     1698
+    ],
+    "q-2.png": [
+     1290,
+     1642
+    ]
+   }
   },
   {
    "id": "sem1-2025-26-28",
@@ -4207,7 +4959,25 @@
    "dir": "bank/sem1-2025-26-28",
    "used_in": [
     "Semester 1 Physics IG9 2025-26 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1290,
+     1430
+    ],
+    "q-2.png": [
+     1289,
+     1026
+    ],
+    "q-3.png": [
+     1322,
+     1622
+    ],
+    "q-4.png": [
+     1314,
+     1255
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-01",
@@ -4240,7 +5010,13 @@
    "dir": "bank/sem1-2026-27-01",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1226,
+     612
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-02",
@@ -4273,7 +5049,13 @@
    "dir": "bank/sem1-2026-27-02",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1287,
+     356
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-03",
@@ -4306,7 +5088,13 @@
    "dir": "bank/sem1-2026-27-03",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1203,
+     592
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-04",
@@ -4340,7 +5128,13 @@
    "dir": "bank/sem1-2026-27-04",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1110,
+     637
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-05",
@@ -4373,7 +5167,13 @@
    "dir": "bank/sem1-2026-27-05",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     885,
+     288
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-06",
@@ -4406,7 +5206,13 @@
    "dir": "bank/sem1-2026-27-06",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     629,
+     359
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-07",
@@ -4439,7 +5245,13 @@
    "dir": "bank/sem1-2026-27-07",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1040,
+     422
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-08",
@@ -4472,7 +5284,13 @@
    "dir": "bank/sem1-2026-27-08",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     936,
+     548
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-09",
@@ -4506,7 +5324,13 @@
    "dir": "bank/sem1-2026-27-09",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1011,
+     813
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-10",
@@ -4539,7 +5363,13 @@
    "dir": "bank/sem1-2026-27-10",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1018,
+     461
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-11",
@@ -4572,7 +5402,13 @@
    "dir": "bank/sem1-2026-27-11",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1223,
+     951
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-12",
@@ -4605,7 +5441,13 @@
    "dir": "bank/sem1-2026-27-12",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1224,
+     761
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-13",
@@ -4639,7 +5481,13 @@
    "dir": "bank/sem1-2026-27-13",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1200,
+     619
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-14",
@@ -4672,7 +5520,13 @@
    "dir": "bank/sem1-2026-27-14",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1042,
+     333
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-15",
@@ -4705,7 +5559,13 @@
    "dir": "bank/sem1-2026-27-15",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     779,
+     334
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-16",
@@ -4738,7 +5598,13 @@
    "dir": "bank/sem1-2026-27-16",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     999,
+     380
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-17",
@@ -4771,7 +5637,13 @@
    "dir": "bank/sem1-2026-27-17",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1049,
+     187
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-18",
@@ -4804,7 +5676,13 @@
    "dir": "bank/sem1-2026-27-18",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1220,
+     201
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-19",
@@ -4838,7 +5716,13 @@
    "dir": "bank/sem1-2026-27-19",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1017,
+     914
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-20",
@@ -4871,7 +5755,13 @@
    "dir": "bank/sem1-2026-27-20",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     837,
+     277
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-21",
@@ -4923,7 +5813,17 @@
    "dir": "bank/sem1-2026-27-21",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1200,
+     1482
+    ],
+    "q-2.png": [
+     1220,
+     1038
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-22",
@@ -4983,7 +5883,17 @@
    "dir": "bank/sem1-2026-27-22",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1199,
+     1727
+    ],
+    "q-2.png": [
+     1341,
+     799
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-23",
@@ -5040,7 +5950,17 @@
    "dir": "bank/sem1-2026-27-23",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1199,
+     1368
+    ],
+    "q-2.png": [
+     1200,
+     1328
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-24",
@@ -5081,7 +6001,13 @@
    "dir": "bank/sem1-2026-27-24",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1202,
+     1496
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-25",
@@ -5126,7 +6052,13 @@
    "dir": "bank/sem1-2026-27-25",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1184,
+     1773
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-26",
@@ -5164,7 +6096,13 @@
    "dir": "bank/sem1-2026-27-26",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q.png": [
+     1349,
+     1435
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-27",
@@ -5232,7 +6170,21 @@
    "dir": "bank/sem1-2026-27-27",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1221,
+     1599
+    ],
+    "q-2.png": [
+     1153,
+     1594
+    ],
+    "q-3.png": [
+     1276,
+     1880
+    ]
+   }
   },
   {
    "id": "sem1-2026-27-28",
@@ -5309,7 +6261,21 @@
    "dir": "bank/sem1-2026-27-28",
    "used_in": [
     "Semester 1 Physics IG9 2026-27 (given)"
-   ]
+   ],
+   "sizes": {
+    "q-1.png": [
+     1320,
+     1775
+    ],
+    "q-2.png": [
+     1396,
+     1489
+    ],
+    "q-3.png": [
+     1380,
+     1890
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-01",
@@ -5345,7 +6311,25 @@
    "markscheme_text": "B: constant speed on a distance-time graph is a straight sloping line. A stationary, C accelerating, D decelerating.",
    "text": "Easy Q1. Which distance-time graph shows an object moving with constant speed? Four distance-time graphs A (horizontal line), B (straight line through origin), C (curve upwards), D (curve levelling off).",
    "dir": "bank/sme-motion-mcq-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1162,
+     1033
+    ],
+    "ms-1.png": [
+     1222,
+     819
+    ],
+    "ms-2.png": [
+     1281,
+     1226
+    ],
+    "ms-3.png": [
+     1281,
+     986
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-02",
@@ -5382,7 +6366,29 @@
    "markscheme_text": "C: constant speed on a speed-time graph is a horizontal line. A accelerating, B decelerating, D at rest then accelerating.",
    "text": "Easy Q2. Which speed-time graph shows an object moving with a constant speed? Four speed-time graphs A, B, C, D.",
    "dir": "bank/sme-motion-mcq-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1162,
+     1033
+    ],
+    "ms-1.png": [
+     1017,
+     807
+    ],
+    "ms-2.png": [
+     738,
+     53
+    ],
+    "ms-3.png": [
+     1281,
+     1865
+    ],
+    "ms-4.png": [
+     1281,
+     1106
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-03",
@@ -5417,7 +6423,21 @@
    "markscheme_text": "D: distance = area under the speed-time graph; section D has the largest area (14 large squares).",
    "text": "Easy Q3. In which section of the graph is the most distance covered? Speed-time graph on a grid divided into sections A, B, C, D; area under graph.",
    "dir": "bank/sme-motion-mcq-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1143,
+     607
+    ],
+    "ms-1.png": [
+     146,
+     49
+    ],
+    "ms-2.png": [
+     1278,
+     974
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-04",
@@ -5452,7 +6472,21 @@
    "markscheme_text": "C: v = s/t = 30/2.5 = 12 m/s (metres and seconds give m/s).",
    "text": "Easy Q4. What is the speed of a bowling ball which travels down a 30 m lane in 2.5 seconds? A 75 miles per hour B 75 metres per second C 12 metres per second D 12 miles per hour",
    "dir": "bank/sme-motion-mcq-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1141,
+     346
+    ],
+    "ms-1.png": [
+     584,
+     503
+    ],
+    "ms-2.png": [
+     1248,
+     272
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-05",
@@ -5488,7 +6522,21 @@
    "notes": "Terminal velocity is supplement content in 0625; SME lists it as Easy without an Extended label.",
    "text": "Easy Q5. A BASE jumper, initially at rest, falls from the top of El Capitan in Yosemite National Park. Air resistance is not ignored. Which graph represents their motion as they approach terminal velocity? Four graphs A-D (distance-time and speed-time).",
    "dir": "bank/sme-motion-mcq-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1266,
+     1113
+    ],
+    "ms-1.png": [
+     997,
+     308
+    ],
+    "ms-2.png": [
+     1279,
+     623
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-06",
@@ -5524,7 +6572,21 @@
    "markscheme_text": "A: gradient of distance-time graph = speed. P to Q constant, Q to R zero, R to S constant.",
    "text": "Easy Q6. The graph shows how the distance travelled by a vehicle changes with time. Which row describes the speed of the vehicle in each section of the graph? Distance-time graph P Q R S. Table: P to Q, Q to R, R to S; A constant zero constant; B constant zero decreasing; C increasing constant decreasing; D increasing zero constant.",
    "dir": "bank/sme-motion-mcq-06",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1059,
+     657
+    ],
+    "q-2.png": [
+     1279,
+     639
+    ],
+    "ms.png": [
+     1280,
+     1095
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-07",
@@ -5558,7 +6620,17 @@
    "markscheme_text": "B: P at rest; Q accelerating, R constant speed, S decelerating, so moving in Q, R and S only.",
    "text": "Easy Q7. The speed-time graph for a train is shown. Which regions of the graph show the train moving? A P, Q, R and S B Q, R and S only C Q and S only D R only",
    "dir": "bank/sme-motion-mcq-07",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1174,
+     1014
+    ],
+    "ms.png": [
+     1280,
+     744
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-08",
@@ -5593,7 +6665,17 @@
    "notes": "SME labels this Extended tier only.",
    "text": "Easy Q8. A speed-time graph is used to describe the motion of an object. Which quantities are calculated from the gradient of the graph and from the area under the graph? Table gradient / area: A acceleration, distance travelled; B acceleration, total journey time; C distance travelled, acceleration; D total journey time, distance travelled.",
    "dir": "bank/sme-motion-mcq-08",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1279,
+     853
+    ],
+    "ms.png": [
+     1280,
+     393
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-09",
@@ -5628,7 +6710,21 @@
    "markscheme_text": "B: average speed = total distance / total time, so metre ruler and stopwatch.",
    "text": "Easy Q9. A student carries out an experiment to find the average speed of a metal ball as it rolls down a slope. Which pieces of equipment are needed? A top pan balance and metre ruler B metre ruler and stopwatch C top pan balance and stopwatch D measuring cylinder and stopwatch",
    "dir": "bank/sme-motion-mcq-09",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1275,
+     477
+    ],
+    "ms-1.png": [
+     146,
+     49
+    ],
+    "ms-2.png": [
+     1279,
+     676
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-10",
@@ -5663,7 +6759,17 @@
    "notes": "Source defect: options C and D print only '= 2.67 km/min' and '= 1.44 km/min' without the calculation (explanation says C is the sum of the two speeds, D is 13.0/9.0).",
    "text": "Medium Q1. A car travels along a clear 10.0 km section of motorway in 6.0 minutes. It then drives through 3.0 km of roadworks in 3.0 minutes. Which calculation will give the correct average speed for the journey? A 3.0/3.0 = 1.00 km/min B 10.0/6.0 = 1.67 km/min C = 2.67 km/min D = 1.44 km/min",
    "dir": "bank/sme-motion-mcq-10",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1161,
+     604
+    ],
+    "ms.png": [
+     1280,
+     611
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-11",
@@ -5700,7 +6806,21 @@
    "notes": "Source defect: option B is blank in the SME PDF. Answer A is unaffected, but fix or replace option B before using in a paper.",
    "text": "Medium Q2. The graph shows the journey undertaken by a car (speed-time graph, triangle). Which equation correctly gives the distance travelled by the car? A (6.5 x 8.0)/2 = 26 m B (blank in source) C 6.5/8.0 = 0.81 m D 8.0/6.5 = 1.2 m",
    "dir": "bank/sme-motion-mcq-11",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     891,
+     1344
+    ],
+    "ms-1.png": [
+     1240,
+     528
+    ],
+    "ms-2.png": [
+     1277,
+     754
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-12",
@@ -5735,7 +6855,21 @@
    "markscheme_text": "B: average speed = (8 x 300 m) / (4.0 x 60 s) = 10 m/s.",
    "text": "Medium Q3. During a Go Karting race, a car does 8 laps of a 300 m course. It takes 4.0 minutes to complete the race. What was the average speed of the Go Kart? A 75 m/s B 10 m/s C 1.25 m/s D 600 m/s",
    "dir": "bank/sme-motion-mcq-12",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1162,
+     471
+    ],
+    "ms-1.png": [
+     1120,
+     624
+    ],
+    "ms-2.png": [
+     1278,
+     227
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-13",
@@ -5772,7 +6906,25 @@
    "notes": "SME labels this Extended tier only. The key D (2.2 x 10^3 m/s^2) is consistent with the axis in seconds; the explanation's closing tip saying the time is in ms does not match the printed graph (Time / s).",
    "text": "Medium Q4. A charged particle is accelerated when passing through an electric field. What is the acceleration of the particle at 0.4 s? Speed-time curve (time in s); tangent gradient. A 4.6 x 10^-4 m/s^2 B 2.2 x 10^-3 m/s^2 C 7.5 x 10^2 m/s^2 D 2.2 x 10^3 m/s^2",
    "dir": "bank/sme-motion-mcq-13",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1220,
+     1144
+    ],
+    "ms-1.png": [
+     995,
+     307
+    ],
+    "ms-2.png": [
+     1240,
+     1541
+    ],
+    "ms-3.png": [
+     1248,
+     820
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-14",
@@ -5809,7 +6961,25 @@
    "markscheme_text": "C: areas under graphs A 27.5, B 20.5, C about 34.6 (quarter circle + rectangle), D 32, so C is largest.",
    "text": "Medium Q5. Four speed-time graphs have axes with the same scales. Each large square has a height of 1 m/s and width of 1 s. Which graph shows the greatest distance covered? Graphs A, B, C (curve), D on grids; area under graph.",
    "dir": "bank/sme-motion-mcq-14",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1259,
+     54
+    ],
+    "q-2.png": [
+     1157,
+     1104
+    ],
+    "ms-1.png": [
+     846,
+     745
+    ],
+    "ms-2.png": [
+     1248,
+     1522
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-15",
@@ -5845,7 +7015,21 @@
    "markscheme_text": "A: at time t both lines have the same speed value. Runner 2 has covered more distance; neither has zero gradient; runner 2's speed is still increasing.",
    "text": "Medium Q6. Two runners take part in a race. The graph shows how the speed of each runner changes with time. What does the graph show about the runners at time t? A Both runners are moving at the same speed. B Runner 1 has zero acceleration. C Runner 1 runs ahead of runner 2. D Runner 2 is slowing down.",
    "dir": "bank/sme-motion-mcq-15",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     451,
+     53
+    ],
+    "q-2.png": [
+     930,
+     933
+    ],
+    "ms.png": [
+     1280,
+     830
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-16",
@@ -5880,7 +7064,17 @@
    "notes": "SME labels this Extended tier only.",
    "text": "Medium Q7. When does an object falling vertically through the air reach terminal velocity? A when the acceleration of the object becomes negative B when the acceleration of the object is equal to g C when the air resistance equals the weight of the object D when the air resistance is greater than the weight of the object",
    "dir": "bank/sme-motion-mcq-16",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1065,
+     346
+    ],
+    "ms.png": [
+     1280,
+     832
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-17",
@@ -5917,7 +7111,21 @@
    "notes": "SME labels this Extended tier only.",
    "text": "Medium Q8. An athlete runs a 100 m race in a straight line. The table shows how his speed changes with time for the first 5.0 s of the race. speed m/s 0, 1.7, 4.1, 5.7, 6.5, 6.8; time/s 0, 1.0, 2.0, 3.0, 4.0, 5.0. What is the average acceleration of the athlete between time 2.0 s and time 3.0 s? A 1.6 m/s^2 B 1.9 m/s^2 C 4.9 m/s^2 D 5.7 m/s^2",
    "dir": "bank/sme-motion-mcq-17",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1279,
+     394
+    ],
+    "q-2.png": [
+     1128,
+     339
+    ],
+    "ms.png": [
+     1280,
+     732
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-18",
@@ -5951,7 +7159,17 @@
    "markscheme_text": "D: length of train = distance = speed x time = 40 x 2.0 = 80 m.",
    "text": "Medium Q9. A man stands next to a railway track. A train travelling at 40 m/s takes 2.0 s to pass the man. What is the length of the train? A 20 m B 38 m C 40 m D 80 m",
    "dir": "bank/sme-motion-mcq-18",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1174,
+     728
+    ],
+    "ms.png": [
+     1280,
+     690
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-19",
@@ -5986,7 +7204,21 @@
    "markscheme_text": "C: distance = area of triangle = 1/2 x 400 x 20 = 4000 m.",
    "text": "Medium Q10. The graph represents the motion of a vehicle (speed-time graph, uniform acceleration from 0 to 20 m/s in 400 s). What is the distance travelled by the vehicle in 400 s? A 20 m B 400 m C 4000 m D 8000 m",
    "dir": "bank/sme-motion-mcq-19",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     926,
+     1018
+    ],
+    "ms-1.png": [
+     495,
+     124
+    ],
+    "ms-2.png": [
+     1280,
+     1084
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-20",
@@ -6022,7 +7254,21 @@
    "markscheme_text": "B: average speed = gradient between X and Y = (12 - 6) m / (30 - 10) s = 0.30 m/s.",
    "text": "Medium Q11. The diagram shows a distance-time graph for an object moving in a straight line. What is the average speed between X and Y? A 0.20 m/s B 0.30 m/s C 0.40 m/s D 0.60 m/s",
    "dir": "bank/sme-motion-mcq-20",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1120,
+     742
+    ],
+    "q-2.png": [
+     201,
+     258
+    ],
+    "ms.png": [
+     1280,
+     1018
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-21",
@@ -6057,7 +7303,17 @@
    "notes": "Terminal velocity is supplement content in 0625.",
    "text": "Medium Q12. An object falls towards the surface of the Earth. The object is falling at its terminal velocity. Which statement is correct? A There is air resistance and the acceleration of the object is negative. B There is air resistance and the acceleration of the object is zero. C There is no air resistance and the acceleration of the object is negative. D There is no air resistance and the acceleration of the object is zero.",
    "dir": "bank/sme-motion-mcq-21",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1049,
+     522
+    ],
+    "ms.png": [
+     1280,
+     611
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-22",
@@ -6093,7 +7349,21 @@
    "markscheme_text": "C: constant speed from 10 s to 25 s at 10 m/s, distance = 10 x 15 = 150 m.",
    "text": "Medium Q13. The diagram shows a speed-time graph for a car travelling along a straight road. What is the distance travelled by the car while it is moving at constant speed? A 50 m B 75 m C 150 m D 200 m",
    "dir": "bank/sme-motion-mcq-22",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1111,
+     706
+    ],
+    "q-2.png": [
+     153,
+     304
+    ],
+    "ms.png": [
+     1280,
+     1043
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-23",
@@ -6129,7 +7399,21 @@
    "notes": "SME labels this Extended tier only.",
    "text": "Hard Q1. A cannonball is dropped from a three story building. Which row of the table correctly describes both the speed and the acceleration of the cannonball as it falls? You can ignore air resistance for this question. Speed / Acceleration: A constant constant; B increasing constant; C increasing increasing; D constant increasing. Free fall.",
    "dir": "bank/sme-motion-mcq-23",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1279,
+     941
+    ],
+    "ms-1.png": [
+     1227,
+     613
+    ],
+    "ms-2.png": [
+     1277,
+     95
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-24",
@@ -6164,7 +7448,21 @@
    "markscheme_text": "A: constant speed (horizontal line) from t = 20 s to 30 s at 15 m/s, distance = 10 x 15 = 150 m.",
    "text": "Hard Q2. The graph shows the motion of a motorbike (speed-time graph). What is the distance travelled by the motorbike while it is moving at a constant speed? A 150 m B 50 m C 300 m D 750 m",
    "dir": "bank/sme-motion-mcq-24",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1191,
+     1265
+    ],
+    "ms-1.png": [
+     1270,
+     439
+    ],
+    "ms-2.png": [
+     1279,
+     1245
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-25",
@@ -6200,7 +7498,21 @@
    "markscheme_text": "D: average speed = (100 + 50 + 30 + 70) km / (4.0 - 0.5) h = 71.4 km/h.",
    "text": "Hard Q3. A helicopter flies the route shown below (H to I 100 km, I to J 50 km, J to K 30 km, K to L 70 km). It stops at point I for 30 minutes to pick up some cargo. The total time the helicopter takes between taking off from H and landing at L is 4.0 hours. Calculate the average speed of the helicopter when it is flying. A 55.6 km/h B 250 km/h C 62.5 km/h D 71.4 km/h",
    "dir": "bank/sme-motion-mcq-25",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     574,
+     54
+    ],
+    "q-2.png": [
+     1248,
+     1023
+    ],
+    "ms.png": [
+     1280,
+     618
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-26",
@@ -6237,7 +7549,21 @@
    "markscheme_text": "C: distance = (343 x 0.84)/2 = 144 m (sound goes to the cliff and back).",
    "text": "Hard Q4. A man claps in a forest. There is nobody around to hear the sound. However, there is a very flat cliff face some distance away, and the man hears an echo from the clap 0.84 s later. The speed of sound in air is 343 m/s. How far away was the man from the cliff? A 408 m B 288 m C 144 m D 204 m",
    "dir": "bank/sme-motion-mcq-26",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1260,
+     188
+    ],
+    "q-2.png": [
+     582,
+     427
+    ],
+    "ms.png": [
+     1280,
+     917
+    ]
+   }
   },
   {
    "id": "sme-motion-mcq-27",
@@ -6273,7 +7599,21 @@
    "notes": "SME labels this Extended tier only.",
    "text": "Hard Q5. The graph shows the speed-time graph of a cyclist moving in a straight line (curve with a maximum at 20 s). What is the acceleration of the cyclist at a time of 20 seconds? A 0.5 m/s^2 B -0.5 m/s^2 C 0 m/s^2 D 11.5 m/s^2",
    "dir": "bank/sme-motion-mcq-27",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1040,
+     1102
+    ],
+    "ms-1.png": [
+     1239,
+     522
+    ],
+    "ms-2.png": [
+     1279,
+     793
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-01",
@@ -6305,7 +7645,13 @@
    },
    "text": "Evaporation occurs when molecules escape from a liquid surface into the air above it. During this process the\ntemperature of the liquid falls. Why does the temperature of the liquid fall?\nA The molecules in the vapour expand because the pressure is less. B The molecules left in the liquid have more\nspace to move around. C The molecules move more slowly when they escape into the air. D The molecules with the\nhighest energies escape into the air.\n",
    "dir": "bank/thermal-2025-26-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1472,
+     442
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-02",
@@ -6337,7 +7683,13 @@
    "notes": "C = pressure rises from a non-zero starting value. B also rises but starts from zero pressure, which is impossible for a gas that already has a measured pressure.",
    "text": "The pressure of a fixed mass of gas in a cylinder is measured. The volume of the cylinder is then slowly decreased.\nThe temperature of the gas does not change. Which graph could show the change of pressure of the gas during this\nprocess? (four pressure-time graphs A-D: A horizontal, B rising from zero, C rising from a non-zero value,\nD falling)\n",
    "dir": "bank/thermal-2025-26-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1323,
+     1028
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-03",
@@ -6369,7 +7721,13 @@
    "notes": "Fixed points / thermometer calibration are not a named point in the current 0625 syllabus; tagged 2.2.3 (melting point of ice).",
    "text": "To mark the lower fixed point of a Celsius scale on a thermometer, the thermometer should be placed in\nA pure alcohol. B pure distilled water. C pure melting ice. D pure mercury.\n",
    "dir": "bank/thermal-2025-26-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1489,
+     371
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-04",
@@ -6400,7 +7758,13 @@
    },
    "text": "The diagram shows a cooling unit at the top of a refrigerator. Why is the cooling unit placed at the top?\nA Cold air falls and warm air is displaced upwards. B Cold air is a bad conductor so heat is not conducted into the\nrefrigerator. C Cold air is a good conductor so heat is conducted out of the refrigerator. D Cold air remains at the\ntop and so prevents convection.\n",
    "dir": "bank/thermal-2025-26-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1262,
+     988
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-05",
@@ -6436,7 +7800,13 @@
    "notes": "Only part (i) of the original question was pasted.",
    "text": "Some sea water has a specific heat capacity of 3900 J/(kg °C) and a boiling point of 100.6 °C. (i) Calculate the\nenergy required to raise the temperature of 0.800 kg of this sea water from 12.0 °C up to its boiling point. State\nthe equation that you use. (Delta E = m c Delta theta)\n",
    "dir": "bank/thermal-2025-26-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1345,
+     578
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-06",
@@ -6472,7 +7842,13 @@
    "notes": "Only part (b)(i) of the original question was pasted (starts at '(b)').",
    "text": "(b) A block of ice is taken from a freezer at -25 °C, placed in a metal container and heated by a source of constant\npower. Fig. 4.1 is a temperature-time heating curve A-B-C-D-E (melting at 0 °C, boiling at 100 °C); at E the\ncontainer is empty. (i) State what is taking place in the regions of the graph from B to C, and from D to E.\n",
    "dir": "bank/thermal-2025-26-06",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1385,
+     1177
+    ]
+   }
   },
   {
    "id": "thermal-2025-26-07",
@@ -6520,7 +7896,13 @@
    },
    "text": "(a) The temperature of a block of iron is increased. State what happens to (i) the energy of the atoms due to their\nvibrations, (ii) the average separation of the atoms, (iii) the density of the iron. (b) Concrete roads are laid in\nsections with gaps filled with soft pitch (Fig. 6.1). Suggest why the concrete is laid in sections like this.\n(thermal expansion)\n",
    "dir": "bank/thermal-2025-26-07",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1387,
+     1917
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-01",
@@ -6552,7 +7934,13 @@
    },
    "text": "A sealed box of gas is heated. The volume stays the same. Why does the pressure increase?\nA The gas particles get bigger. B The gas particles move faster and hit the walls harder and more often.\nC There are more gas particles in the box. D The gas particles collide with each other more often.\n",
    "dir": "bank/ws-kinetic-theory-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1243,
+     205
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-02",
@@ -6583,7 +7971,13 @@
    },
    "text": "Smoke particles in air are seen under a microscope. They move in random zigzag paths. What causes this? (Brownian motion)\nA The smoke particles are alive. B Convection currents in the cell.\nC Fast-moving air molecules, too small to see, collide with them at random. D The smoke particles repel each other.\n",
    "dir": "bank/ws-kinetic-theory-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1263,
+     239
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-03",
@@ -6614,7 +8008,13 @@
    },
    "text": "What is 25 °C on the kelvin scale? A -248 K B 25 K C 248 K D 298 K\n",
    "dir": "bank/ws-kinetic-theory-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1234,
+     200
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-04",
@@ -6646,7 +8046,13 @@
    },
    "text": "A gas is cooled towards absolute zero. What happens to the average kinetic energy of its particles?\nA It decreases towards its lowest possible value. B It stays the same. C It increases. D It becomes zero at 0 °C.\n",
    "dir": "bank/ws-kinetic-theory-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1301,
+     235
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-05",
@@ -6677,7 +8083,13 @@
    },
    "text": "(Supplement) The pressure of a fixed mass of gas is 100 kPa when its volume is 6.0 cm3. The volume is reduced to\n2.0 cm3 at constant temperature. What is the new pressure? (pV = constant, Boyle's law)\nA 33 kPa B 300 kPa C 100 kPa D 600 kPa\n",
    "dir": "bank/ws-kinetic-theory-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1336,
+     241
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-06",
@@ -6708,7 +8120,13 @@
    },
    "text": "(Supplement) Which graph is a straight line through the origin for a fixed mass of gas at constant temperature?\nA p against V, sloping upwards B p against V, horizontal C p against 1/V, horizontal D p against 1/V, sloping upwards\n",
    "dir": "bank/ws-kinetic-theory-06",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1296,
+     239
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-07",
@@ -6755,7 +8173,13 @@
    },
    "text": "A student looks at smoke particles in a glass cell of air using a microscope (Brownian motion). (a) Describe what the\nstudent sees. (b) Explain why the smoke particles move in this way. (c) State what this observation shows about the\nmolecules of air. (d) The cell is warmed. State how the motion of the smoke particles changes.\n",
    "dir": "bank/ws-kinetic-theory-07",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1361,
+     601
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-08",
@@ -6799,7 +8223,13 @@
    },
    "text": "A syringe contains a fixed mass of air, trapped by a sealed end. (a) Explain, in terms of particles, how the air\nexerts a pressure on the walls of the syringe. (b) The plunger is pushed in slowly at constant temperature. State and\nexplain the change in pressure. (c) The syringe is held fixed and warmed. Explain why the pressure rises.\n",
    "dir": "bank/ws-kinetic-theory-08",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1331,
+     771
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-09",
@@ -6843,7 +8273,13 @@
    },
    "text": "Temperature and the kelvin scale. (a) Convert 37 °C to kelvin. (b) Convert 150 K to degrees Celsius. (c) State the\nvalue of absolute zero in °C and describe what the particles have at this temperature.\n",
    "dir": "bank/ws-kinetic-theory-09",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1361,
+     448
+    ]
+   }
   },
   {
    "id": "ws-kinetic-theory-10",
@@ -6892,7 +8328,13 @@
    "notes": "Header says [6] (and 'Section C ... 6 marks') but the part marks printed add to 5 (1+2+2); marks set to 5.",
    "text": "A fixed mass of gas at constant temperature is compressed. Results: p/kPa 100, 200, 250, 400; V/cm3 80, 40, 32, 20.\n(a) Calculate p x V for each pair of readings. (b) State the relationship between p and V shown by the results, and\nthe two conditions needed. (c) Calculate the volume when the pressure is 500 kPa.\n",
    "dir": "bank/ws-kinetic-theory-10",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1361,
+     593
+    ]
+   }
   },
   {
    "id": "ws-momentum-01",
@@ -6951,7 +8393,21 @@
    "markscheme_text": "(a)(i) p = mv = 70 x 20 = 1400 kg m/s (ii) 1400 N s (b) a = 20/0.20 = 100 m/s^2 (c) F = ma = 70 x 80 = 5600 N (d) smaller force on passenger, less likely to be injured.",
    "text": "Fig. 2.1 shows a dummy of mass 70 kg used in a crash test to investigate the safety of a new car (barrier,\npassenger compartment, windscreen). The car approaches a solid barrier at 20 m/s, crashes and stops suddenly.\n(a)(i) Calculate the momentum of the dummy immediately before the crash. (ii) Determine the impulse that must be\napplied to the dummy to bring it to rest. (b) The passenger compartment comes to rest in 0.20 s. Calculate the\ndeceleration. (c) Seat belt and air bag: dummy has average deceleration 80 m/s^2. Calculate the average resultant\nforce on the dummy. (d) The deceleration of the dummy is less than that of the compartment. Explain why this is of\nbenefit for the safety of a passenger.\n",
    "dir": "bank/ws-momentum-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1124,
+     1141
+    ],
+    "q-2.png": [
+     1222,
+     1617
+    ],
+    "ms.png": [
+     1331,
+     382
+    ]
+   }
   },
   {
    "id": "ws-momentum-02",
@@ -6998,7 +8454,17 @@
    "markscheme_text": "(a) 0.15 x 8.0 = 1.2 N s (b) 1.2 N s (c) F = 1.2/0.0015 = 800 N",
    "text": "Fig. 2.1 shows a hammer being used to drive a nail into a piece of wood. Mass of hammer head 0.15 kg, speed 8.0 m/s\nwhen it hits the nail, contact time 0.0015 s; the hammer head stops. (a) Calculate the change in momentum of the\nhammer head. (b) State the impulse given to the nail. (c) Calculate the average force between the hammer and the nail.\n",
    "dir": "bank/ws-momentum-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1309,
+     1597
+    ],
+    "ms.png": [
+     967,
+     360
+    ]
+   }
   },
   {
    "id": "ws-momentum-03",
@@ -7041,7 +8507,17 @@
    "markscheme_text": "(a) p = mv = 0.50 x 0.32 = 0.16 kg m/s (b) 0.16 = (0.50 + 0.30) v, v = 0.20 m/s. Note: sol-practice-sheet-detailed uses wrong masses and gives 1.20 m/s; the short key and this mark scheme give 0.20 m/s.",
    "text": "The engine of an unpowered toy train rolls at constant speed on a level track (Fig. 3.1) and collides with a\nstationary toy truck, joining with it. Engine 0.32 m/s, mass 0.50 kg. (a) Calculate the momentum of the toy engine\nbefore the collision. (b) Mass of truck 0.30 kg. Using the principle of conservation of momentum, calculate the speed\nof the joined engine and truck immediately after the collision.\n",
    "dir": "bank/ws-momentum-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1244,
+     1515
+    ],
+    "ms.png": [
+     1155,
+     223
+    ]
+   }
   },
   {
    "id": "ws-momentum-04",
@@ -7089,7 +8565,17 @@
    "notes": "Printed Cambridge number '1' cropped away; worksheet mark scheme numbers it 4 (Golf).",
    "text": "Fig. 2.1 shows a golfer about to hit a golf ball; initial momentum of the ball is zero. (a) Define momentum.\n(b) Club in contact with ball for 5.0 x 10^-4 s; ball leaves at 41 m/s; mass 0.046 kg. (i) Calculate the impulse on\nthe golf ball. (ii) Calculate the force applied to the ball by the golf club.\n",
    "dir": "bank/ws-momentum-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1169,
+     1558
+    ],
+    "ms.png": [
+     1237,
+     301
+    ]
+   }
   },
   {
    "id": "ws-momentum-05",
@@ -7145,7 +8631,21 @@
    "notes": "Printed Cambridge number '3' cropped away; worksheet mark scheme numbers it 5 (Balloon).",
    "text": "(a) A balloon of mass 15 g is glued to a straw threaded onto a horizontal string (Fig. 3.1). Air is released; the\nballoon accelerates from rest then travels 0.67 m in 0.18 s at constant speed. (i) Explain in words what is meant by\nthe term impulse. (ii) Calculate the resultant impulse on the balloon while it is accelerating. (iii) Explain how\nmomentum is conserved as the balloon accelerates. (b) Fig. 3.2: two perpendicular forces 0.40 N (horizontal) and\n0.74 N (downwards) act on a balloon. Determine the magnitude and direction of the resultant force.\n",
    "dir": "bank/ws-momentum-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1186,
+     1403
+    ],
+    "q-2.png": [
+     1194,
+     1535
+    ],
+    "ms.png": [
+     1220,
+     555
+    ]
+   }
   },
   {
    "id": "ws-momentum-06",
@@ -7190,7 +8690,17 @@
    "notes": "Printed Cambridge number '4' cropped away; worksheet calls it 6 (Pulley). Only part (b) was pasted: part (a) of the original is missing, so the question starts at (b).",
    "text": "Two blocks A and B joined by a thin thread over a frictionless pulley; A at rest on a rough horizontal surface, B held\njust below the pulley (Fig. 1.1). B is released and falls 0.45 m before the thread tightens. Mass of B 0.50 kg.\n(b) Mass of A 2.0 kg; A moves to the right at 0.60 m/s. (i) Calculate the impulse exerted on block A as it accelerates\nfrom rest to 0.60 m/s. (ii) Both blocks move at constant 0.60 m/s until B hits the ground. Explain the energy change\nthat takes place in block A after block B stops moving.\n",
    "dir": "bank/ws-momentum-06",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1192,
+     1516
+    ],
+    "ms.png": [
+     1234,
+     322
+    ]
+   }
   },
   {
    "id": "ws-momentum-07",
@@ -7238,7 +8748,17 @@
    "notes": "Printed Cambridge number '5' cropped away; worksheet calls it 7 (Car collision).",
    "text": "Fig. 3.1 shows a collision at very slow speed between two cars. Car B, 800 kg, moving at 2.0 m/s collides with\nstationary car A, 1000 kg. Afterwards both travel in the initial direction of car B. (a) Car A moves at 1.3 m/s.\nShow that the speed of car B after the collision is approximately 0.4 m/s. (b)(i) Calculate the impulse exerted by\ncar A on car B. (ii) State the impulse exerted by car B on car A.\n",
    "dir": "bank/ws-momentum-07",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1194,
+     1590
+    ],
+    "ms.png": [
+     1218,
+     316
+    ]
+   }
   },
   {
    "id": "ws-momentum-08",
@@ -7287,7 +8807,17 @@
    "notes": "Pasted without a question number.",
    "text": "Fig. 2.1 shows a wooden trolley of mass 1.2 kg at rest on the rough surface of a bench. A ball of mass 0.52 g travels\nhorizontally and embeds itself in the trolley; the trolley moves off at 0.065 m/s. (a) Calculate (i) the impulse\nexerted on the trolley (ii) the speed of the ball as it hits the trolley. (b) Explain, in terms of the work done, the\nenergy change as the trolley slows down and stops.\n",
    "dir": "bank/ws-momentum-08",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1250,
+     1519
+    ],
+    "ms.png": [
+     1221,
+     386
+    ]
+   }
   },
   {
    "id": "ws-momentum-09",
@@ -7340,7 +8870,17 @@
    "notes": "Pasted without a question number or stem; starts at part (a).",
    "text": "(a) State what is meant by the principle of conservation of energy. (b) Fig. 3.1 shows a girl throwing a heavy ball.\n(i) State the energy changes from when the girl begins to exert a force on the ball until it hits the ground and\nstops. (ii) Mass of ball 4.0 kg; force exerted for 0.60 s; speed increases from 0 to 12 m/s. Calculate 1. the\nmomentum of the ball on leaving the girl's hand 2. the average resultant force exerted on the ball.\n",
    "dir": "bank/ws-momentum-09",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1230,
+     1846
+    ],
+    "ms.png": [
+     1193,
+     468
+    ]
+   }
   },
   {
    "id": "ws-scalar-vector-01",
@@ -7374,7 +8914,17 @@
    "markscheme_text": "B (speed, distance, time). Velocity, acceleration, force, weight and momentum are vectors.",
    "text": "Which of the following contains only scalar quantities?\nA) Velocity, Acceleration, Force  B) Speed, Distance, Time  C) Weight, Mass, Energy  D) Momentum, Velocity, Temperature\n",
    "dir": "bank/ws-scalar-vector-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     755,
+     312
+    ],
+    "ms.png": [
+     1441,
+     339
+    ]
+   }
   },
   {
    "id": "ws-scalar-vector-02",
@@ -7408,7 +8958,17 @@
    "notes": "Marks not printed; 2 marks estimated (vector + justification).",
    "text": "State whether Gravitational Field Strength is a scalar or a vector. Justify your answer.\n",
    "dir": "bank/ws-scalar-vector-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1168,
+     51
+    ],
+    "ms.png": [
+     1441,
+     320
+    ]
+   }
   },
   {
    "id": "ws-scalar-vector-03",
@@ -7453,7 +9013,17 @@
    "notes": "Marks not printed; estimated.",
    "text": "An athlete runs 400 m on a circular track and ends up back at the start line.\na) What is their total distance? b) What is their total displacement? (distance vs displacement, scalar vs vector)\n",
    "dir": "bank/ws-scalar-vector-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1017,
+     181
+    ],
+    "ms.png": [
+     1441,
+     264
+    ]
+   }
   },
   {
    "id": "ws-scalar-vector-04",
@@ -7497,7 +9067,17 @@
    "notes": "Marks not printed; estimated.",
    "text": "Two forces act on a block. A 12 N force acts vertically upwards, and a 5 N force acts horizontally to the right.\na) Calculate the magnitude of the resultant force. b) Determine the angle the resultant force makes with the 5 N force.\n(resultant of two perpendicular vectors, Pythagoras, tan)\n",
    "dir": "bank/ws-scalar-vector-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1301,
+     226
+    ],
+    "ms.png": [
+     1441,
+     473
+    ]
+   }
   },
   {
    "id": "ws-scalar-vector-05",
@@ -7531,7 +9111,17 @@
    "notes": "Marks not printed; estimated. Scale drawing; no answer space on the sheet. The key treats the 'South wind' as blowing towards the south (26.6 deg south of west); by the usual convention a south wind blows from the south, which would give 26.6 deg north of west.",
    "text": "Graphical Challenge: Using a scale of 1 cm = 2 m/s, draw a vector diagram for a plane flying West at 20 m/s with a\nSouth wind of 10 m/s. Measure the resultant velocity and angle. (scale drawing, vector diagram, resultant velocity)\n",
    "dir": "bank/ws-scalar-vector-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1255,
+     96
+    ],
+    "ms.png": [
+     1441,
+     250
+    ]
+   }
   },
   {
    "id": "ws12-thermal-01",
@@ -7583,7 +9173,17 @@
    "notes": "Worksheet starts at part (ii); part (a)(i) [1 mark] is missing from the source, so the printed [Total: 9] is one more than the 8 marks shown. Part (c) refers to Fig. 3.1 (numbering from the original paper).",
    "text": "(ii) A domestic refrigerator works at a mean power of 70 W. Calculate the cost of running this refrigerator for one week at a cost of 12p per kW h. cost = £ ... [2]\n(b) A large jug containing 2.0 kg of milk is placed in a refrigerator. The milk cools from 18 °C to 3.0 °C over a time period of 100 minutes. The specific heat capacity of milk is 3800 J kg-1 K-1. Calculate\n(i) the thermal energy removed from the milk as it cools from 18 °C to 3 °C. energy removed = ... J [2]\n(ii) the rate at which thermal energy is removed from the milk. rate = ... J s-1 [1]\n(c) Another container full of milk is placed in a freezer and cooled from 18 °C to -18 °C. Assume that thermal energy is removed at a constant rate and that the freezing-point of milk is 0 °C. The specific heat capacity of milk below 0 °C is significantly less than its value above 0 °C. On Fig. 3.1 sketch a graph to show the variation with time of the temperature of the milk over the range 18 °C to -18 °C. Numbers are not required on the time axis. (Axes: temperature/°C 18, 0, -18 against time.) [3]\n",
    "dir": "bank/ws12-thermal-01",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1396,
+     1318
+    ],
+    "q-2.png": [
+     1387,
+     1086
+    ]
+   }
   },
   {
    "id": "ws12-thermal-02",
@@ -7631,7 +9231,21 @@
    "notes": "Part (b) is an 8-mark extended experiment description (electrical method for c of a liquid) with a long answer space over two pages.",
    "text": "(a) The table shows the specific heat capacities c of alcohol and water: alcohol 2460 J kg-1 K-1, water 4180 J kg-1 K-1.\n(i) An alcohol thermometer is placed in 80 g of water at 20 °C. The mass of alcohol in the thermometer is 0.050 g. The water is then heated from 20 °C to 60 °C. Calculate the ratio energy required to warm the water from 20 °C to 60 °C / energy required to warm the alcohol from 20 °C to 60 °C. ratio = ... [2]\n(ii) State and explain a situation in which the very high value of specific heat capacity for water is useful. [2]\n(b) Describe an electrical experiment to determine the specific heat capacity c of a liquid. Include in your answer: a labelled diagram of the arrangement; a list of the measurements to be taken; an explanation of how the value of c would be determined from your results; possible sources of uncertainty in your measurements and how these could be reduced. [8]\n",
    "dir": "bank/ws12-thermal-02",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1307,
+     1517
+    ],
+    "q-2.png": [
+     1303,
+     1906
+    ],
+    "q-3.png": [
+     1321,
+     937
+    ]
+   }
   },
   {
    "id": "ws12-thermal-03",
@@ -7685,7 +9299,13 @@
    },
    "text": "(a) State the term used for the energy required to change a solid into a liquid. You should use the appropriate technical term spelled correctly. [1]\n(b) (i) Define the internal energy of a system. [2]\n(ii) There is a change in internal energy when a mass of water at 100 °C becomes an equal mass of vapour at 100 °C. Explain why. [2]\n(c) (i) The air in a greenhouse has a volume of 15 m3, a density of 1.2 kg m-3 and a specific heat capacity of 990 J kg-1 K-1. Immediately after sunset, the soil is transferring thermal energy to the air at an average rate of 12 W. Estimate the increase in temperature of the air in the greenhouse one hour after sunset as a result of this energy transfer from the soil. increase in temperature = ... K [3]\n(ii) Suggest two possible reasons why the actual increase in temperature of the air is likely to be much lower than this estimate. [2]\n",
    "dir": "bank/ws12-thermal-03",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1351,
+     1808
+    ]
+   }
   },
   {
    "id": "ws12-thermal-04",
@@ -7740,7 +9360,17 @@
    },
    "text": "(a) Describe (i) the motion of atoms in a solid at a temperature well below its melting point [1]\n(ii) the effect of a small increase in temperature on the motion of these atoms [1]\n(iii) the effect on the internal energy and temperature of the solid when it melts. [2]\n(b) Fig. 6.1 shows the apparatus used to determine the specific heat capacity of a metal. A block made of the metal is heated by an electrical heater that produces a constant power of 48 W. In order to reduce heat loss from the sides, top and bottom of the block, it is covered by a layer of insulating material. (Diagram: metal block with electrical heater, temperature sensors to data logger, insulating material.) Temperature sensors connected to a data logger show that the block and insulation are initially at the room temperature of 18 °C. The heater is switched on and after 720 seconds the sensors show that the temperature of the block is 54 °C and the average temperature of the insulating material is 38 °C.\n(i) Use the information given above and the data shown below to determine the specific heat capacity of the metal block. mass of metal block = 0.98 kg; power of heater = 48 W; specific heat capacity of the insulating material = 850 J kg-1 K-1; mass of the insulating material = 0.027 kg. [4]\n(ii) A second experiment is done without the insulating material and with the block again starting at 18 °C. Discuss whether the value of the specific heat capacity calculated from the second experiment is likely to be lower, the same or higher than the value calculated in (i). [2]\n",
    "dir": "bank/ws12-thermal-04",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1308,
+     1800
+    ],
+    "q-2.png": [
+     1300,
+     1418
+    ]
+   }
   },
   {
    "id": "ws12-thermal-05",
@@ -7795,7 +9425,17 @@
    },
    "text": "A car of mass 970 kg is travelling at 27 m s-1 when the brakes are applied. The car is brought to rest in a distance of 40 m.\n(a) (i) Calculate the kinetic energy of the car when it is travelling at 27 m s-1. [1]\n(ii) Hence calculate the average braking force on the car stating any assumption that you make. [3]\n(b) The car has four brake discs each of mass 1.2 kg. The material from which the discs are made has a specific heat capacity of 520 J kg-1 K-1.\n(i) Calculate the temperature rise of each disc after braking from a speed of 27 m s-1. Assume all the kinetic energy of the car is converted into internal energy of the brake discs equally during braking. [2]\n(ii) State and explain two reasons why the actual temperature rise will be different. [4]\n(iii) Suggest one modification to the design of the disc braking system that could reduce the temperature rise of the discs. [1]\n",
    "dir": "bank/ws12-thermal-05",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1307,
+     1713
+    ],
+    "q-2.png": [
+     1346,
+     1071
+    ]
+   }
   },
   {
    "id": "ws12-thermal-06",
@@ -7848,7 +9488,13 @@
    },
    "text": "(a) In your answer you should use appropriate technical terms spelled correctly. State the terms used to describe the thermal energy required to change (i) a solid into a liquid at a constant temperature [1] (ii) a liquid into a gas at a constant temperature. [1]\n(b) Most households waste energy by overfilling electric kettles. Assume that, on average, 0.80 kg of water per household per day is unnecessarily boiled.\n(i) Estimate the energy required when 0.80 kg of water, initially at 18 °C, is heated in an electric kettle. The kettle switches off automatically when the water is boiling steadily at 100 °C. The specific heat capacity of water is 4200 J kg-1 K-1. heat energy = ... J [2]\n(ii) State and explain two different reasons why the actual quantity of energy required to warm the water to 100 °C is greater than the estimate in (i). [2]\n(iii) Calculate, in kW h, the average annual energy wasted per household by boiling too much water. [2]\n",
    "dir": "bank/ws12-thermal-06",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1309,
+     1942
+    ]
+   }
   },
   {
    "id": "ws12-thermal-07",
@@ -7910,7 +9556,21 @@
    },
    "text": "(a) (i) Define specific heat capacity. [1]\n(ii) Describe the difference between the latent heat of fusion and the latent heat of vaporisation. [1]\n(b) The graph in Fig. 4.1 shows the variation of temperature with time for a fixed mass of substance when heated by a constant power source. At A the substance is a solid; at E the substance is a vapour. (Heating curve A-B rising, B-C flat, C-D rising less steeply, D-E flat.)\n(i) Describe the changes taking place in the kinetic energy and potential energy of the molecules for the following sections: A to B; B to C. [2]\n(ii) State and explain what you can conclude from Fig. 4.1 about the specific heat capacity of the substance in the solid state compared with the specific heat capacity of the substance in the liquid state. [2]\n(c) The electric heating element of a bathroom shower has a power rating of 5.0 kW. An attempt is made to test the accuracy of this value by measuring the rate of flow of the water and the temperature of the water before and after passing the element. temperature of water supply = 17.4 °C; temperature of water after being heated = 36.7 °C; rate of flow of water = 3.60 x 10-3 m3 min-1; density of water = 1000 kg m-3; specific heat capacity of water = 4200 J kg-1 K-1.\n(i) Show that the power of the heating element is approximately 5 kW. [4]\n(ii) State and explain a possible source of uncertainty that might affect the reliability of the test. [2]\n",
    "dir": "bank/ws12-thermal-07",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q-1.png": [
+     1310,
+     1468
+    ],
+    "q-2.png": [
+     1325,
+     1250
+    ],
+    "q-3.png": [
+     1373,
+     1462
+    ]
+   }
   },
   {
    "id": "ws12-thermal-08",
@@ -7959,15 +9619,73 @@
    },
    "text": "A room measures 4.5 m x 4.0 m x 2.4 m. The air in the room is heated by a gas-powered heater from 12 °C to 21 °C. The density of the air, assumed to remain constant, is 1.3 kg m-3.\n(a) Calculate the thermal energy required to raise the temperature of the air in the room. The specific heat capacity of air is 990 J kg-1 K-1. [3]\n(b) The heater has an output power of 2.3 kW. The heating gas has a density 0.72 kg m-3. Each cubic metre of heating gas provides 39 MJ of thermal energy. Use your answer to (a) to calculate (i) the time required to raise the temperature of the air from 12 °C to 21 °C [2] (ii) the mass of heating gas used in this time. [2]\n(c) Suggest two reasons why the time required and the mass of heating gas will in practice be greater than the values calculated in (b). [2]\n",
    "dir": "bank/ws12-thermal-08",
-   "used_in": []
+   "used_in": [],
+   "sizes": {
+    "q.png": [
+     1317,
+     1959
+    ]
+   }
   }
  ],
  "papers": [
   {
-   "file": "sem1-2024-25-given.yaml",
    "name": "Semester 1 Physics IG9 2024-25 (given)",
+   "exam": "First Semester Examination (2024-25)",
    "batch": "ig9-2024-25",
    "status": "given",
+   "note": "Historical paper, recorded from sources/ so its questions count as used for this batch.",
+   "sections": [
+    {
+     "title": "Section I – Multiple Choice Questions",
+     "type": "mcq",
+     "marks": 20,
+     "questions": [
+      "sem1-2024-25-01",
+      "sem1-2024-25-02",
+      "sem1-2024-25-03",
+      "sem1-2024-25-04",
+      "sem1-2024-25-05",
+      "sem1-2024-25-06",
+      "sem1-2024-25-07",
+      "sem1-2024-25-08",
+      "sem1-2024-25-09",
+      "sem1-2024-25-10",
+      "sem1-2024-25-11",
+      "sem1-2024-25-12",
+      "sem1-2024-25-13",
+      "sem1-2024-25-14",
+      "sem1-2024-25-15",
+      "sem1-2024-25-16",
+      "sem1-2024-25-17",
+      "sem1-2024-25-18",
+      "sem1-2024-25-19",
+      "sem1-2024-25-20"
+     ]
+    },
+    {
+     "title": "Section II – Extended Theory",
+     "type": "theory",
+     "marks": 40,
+     "questions": [
+      "sem1-2024-25-21",
+      "sem1-2024-25-22",
+      "sem1-2024-25-23",
+      "sem1-2024-25-24",
+      "sem1-2024-25-25"
+     ]
+    },
+    {
+     "title": "Section III – Alternative to Practical",
+     "type": "atp",
+     "marks": 20,
+     "questions": [
+      "sem1-2024-25-26",
+      "sem1-2024-25-27"
+     ]
+    }
+   ],
+   "file": "sem1-2024-25-given.yaml",
    "questions": [
     "sem1-2024-25-01",
     "sem1-2024-25-02",
@@ -7999,10 +9717,63 @@
    ]
   },
   {
-   "file": "sem1-2025-26-given.yaml",
    "name": "Semester 1 Physics IG9 2025-26 (given)",
+   "exam": "First Semester Examination (2025-26)",
    "batch": "ig9-2025-26",
    "status": "given",
+   "note": "Historical paper, recorded from sources/ so its questions count as used for this batch.",
+   "sections": [
+    {
+     "title": "Section I – Multiple Choice Questions",
+     "type": "mcq",
+     "marks": 20,
+     "questions": [
+      "sem1-2025-26-01",
+      "sem1-2025-26-02",
+      "sem1-2025-26-03",
+      "sem1-2025-26-04",
+      "sem1-2025-26-05",
+      "sem1-2025-26-06",
+      "sem1-2025-26-07",
+      "sem1-2025-26-08",
+      "sem1-2025-26-09",
+      "sem1-2025-26-10",
+      "sem1-2025-26-11",
+      "sem1-2025-26-12",
+      "sem1-2025-26-13",
+      "sem1-2025-26-14",
+      "sem1-2025-26-15",
+      "sem1-2025-26-16",
+      "sem1-2025-26-17",
+      "sem1-2025-26-18",
+      "sem1-2025-26-19",
+      "sem1-2025-26-20"
+     ]
+    },
+    {
+     "title": "Section II – Extended Theory",
+     "type": "theory",
+     "marks": 40,
+     "questions": [
+      "sem1-2025-26-21",
+      "sem1-2025-26-22",
+      "sem1-2025-26-23",
+      "sem1-2025-26-24",
+      "sem1-2025-26-25",
+      "sem1-2025-26-26"
+     ]
+    },
+    {
+     "title": "Section III – Alternative to Practical",
+     "type": "atp",
+     "marks": 20,
+     "questions": [
+      "sem1-2025-26-27",
+      "sem1-2025-26-28"
+     ]
+    }
+   ],
+   "file": "sem1-2025-26-given.yaml",
    "questions": [
     "sem1-2025-26-01",
     "sem1-2025-26-02",
@@ -8035,10 +9806,63 @@
    ]
   },
   {
-   "file": "sem1-2026-27-given.yaml",
    "name": "Semester 1 Physics IG9 2026-27 (given)",
+   "exam": "Semester 1 Examination (2026-27)",
    "batch": "ig9-2026-27",
    "status": "given",
+   "note": "Historical paper, recorded from sources/ so its questions count as used for this batch.",
+   "sections": [
+    {
+     "title": "Section I – Multiple Choice Questions",
+     "type": "mcq",
+     "marks": 20,
+     "questions": [
+      "sem1-2026-27-01",
+      "sem1-2026-27-02",
+      "sem1-2026-27-03",
+      "sem1-2026-27-04",
+      "sem1-2026-27-05",
+      "sem1-2026-27-06",
+      "sem1-2026-27-07",
+      "sem1-2026-27-08",
+      "sem1-2026-27-09",
+      "sem1-2026-27-10",
+      "sem1-2026-27-11",
+      "sem1-2026-27-12",
+      "sem1-2026-27-13",
+      "sem1-2026-27-14",
+      "sem1-2026-27-15",
+      "sem1-2026-27-16",
+      "sem1-2026-27-17",
+      "sem1-2026-27-18",
+      "sem1-2026-27-19",
+      "sem1-2026-27-20"
+     ]
+    },
+    {
+     "title": "Section II – Extended Theory",
+     "type": "theory",
+     "marks": 40,
+     "questions": [
+      "sem1-2026-27-21",
+      "sem1-2026-27-22",
+      "sem1-2026-27-23",
+      "sem1-2026-27-24",
+      "sem1-2026-27-25",
+      "sem1-2026-27-26"
+     ]
+    },
+    {
+     "title": "Section III – Alternative to Practical",
+     "type": "atp",
+     "marks": 20,
+     "questions": [
+      "sem1-2026-27-27",
+      "sem1-2026-27-28"
+     ]
+    }
+   ],
+   "file": "sem1-2026-27-given.yaml",
    "questions": [
     "sem1-2026-27-01",
     "sem1-2026-27-02",
@@ -8071,10 +9895,68 @@
    ]
   },
   {
-   "file": "ut-motion-forces-momentum.yaml",
    "name": "Unit Test 2 Physics IG9 2026-27",
+   "exam": "Unit Test 2 (2026-27)",
+   "class": "IGCSE – Class 9",
+   "time": "45 minutes",
    "batch": "ig9-2026-27",
    "status": "draft",
+   "footer_code": "TSRS Moulsari/IG9/Physics/UT2/2026-27",
+   "sections": [
+    {
+     "title": "Section I – Multiple Choice Questions",
+     "type": "mcq",
+     "marks": 10,
+     "topics": [
+      "1.1",
+      "1.2",
+      "1.3",
+      "1.4",
+      "1.5",
+      "1.6"
+     ],
+     "questions": [
+      "ws-scalar-vector-01",
+      "sme-motion-mcq-01",
+      "sem1-2025-26-18",
+      "sme-motion-mcq-22",
+      "sem1-2025-26-06",
+      "sem1-2024-25-13",
+      "sem1-2025-26-07",
+      "sem1-2024-25-05",
+      "sme-motion-mcq-23",
+      "sme-motion-mcq-25"
+     ]
+    },
+    {
+     "title": "Section II – Structured Questions",
+     "type": "theory",
+     "marks": 10,
+     "topics": [
+      "1.2",
+      "1.4",
+      "1.5",
+      "1.6"
+     ],
+     "questions": [
+      "ws-momentum-05"
+     ]
+    },
+    {
+     "title": "Section III – Alternative to Practical",
+     "type": "atp",
+     "marks": 10,
+     "topics": [
+      "1.1",
+      "1.4",
+      "1.5"
+     ],
+     "questions": [
+      "igexams-hookes-law-atp-02"
+     ]
+    }
+   ],
+   "file": "ut-motion-forces-momentum.yaml",
    "questions": [
     "ws-scalar-vector-01",
     "sme-motion-mcq-01",

@@ -375,7 +375,9 @@ def build_question_paper(paper, sections, out: Path):
                 ip = c1.paragraphs[0]
                 ip.paragraph_format.space_before = Pt(4)
                 ip.paragraph_format.space_after = Pt(10)
-                if i < len(files) - 1:  # keep a multi-crop question's pieces together
+                # Hold a crop with the next only if it is short (a one-line stem): chaining big crops makes
+                # a block taller than a page and Word then strands the section heading.
+                if i < len(files) - 1 and Image.open(f).height / DPI * 2.54 < 8:
                     ip.paragraph_format.keep_with_next = True
                     rp0 = c0.paragraphs[0]
                     rp0.paragraph_format.keep_with_next = True

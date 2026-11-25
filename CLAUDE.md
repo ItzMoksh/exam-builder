@@ -8,3 +8,6 @@ Question bank and paper builder for IGCSE Physics 0625 (Grade 9, TSRS Moulsari).
 - Questions with `status: reviewed` were checked by the teacher: don't change their tags without being asked.
 - `answer_by: claude` marks answers Claude worked out. Never present them as an official key.
 - Content is copyrighted (Cambridge, Save My Exams, igexams…): the repo stays private.
+- Web app: `app/` (see HOSTING.md). It reads `index.json` and `bank/*.png`, so after any bank change run `tools/eb.py index` and commit `index.json`.
+- Question choice and Word layout exist twice: `tools/paper.py` (CLI) and `app/src/suggest.js` + `app/src/word.js` (web). Keep them in step when changing rules. Check with `npm test` in `app/`.
+- The teacher is not technical: keep app wording plain (no ids, no jargon), and make every action undoable or confirmed.

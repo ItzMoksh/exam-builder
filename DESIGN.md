@@ -194,9 +194,9 @@ the bank, and keep the `site` field so the origin of every question stays tracea
 
 | Phase | Deliverable | Proves |
 |---|---|---|
-| **0, this week** | Repo scaffold, `syllabus/0625` tree, schema, ingest the current 19 files with `/ingest`. `/build-paper` in Claude Code produces a .docx from a request in plain words. | That the data model and crops are good enough on real material, before building UI. |
-| **1** | Builder UI: browse/search/filter, blueprint auto-fill with swap/lock, Word export + mark scheme, usage tracking, review queue. Runs locally. | That she can build a paper herself in about 10 minutes. |
-| **2** | Hosted with login, upload-from-UI → ingest by GitHub Action, saving from the UI. | That she can use it without you. |
+| **0, done** | Repo scaffold, `syllabus/0625` tree, schema, ingest the current 19 files with `/ingest`. `/build-paper` in Claude Code produces a .docx from a request in plain words. | That the data model and crops are good enough on real material, before building UI. |
+| **1, mostly done** (not yet: review queue for draft questions, locking questions) | Builder UI: browse/search/filter, blueprint auto-fill with swap/lock, Word export + mark scheme, usage tracking, review queue. Runs locally. | That she can build a paper herself in about 10 minutes. |
+| **2, partly done** | Hosted with login (done: Cloudflare Pages + password, papers saved online), upload-from-UI → ingest by GitHub Action, saving from the UI. | That she can use it without you. |
 | **3** | Ask in plain words, similar questions, gap report, variants, other grades/subjects (the syllabus file is the only thing that changes). | Scale. |
 
 ## 9. Open decisions

@@ -295,7 +295,8 @@ def cmd_index(_args):
         label = paper.get("name") or p.stem
         ids = [qid for s in paper.get("sections", []) for qid in s.get("questions", [])]
         status = paper.get("status", "draft")
-        papers.append({"file": p.name, "name": label, "batch": paper.get("batch"), "status": status, "questions": ids})
+        papers.append({**paper, "file": p.name, "name": label, "batch": paper.get("batch"), "status": status,
+                       "questions": ids})
         if status != "given":  # only papers actually given to students count as used
             continue
         for qid in ids:
@@ -305,6 +306,11 @@ def cmd_index(_args):
         m = yaml.safe_load(meta_path.read_text(encoding="utf-8"))
         m["dir"] = f"bank/{meta_path.parent.name}"
         m["used_in"] = used.get(m["id"], [])
+        sizes = {}  # pixel sizes at DPI, so the web app can lay out Word files without loading images
+        for f in (m.get("images") or {}).get("question", []) + (m.get("images") or {}).get("markscheme", []):
+            with Image.open(meta_path.parent / f) as im:
+                sizes[f] = list(im.size)
+        m["sizes"] = sizes
         questions.append(m)
     syllabus = yaml.safe_load((ROOT / "syllabus" / "0625-2026-28.yaml").read_text(encoding="utf-8"))
     out = {"questions": questions, "papers": papers, "syllabus": syllabus}
