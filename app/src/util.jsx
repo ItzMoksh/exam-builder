@@ -87,6 +87,7 @@ const PATHS = {
   refresh: "M20 11a8 8 0 1 0-2.3 5.7M20 5v6h-6",
   x: "M6 6l12 12M18 6L6 18",
   flag: "M5 21V4h11l-2 4 2 4H5",
+  zoom: "M11 18a7 7 0 1 1 0-14 7 7 0 0 1 0 14zM21 21l-5-5M11 8v6M8 11h6",
 };
 
 export function Icon({ name, size = 18 }) {

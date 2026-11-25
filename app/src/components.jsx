@@ -1,4 +1,4 @@
-import { useState } from "preact/hooks";
+import { useEffect, useState } from "preact/hooks";
 import { DIFFICULTY, TYPE_NAMES, sourceName, topicLabel } from "./data.js";
 import { Icon, px96 } from "./util.jsx";
 
@@ -9,21 +9,57 @@ import { Icon, px96 } from "./util.jsx";
 export function QuestionImage({ q, kind = "question", preview = false }) {
   const all = q.images?.[kind] || [];
   const [open, setOpen] = useState(!preview);
+  const [zoom, setZoom] = useState(false);
   const totalH = all.reduce((t, f) => t + px96((q.sizes?.[f] || [0, 0])[1]), 0);
   const long = preview && (all.length > 1 || totalH > 420);
   const files = open || !long ? all : all.slice(0, 1);
+  const label = kind === "question" ? "question" : "mark scheme";
+  // On a phone the images are shrunk to fit and too small to read: tapping one opens it full screen.
+  const tap = (e) => {
+    const img = e.currentTarget;
+    if (img.clientWidth < Number(img.getAttribute("width")) - 4 || window.innerWidth < 700) setZoom(true);
+  };
   return (
     <div class={"qimg" + (long && !open ? " clipped" : "")}>
       {files.map((f) => {
         const [w, h] = q.sizes?.[f] || [0, 0];
         return <img key={f} src={`/${q.dir}/${f}`} alt={kind === "question" ? q.text?.slice(0, 120) : "Mark scheme"}
-          loading="lazy" width={px96(w)} height={px96(h)} style={{ width: px96(w) + "px" }} />;
+          loading="lazy" width={px96(w)} height={px96(h)} style={{ width: px96(w) + "px" }} onClick={tap} />;
       })}
-      {long && (
-        <button class="link more" onClick={() => setOpen(!open)}>
-          {open ? "Show less" : `Show the whole question${all.length > 1 ? ` (${all.length} pages)` : ""}`}
-        </button>
-      )}
+      <div class="qimg-tools">
+        {long && (
+          <button class="link more" onClick={() => setOpen(!open)}>
+            {open ? "Show less" : `Show the whole ${label}${all.length > 1 ? ` (${all.length} pages)` : ""}`}
+          </button>
+        )}
+        <button class="link enlarge" onClick={() => setZoom(true)}><Icon name="zoom" size={16} /> Enlarge</button>
+      </div>
+      {zoom && <ZoomView q={q} files={all} label={label} onClose={() => setZoom(false)} />}
+    </div>
+  );
+}
+
+/** Full-screen reader for a question on a phone: print size (scroll sideways, pinch to zoom) or fit to width. */
+function ZoomView({ q, files, label, onClose }) {
+  const [fit, setFit] = useState(false);
+  useEffect(() => {
+    const esc = (e) => e.key === "Escape" && onClose();
+    addEventListener("keydown", esc);
+    document.body.classList.add("noscroll");
+    return () => { removeEventListener("keydown", esc); document.body.classList.remove("noscroll"); };
+  }, []);
+  return (
+    <div class="zoomview" role="dialog" aria-modal="true" aria-label={`The whole ${label}`}>
+      <div class="zoom-head">
+        <button class="btn small" onClick={() => setFit(!fit)}>{fit ? "Actual size" : "Fit to screen"}</button>
+        <button class="btn small primary" onClick={onClose}><Icon name="x" size={16} /> Close</button>
+      </div>
+      <div class={"zoom-body" + (fit ? " fit" : "")}>
+        {files.map((f) => {
+          const [w, h] = q.sizes?.[f] || [0, 0];
+          return <img key={f} src={`/${q.dir}/${f}`} alt="" width={px96(w)} height={px96(h)} />;
+        })}
+      </div>
     </div>
   );
 }
@@ -77,9 +113,11 @@ export function TopicChooser({ idx, selected, onChange, counts }) {
   const units = idx.syllabus.topics;
   // onChange gets an updater function, so quick successive clicks never overwrite each other
   const toggle = (code) => onChange((sel) => (sel.includes(code) ? sel.filter((c) => c !== code) : [...sel, code]));
+  const hasQs = (u) => (u.children || []).some((c) => counts[c.code]);
+  const empty = units.filter((u) => !hasQs(u));
   return (
     <div class="topics">
-      {units.map((u) => {
+      {units.filter(hasQs).map((u) => {
         const kids = (u.children || []).map((c) => ({ ...c, n: counts[c.code] || 0 }));
         const total = kids.reduce((t, k) => t + k.n, 0);
         const usable = kids.filter((k) => k.n > 0).map((k) => k.code);
@@ -108,6 +146,9 @@ export function TopicChooser({ idx, selected, onChange, counts }) {
           </fieldset>
         );
       })}
+      {empty.length > 0 && (
+        <p class="muted small">Not in the question bank yet: {empty.map((u) => u.title).join(", ")}.</p>
+      )}
     </div>
   );
 }

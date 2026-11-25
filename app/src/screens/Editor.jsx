@@ -152,13 +152,13 @@ export function Editor({ idx, id }) {
         </div>
         <div class="grow" />
         <button class="btn primary" onClick={() => dl("paper")} disabled={!!busy}>
-          <Icon name="download" /> {busy === "paper" ? "Preparing…" : "Download question paper"}
+          <Icon name="download" /> {busy === "paper" ? "Preparing…" : <><span class="long">Download question paper</span><span class="short">Paper</span></>}
         </button>
         <button class="btn" onClick={() => dl("ms")} disabled={!!busy}>
-          <Icon name="download" /> {busy === "ms" ? "Preparing…" : "Download mark scheme"}
+          <Icon name="download" /> {busy === "ms" ? "Preparing…" : <><span class="long">Download mark scheme</span><span class="short">Mark scheme</span></>}
         </button>
         {!given && (
-          <button class="btn" onClick={() => setConfirmGiven(true)}><Icon name="check" /> Mark as given</button>
+          <button class="btn given-btn" onClick={() => setConfirmGiven(true)}><Icon name="check" /> Mark as given</button>
         )}
       </div>
 
@@ -216,8 +216,8 @@ export function Editor({ idx, id }) {
 
       <div class="actionbar bottom">
         <div class="grow" />
-        <button class="btn primary" onClick={() => dl("paper")} disabled={!!busy}><Icon name="download" /> Download question paper</button>
-        <button class="btn" onClick={() => dl("ms")} disabled={!!busy}><Icon name="download" /> Download mark scheme</button>
+        <button class="btn primary" onClick={() => dl("paper")} disabled={!!busy}><Icon name="download" /> <span class="long">Download question paper</span><span class="short">Paper</span></button>
+        <button class="btn" onClick={() => dl("ms")} disabled={!!busy}><Icon name="download" /> <span class="long">Download mark scheme</span><span class="short">Mark scheme</span></button>
       </div>
 
       {picker !== null && (

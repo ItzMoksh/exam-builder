@@ -49,11 +49,15 @@ export function Papers({ idx }) {
                 <strong>{p.name}</strong>
                 <span class="muted"> · {batchLabel(p.batch)} · {marks(p)} marks</span>
               </a>
-              <span class={"pill " + p.status}>{p.status === "given" ? "Given" : "Draft"}</span>
-              <span class="muted small nowrap">{fmtDate(p.updated)}</span>
+              <span class="row-meta">
+                <span class={"pill " + p.status}>{p.status === "given" ? "Given" : "Draft"}</span>
+                <span class="muted small nowrap">{fmtDate(p.updated)}</span>
+              </span>
+              <span class="row-actions">
               <a class="btn small" href={`#/paper/${encodeURIComponent(p.id)}`}><Icon name="edit" size={16} /> Open</a>
               <button class="btn small ghost" onClick={() => copy(p)} title="Make a copy to change for another class"><Icon name="copy" size={16} /> Copy</button>
               <button class="btn small ghost danger" onClick={() => setToDelete(p)}><Icon name="trash" size={16} /> Delete</button>
+              </span>
             </div>
           ))}
         </div>
@@ -68,6 +72,7 @@ export function Papers({ idx }) {
               <div class="row" key={p.file}>
                 <Icon name="file" />
                 <span class="grow"><strong>{p.exam || p.name}</strong><span class="muted"> · {batchLabel(p.batch)} · {marks(p)} marks</span></span>
+                <span class="row-actions">
                 <button class="btn small ghost" onClick={() => dl(p, "paper")} disabled={!!busy}>
                   <Icon name="download" size={16} /> {busy === p.file + "paper" ? "Preparing…" : "Paper"}
                 </button>
@@ -77,6 +82,7 @@ export function Papers({ idx }) {
                 <button class="btn small ghost" onClick={() => copy({ ...p, id: undefined, sections: p.sections.map((s) => ({ ...s, topics: s.topics || [] })) })}>
                   <Icon name="copy" size={16} /> Copy
                 </button>
+                </span>
               </div>
             ))}
           </div>

@@ -52,13 +52,18 @@ function App() {
     <>
       <header class="topbar">
         <a href="#/" class="brand"><span class="logo">EB</span> Exam Builder</a>
-        <nav>
+        <nav class="topnav" aria-label="Main">
           {nav("/new", "New paper", "plus")}
           {nav("/papers", "My papers", "folder")}
           {nav("/browse", "Question bank", "book")}
         </nav>
       </header>
       <main>{screen}</main>
+      <nav class="tabbar" aria-label="Main">
+        {nav("/new", "New paper", "plus")}
+        {nav("/papers", "My papers", "folder")}
+        {nav("/browse", "Questions", "book")}
+      </nav>
       {mode === "local" && (
         <footer class="footnote">Papers are saved in this browser on this computer.</footer>
       )}
