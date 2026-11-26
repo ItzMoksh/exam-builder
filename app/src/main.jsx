@@ -2,7 +2,7 @@ import { render } from "preact";
 import { useEffect, useState } from "preact/hooks";
 import "./styles.css";
 import { loadIndex, storageMode } from "./data.js";
-import { Icon } from "./util.jsx";
+import { Icon, LotusMark } from "./util.jsx";
 import { Home } from "./screens/Home.jsx";
 import { NewPaper } from "./screens/NewPaper.jsx";
 import { Editor } from "./screens/Editor.jsx";
@@ -51,7 +51,7 @@ function App() {
   return (
     <>
       <header class="topbar">
-        <a href="#/" class="brand"><span class="logo">EB</span> Exam Builder</a>
+        <a href="#/" class="brand" aria-label="Vidya, home"><LotusMark /><span class="brand-name"><strong>Vidya</strong><span>Physics paper builder</span></span></a>
         <nav class="topnav" aria-label="Main">
           {nav("/new", "New paper", "plus")}
           {nav("/papers", "My papers", "folder")}

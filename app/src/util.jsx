@@ -70,6 +70,7 @@ export async function downloadMarkScheme(idx, paper) {
 
 const PATHS = {
   plus: "M12 5v14M5 12h14",
+  kalash: "M8 9h8l-1 10H9zM7 9c0-2 2-3 5-3s5 1 5 3M12 3v3M9 4.5l1 1.5M15 4.5l-1 1.5",
   swap: "M7 7h11l-3-3M17 17H6l3 3",
   trash: "M4 7h16M10 11v6M14 11v6M6 7l1 13h10l1-13M9 7V4h6v3",
   up: "M12 19V5M6 11l6-6 6 6",
@@ -116,4 +117,40 @@ export function Modal({ title, onClose, children, wide }) {
 export function fmtDate(iso) {
   if (!iso) return "";
   return new Date(iso).toLocaleDateString("en-IN", { day: "numeric", month: "short", year: "numeric" });
+}
+
+/** Vidya mark: a lotus rising inside a temple shikhara, with a diya line beneath. */
+export function LotusMark({ size = 44 }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 48 48" aria-hidden="true">
+      <path d="M24 2 C29 9 41 12 43 22 L43 46 L5 46 L5 22 C7 12 19 9 24 2Z" fill="#7E2323" stroke="#E9C46A" stroke-width="1.5" />
+      <path d="M24 17 C28.5 23 28.5 31 24 37 C19.5 31 19.5 23 24 17Z" fill="#F4C557" />
+      <path d="M24 37 C18.5 35.5 13.5 31 12.5 24.5 C18 25.5 22 30 24 37Z" fill="#E58A24" />
+      <path d="M24 37 C29.5 35.5 34.5 31 35.5 24.5 C30 25.5 26 30 24 37Z" fill="#E58A24" />
+      <path d="M13 41 H35" stroke="#F4C557" stroke-width="2" stroke-linecap="round" />
+    </svg>
+  );
+}
+
+/** Small lotus used as a bullet and in the section divider. */
+export function Lotus({ size = 20 }) {
+  return (
+    <svg width={size} height={size} viewBox="0 0 24 24" aria-hidden="true" class="lotus-bullet">
+      <path d="M12 3 C15 8 15 14 12 20 C9 14 9 8 12 3Z" fill="#E07A1F" />
+      <path d="M12 20 C8 19 5 15 4.5 11 C8 12 11 15 12 20Z M12 20 C16 19 19 15 19.5 11 C16 12 13 15 12 20Z" fill="#F0A830" />
+    </svg>
+  );
+}
+
+/** Gold rule with a lotus between two diamonds. */
+export function Divider() {
+  return (
+    <div class="divider" aria-hidden="true">
+      <svg width="72" height="18" viewBox="0 0 72 18">
+        <path d="M2 9 L8 5 L14 9 L8 13Z M58 9 L64 5 L70 9 L64 13Z" fill="#C9A04A" />
+        <path d="M36 1 C40 6 40 12 36 17 C32 12 32 6 36 1Z" fill="#E07A1F" />
+        <path d="M36 17 C31 16 27 13 26 8 C31 9 34 12 36 17Z M36 17 C41 16 45 13 46 8 C41 9 38 12 36 17Z" fill="#F0A830" />
+      </svg>
+    </div>
+  );
 }

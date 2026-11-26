@@ -169,7 +169,8 @@ export function Editor({ idx, id }) {
           <section class="paper-section" key={si}>
             <div class="section-head">
               <div>
-                <h2>{s.title}</h2>
+                {s.title.includes(" – ") && <p class="eyebrow">{s.title.split(" – ")[0]}</p>}
+                <h2>{s.title.includes(" – ") ? s.title.split(" – ").slice(1).join(" – ") : s.title}</h2>
                 <p class={"section-status " + (diff === 0 ? "ok" : "off")}>
                   {diff === 0 ? <><Icon name="check" size={16} /> {got} of {s.marks} marks</>
                     : diff > 0 ? <><Icon name="warn" size={16} /> {got} of {s.marks} marks: add {diff} more</>

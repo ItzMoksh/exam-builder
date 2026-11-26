@@ -1,7 +1,7 @@
 import { useEffect, useState } from "preact/hooks";
 import { batchLabel, deletePaper, listPapers, newId, savePaper } from "../data.js";
 import { sectionMarks } from "../suggest.js";
-import { downloadMarkScheme, downloadPaper, fmtDate, Icon, Modal } from "../util.jsx";
+import { downloadMarkScheme, downloadPaper, fmtDate, Icon, Lotus, Modal } from "../util.jsx";
 
 export function Papers({ idx }) {
   const [papers, setPapers] = useState(null);
@@ -44,7 +44,7 @@ export function Papers({ idx }) {
         <div class="list">
           {papers.map((p) => (
             <div class="row" key={p.id}>
-              <Icon name="file" />
+              <Lotus />
               <a class="grow" href={`#/paper/${encodeURIComponent(p.id)}`}>
                 <strong>{p.name}</strong>
                 <span class="muted"> · {batchLabel(p.batch)} · {marks(p)} marks</span>
@@ -70,7 +70,7 @@ export function Papers({ idx }) {
           <div class="list">
             {school.map((p) => (
               <div class="row" key={p.file}>
-                <Icon name="file" />
+                <Lotus />
                 <span class="grow"><strong>{p.exam || p.name}</strong><span class="muted"> · {batchLabel(p.batch)} · {marks(p)} marks</span></span>
                 <span class="row-actions">
                 <button class="btn small ghost" onClick={() => dl(p, "paper")} disabled={!!busy}>
